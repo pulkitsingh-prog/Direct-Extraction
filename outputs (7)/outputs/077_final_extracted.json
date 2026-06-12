@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Peak UK Bidco Limited",
+      "STATS Intermediate Holdings, LLC"
+    ],
+    "Sponsor_name": [
+      "Vista Equity Partners Management, LLC"
+    ],
+    "MostRecentDocDate": "12/31/2021",
+    "Administrative_Agent": [
+      "Morgan Stanley Senior Funding, Inc."
+    ],
+    "Lead_Arrangers": [
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "BOFA SECURITIES, INC.",
+      "HSBC SECURITIES (USA) INC.",
+      "MIZUHO BANK, LTD.",
+      "BARCLAYS BANK PLC",
+      "MACQUARIE CAPITAL (USA) INC."
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 272.906005859375,
+          "x1": 542.753173828125,
+          "y1": 360.9770202636719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Peak UK Bidco Limited",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 253.5989990234375,
+          "y0": 72.46900177001953,
+          "x1": 358.3960266113281,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "STATS Intermediate Holdings, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 253.5989990234375,
+          "y0": 72.46900177001953,
+          "x1": 358.3960266113281,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Vista Equity Partners Management, LLC",
+        "page": 6,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.32598876953125,
+          "y0": 537.6300048828125,
+          "x1": 315.66998291015625,
+          "y1": 550.9140014648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "December 31, 2021",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 253.5989990234375,
+          "y0": 72.46900177001953,
+          "x1": 358.3960266113281,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 253.5989990234375,
+          "y0": 72.46900177001953,
+          "x1": 358.3960266113281,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 6,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.32598876953125,
+          "y0": 537.6300048828125,
+          "x1": 315.66998291015625,
+          "y1": 550.9140014648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 6,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.32598876953125,
+          "y0": 537.6300048828125,
+          "x1": 315.66998291015625,
+          "y1": 550.9140014648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 6,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.32598876953125,
+          "y0": 537.6300048828125,
+          "x1": 315.66998291015625,
+          "y1": 550.9140014648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 6,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.32598876953125,
+          "y0": 537.6300048828125,
+          "x1": 315.66998291015625,
+          "y1": 550.9140014648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 6,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.32598876953125,
+          "y0": 537.6300048828125,
+          "x1": 315.66998291015625,
+          "y1": 550.9140014648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 6,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.32598876953125,
+          "y0": 537.6300048828125,
+          "x1": 315.66998291015625,
+          "y1": 550.9140014648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 253.5989990234375,
+          "y0": 72.46900177001953,
+          "x1": 358.3960266113281,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

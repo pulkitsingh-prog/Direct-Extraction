@@ -1,0 +1,280 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDED AND RESTATED CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "FOCUS FINANCIAL PARTNERS, LLC"
+    ],
+    "Sponsor_name": [
+      "CD&R",
+      "Stone Point"
+    ],
+    "MostRecentDocDate": "09/04/2024",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS",
+      "SPC FINANCING COMPANY LLC",
+      "TRUIST SECURITIES, INC.",
+      "BOFA SECURITIES, INC.",
+      "MUFG BANK, LTD.",
+      "TD SECURITIES (USA) LLC",
+      "CITIZENS BANK, N.A.",
+      "GOLDMAN SACHS BANK USA",
+      "JPMORGAN CHASE BANK, N.A.",
+      "BMO CAPITAL MARKETS CORP.",
+      "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "MORGAN STANLEY SENIOR FUNDING, INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDED AND RESTATED CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 167.66000366210938,
+          "y0": 110.28797912597656,
+          "x1": 447.30999755859375,
+          "y1": 123.57198333740234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "FOCUS FINANCIAL PARTNERS, LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 167.66000366210938,
+          "y0": 110.28797912597656,
+          "x1": 447.30999755859375,
+          "y1": 123.57198333740234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Stone Point",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "September 4, 2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 352.0299987792969,
+          "y0": 22.068010330200195,
+          "x1": 543.0999755859375,
+          "y1": 35.35200881958008
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 194.3300018310547,
+          "y0": 306.39801025390625,
+          "x1": 420.6700134277344,
+          "y1": 333.4820251464844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SPC FINANCING COMPANY LLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 567.2979736328125,
+          "x1": 317.69000244140625,
+          "y1": 580.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

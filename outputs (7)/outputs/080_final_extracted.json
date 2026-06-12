@@ -1,0 +1,140 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "JOURNEY MERGER SUB, LLC",
+      "MOTUS GROUP, LLC"
+    ],
+    "Sponsor_name": [
+      "Permira Advisers LLC",
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS, LLC",
+      "BARCLAYS BANK PLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 214.72999572753906,
+          "y0": 114.86337280273438,
+          "x1": 400.0299987792969,
+          "y1": 127.08465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "JOURNEY MERGER SUB, LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 78.02400207519531,
+          "y0": 190.46334838867188,
+          "x1": 489.82000732421875,
+          "y1": 228.004638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MOTUS GROUP, LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 140.77999877929688,
+          "y0": 228.62338256835938,
+          "x1": 474.1000061035156,
+          "y1": 253.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Permira Advisers LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 78.02400207519531,
+          "y0": 329.5733642578125,
+          "x1": 316.7300109863281,
+          "y1": 367.1146545410156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 78.02400207519531,
+          "y0": 329.5733642578125,
+          "x1": 316.7300109863281,
+          "y1": 367.1146545410156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 171.25999450683594,
+          "y0": 304.37335205078125,
+          "x1": 443.4700012207031,
+          "y1": 329.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS, LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 78.02400207519531,
+          "y0": 329.5733642578125,
+          "x1": 316.7300109863281,
+          "y1": 367.1146545410156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 78.02400207519531,
+          "y0": 329.5733642578125,
+          "x1": 316.7300109863281,
+          "y1": 367.1146545410156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

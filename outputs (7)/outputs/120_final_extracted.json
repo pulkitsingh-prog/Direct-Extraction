@@ -1,0 +1,224 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "REFINANCING AMENDMENT NO. 4 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "KUEHG Corp."
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "10/30/2024",
+    "Administrative_Agent": [
+      "Barclays Bank PLC"
+    ],
+    "Lead_Arrangers": [
+      "Barclays",
+      "JPMorgan Chase Bank, N.A.",
+      "Morgan Stanley Senior Funding, Inc.",
+      "Goldman Sachs Bank USA",
+      "Macquarie Capital (USA) Inc.",
+      "UBS Securities LLC",
+      "Deutsche Bank Securities Inc.",
+      "Bof. A Securities, Inc."
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "REFINANCING AMENDMENT NO. 4 TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 143.3000030517578,
+          "y0": 72.4768295288086,
+          "x1": 468.6849670410156,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "KUEHG Corp.",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 30, 2024",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Barclays Bank PLC",
+        "page": 12,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 413.6434326171875,
+          "x1": 313.9197692871094,
+          "y1": 425.8647155761719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Barclays",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Macquarie Capital (USA) Inc.",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Bof. A Securities, Inc.",
+        "page": 9,
+        "block_id": 0,
+        "bbox": {
+          "x0": 95.0999984741211,
+          "y0": 192.13681030273438,
+          "x1": 106.04999542236328,
+          "y1": 204.29165649414062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 143.3000030517578,
+          "y0": 72.4768295288086,
+          "x1": 468.6849670410156,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

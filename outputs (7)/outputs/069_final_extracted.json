@@ -1,0 +1,222 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "INTREPID MERGER SUB, INC."
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "10/6/20",
+    "Administrative_Agent": [
+      "MORGAN STANLEY SENIOR FUNDING, INC."
+    ],
+    "Lead_Arrangers": [
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "BARCLAYS BANK PLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "GOLDMAN SACHS BANK USA",
+      "BOFA SECURITIES, INC.",
+      "JEFFERIES FINANCE LLC",
+      "MACQUARIE CAPITAL (USA) INC.",
+      "UBS SECURITIES LLC",
+      "MIZUHO BANK, LTD."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 212.92999267578125,
+          "y0": 141.7279815673828,
+          "x1": 402.19000244140625,
+          "y1": 155.01197814941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "INTREPID MERGER SUB, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 126.26000213623047,
+          "y0": 274.3580017089844,
+          "x1": 488.8599853515625,
+          "y1": 301.4420166015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "10/6/20",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 423.42999267578125,
+          "y0": 36.46797180175781,
+          "x1": 543.0999755859375,
+          "y1": 49.75197219848633
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 100.0999984741211,
+          "y0": 394.9580078125,
+          "x1": 521.1400146484375,
+          "y1": 422.06201171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 565.6179809570312,
+          "x1": 317.69000244140625,
+          "y1": 592.7319946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

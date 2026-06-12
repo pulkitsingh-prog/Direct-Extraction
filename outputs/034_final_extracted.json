@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 6 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "NOVARIA HOLDINGS, LLC"
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "06/07/2024",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC Capital Markets",
+      "KKR Capital Markets LLC",
+      "Sumitomo Mitsui Banking Corporation"
+    ],
+    "AmendmentNumber": "6"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 6 TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 184.07598876953125,
+          "y0": 72.46900177001953,
+          "x1": 427.92401123046875,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "NOVARIA HOLDINGS, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 97.11800384521484,
+          "x1": 542.7560424804688,
+          "y1": 172.54000854492188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 99,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 411.15899658203125,
+          "x1": 542.7420654296875,
+          "y1": 435.9750061035156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "June 7, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 97.11800384521484,
+          "x1": 542.7560424804688,
+          "y1": 172.54000854492188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 97.11800384521484,
+          "x1": 542.7560424804688,
+          "y1": 172.54000854492188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC Capital Markets",
+        "page": 21,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 285.4079895019531,
+          "x1": 542.7459716796875,
+          "y1": 310.2239990234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 21,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 285.4079895019531,
+          "x1": 542.7459716796875,
+          "y1": 310.2239990234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Sumitomo Mitsui Banking Corporation",
+        "page": 21,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 285.4079895019531,
+          "x1": 542.7459716796875,
+          "y1": 310.2239990234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "6",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 184.07598876953125,
+          "y0": 72.46900177001953,
+          "x1": 427.92401123046875,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

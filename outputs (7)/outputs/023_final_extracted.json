@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "GEOSYNTEC CONSULTANTS, INC."
+    ],
+    "Sponsor_name": [
+      "the Blackstone Funds"
+    ],
+    "MostRecentDocDate": "07/21/2024",
+    "Administrative_Agent": [
+      "BANK OF MONTREAL"
+    ],
+    "Lead_Arrangers": [
+      "BMO CAPITAL MARKETS CORP.",
+      "NOMURA SECURITIES INTERNATIONAL, INC.",
+      "INTESA SANPAOLO S.P.A., NEW YORK BRANCH",
+      "MORGAN STANLEY SENIOR FUNDING, INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 255.88999938964844,
+          "y0": 160.94564819335938,
+          "x1": 358.7200012207031,
+          "y1": 171.97137451171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "GEOSYNTEC CONSULTANTS, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 230.42562866210938,
+          "x1": 389.1999816894531,
+          "y1": 253.0013427734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "the Blackstone Funds",
+        "page": 75,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 369.775634765625,
+          "x1": 542.094970703125,
+          "y1": 392.3213806152344
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "JULY 21, 2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 366.6700134277344,
+          "y0": 54.485626220703125,
+          "x1": 542.5899658203125,
+          "y1": 65.51134490966797
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF MONTREAL",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 142.4600067138672,
+          "y0": 288.0556335449219,
+          "x1": 472.1499938964844,
+          "y1": 322.0013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 193.49000549316406,
+          "y0": 345.53564453125,
+          "x1": 421.1199951171875,
+          "y1": 391.0013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 193.49000549316406,
+          "y0": 345.53564453125,
+          "x1": 421.1199951171875,
+          "y1": 391.0013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "INTESA SANPAOLO S.P.A., NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 193.49000549316406,
+          "y0": 345.53564453125,
+          "x1": 421.1199951171875,
+          "y1": 391.0013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 193.49000549316406,
+          "y0": 345.53564453125,
+          "x1": 421.1199951171875,
+          "y1": 391.0013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

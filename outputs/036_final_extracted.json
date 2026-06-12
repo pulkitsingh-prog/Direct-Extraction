@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "RYAN, LLC",
+      "RYAN NL COÖPERATIE U.A."
+    ],
+    "Sponsor_name": [
+      "Ares",
+      "Onex"
+    ],
+    "MostRecentDocDate": "11/14/2023",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "SUMITOMO MITSUI BANKING CORPORATION",
+      "ANTARES CAPITAL LP",
+      "BMO CAPITAL MARKETS CORP.",
+      "BOFA SECURITIES, INC.",
+      "JPMORGAN CHASE BANK, N.A.",
+      "MUFG BANK, LTD.",
+      "ROYAL BANK OF CANADA"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.8520050048828,
+          "y0": 99.61800384521484,
+          "x1": 361.14898681640625,
+          "y1": 111.79500579833984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "RYAN, LLC",
+        "page": 8,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 97.11800384521484,
+          "x1": 542.7625732421875,
+          "y1": 261.0830078125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RYAN NL COÖPERATIE U.A.",
+        "page": 8,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 97.11800384521484,
+          "x1": 542.7625732421875,
+          "y1": 261.0830078125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Ares",
+        "page": 71,
+        "block_id": 2,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 72.46900177001953,
+          "x1": 542.7639770507812,
+          "y1": 97.29499816894531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Onex",
+        "page": 71,
+        "block_id": 2,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 72.46900177001953,
+          "x1": 542.7639770507812,
+          "y1": 97.29499816894531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 14, 2023",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 236.96200561523438,
+          "y0": 124.26700592041016,
+          "x1": 375.03399658203125,
+          "y1": 136.4440155029297
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 205.0399932861328,
+          "y0": 248.80999755859375,
+          "x1": 406.96710205078125,
+          "y1": 273.6360168457031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 187.135009765625,
+          "y0": 348.05499267578125,
+          "x1": 427.6169128417969,
+          "y1": 372.8809814453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 187.135009765625,
+          "y0": 348.05499267578125,
+          "x1": 427.6169128417969,
+          "y1": 372.8809814453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ANTARES CAPITAL LP",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 224.09800720214844,
+          "y0": 373.3529968261719,
+          "x1": 387.8990173339844,
+          "y1": 398.1789855957031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 224.09800720214844,
+          "y0": 373.3529968261719,
+          "x1": 387.8990173339844,
+          "y1": 398.1789855957031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 226.5449981689453,
+          "y0": 398.6510009765625,
+          "x1": 385.4509582519531,
+          "y1": 423.47698974609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 226.5449981689453,
+          "y0": 398.6510009765625,
+          "x1": 385.4509582519531,
+          "y1": 423.47698974609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 258.3320007324219,
+          "y0": 423.9490051269531,
+          "x1": 353.6690368652344,
+          "y1": 436.1260070800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 214.51100158691406,
+          "y0": 436.5979919433594,
+          "x1": 397.48504638671875,
+          "y1": 474.0730285644531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "SUMMIT ACQUISITION INC."
+    ],
+    "Sponsor_name": [
+      "Warburg Pincus LLC"
+    ],
+    "MostRecentDocDate": "10/16/2024",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMORGAN CHASE BANK, N.A.",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "BANCO SANTANDER, S.A., NEW YORK BRANCH",
+      "MUFG BANK, LTD."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 220.55999755859375,
+          "y0": 216.87838745117188,
+          "x1": 394.2213439941406,
+          "y1": 231.749267578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "SUMMIT ACQUISITION INC.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 208.0847625732422,
+          "y0": 353.2996826171875,
+          "x1": 406.683349609375,
+          "y1": 380.7672119140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Warburg Pincus LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.0718078613281,
+          "y0": 403.8077087402344,
+          "x1": 316.6742248535156,
+          "y1": 431.5180969238281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 16, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 220.55999755859375,
+          "y0": 216.87838745117188,
+          "x1": 394.2213439941406,
+          "y1": 231.749267578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 159.111328125,
+          "y0": 441.1228942871094,
+          "x1": 455.51324462890625,
+          "y1": 481.429931640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.0718078613281,
+          "y0": 403.8077087402344,
+          "x1": 316.6742248535156,
+          "y1": 431.5180969238281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.0718078613281,
+          "y0": 403.8077087402344,
+          "x1": 316.6742248535156,
+          "y1": 431.5180969238281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANCO SANTANDER, S.A., NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.0718078613281,
+          "y0": 403.8077087402344,
+          "x1": 316.6742248535156,
+          "y1": 431.5180969238281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.0718078613281,
+          "y0": 403.8077087402344,
+          "x1": 316.6742248535156,
+          "y1": 431.5180969238281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

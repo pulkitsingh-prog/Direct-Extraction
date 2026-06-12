@@ -1,0 +1,322 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "FNZ USA FINCO LLC",
+      "FNZ NZ FINCO LIMITED",
+      "FNZ UK FINCO LIMITED"
+    ],
+    "Sponsor_name": [
+      "the CDPQ-Generation Partnership",
+      "Temasek Holdings Limited",
+      "Canada Pension Plan Investment Board",
+      "Motive Partners GP, LLC"
+    ],
+    "MostRecentDocDate": "11/05/2024",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "BARCLAYS BANK PLC",
+      "BMO CAPITAL MARKETS CORP.",
+      "DEUTSCHE BANK AG, LONDON BRANCH",
+      "HSBC BANK PLC",
+      "LLOYDS BANK CORPORATE MARKETS PLC",
+      "GOLDMAN SACHS INTERNATIONAL",
+      "UBS AG LONDON BRANCH",
+      "BANCO SANTANDER S.A.",
+      "STANDARD CHARTERED BANK",
+      "KOREA INVESTMENT & SECURITIES US, INC.",
+      "HANA SECURITIES CO., LTD"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 252.5,
+          "y0": 116.59220123291016,
+          "x1": 362.0050048828125,
+          "y1": 127.68434143066406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "FNZ USA FINCO LLC",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 245.72000122070312,
+          "y0": 187.05215454101562,
+          "x1": 368.7850036621094,
+          "y1": 209.66432189941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FNZ NZ FINCO LIMITED",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 245.72000122070312,
+          "y0": 187.05215454101562,
+          "x1": 368.7850036621094,
+          "y1": 209.66432189941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FNZ UK FINCO LIMITED",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 245.72000122070312,
+          "y0": 187.05215454101562,
+          "x1": 368.7850036621094,
+          "y1": 209.66432189941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "the CDPQ-Generation Partnership",
+        "page": 97,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 72.43216705322266,
+          "x1": 542.53369140625,
+          "y1": 164.06434631347656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Temasek Holdings Limited",
+        "page": 97,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 72.43216705322266,
+          "x1": 542.53369140625,
+          "y1": 164.06434631347656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Canada Pension Plan Investment Board",
+        "page": 97,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 72.43216705322266,
+          "x1": 542.53369140625,
+          "y1": 164.06434631347656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Motive Partners GP, LLC",
+        "page": 97,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 72.43216705322266,
+          "x1": 542.53369140625,
+          "y1": 164.06434631347656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 5, 2024",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 243.3800048828125,
+          "y0": 140.07217407226562,
+          "x1": 371.125,
+          "y1": 151.16432189941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 213.02000427246094,
+          "y0": 338.0721740722656,
+          "x1": 401.5450134277344,
+          "y1": 360.6842956542969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK AG, LONDON BRANCH",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC BANK PLC",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "LLOYDS BANK CORPORATE MARKETS PLC",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS INTERNATIONAL",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS AG LONDON BRANCH",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANCO SANTANDER S.A.",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "STANDARD CHARTERED BANK",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KOREA INVESTMENT & SECURITIES US, INC.",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HANA SECURITIES CO., LTD",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.760009765625,
+          "y0": 628.6121826171875,
+          "x1": 315.7250061035156,
+          "y1": 639.7042846679688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

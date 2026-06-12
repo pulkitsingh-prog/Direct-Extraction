@@ -1,0 +1,224 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "SECOND AMENDMENT TO FIRST LIEN CREDIT AGREEMENT AND INCREMENTAL FACILITY ASSUMPTION AGREEMENT NO. 2",
+    "LegalIssuer": [
+      "EAB Global, Inc."
+    ],
+    "Sponsor_name": [
+      "Vista Equity Partners Management, LLC",
+      "BC Partners Advisors L.P."
+    ],
+    "MostRecentDocDate": "06/18/2024",
+    "Administrative_Agent": [
+      "Macquarie Capital Funding LLC"
+    ],
+    "Lead_Arrangers": [
+      "Macquarie Capital (USA) Inc.",
+      "UBS Securities LLC",
+      "Deutsche Bank Securities Inc.",
+      "CPPIB Credit Revolver Canada Inc.",
+      "Apollo Global Funding, LLC",
+      "BMO Capital Markets Corp.",
+      "HSBC Securities (USA) Inc."
+    ],
+    "AmendmentNumber": 2
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "SECOND AMENDMENT TO FIRST LIEN CREDIT AGREEMENT AND INCREMENTAL FACILITY ASSUMPTION AGREEMENT NO. 2",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 115.7368392944336,
+          "x1": 542.8049926757812,
+          "y1": 330.29168701171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "EAB Global, Inc.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 115.7368392944336,
+          "x1": 542.8049926757812,
+          "y1": 330.29168701171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Vista Equity Partners Management, LLC",
+        "page": 114,
+        "block_id": 7,
+        "bbox": {
+          "x0": 144.0,
+          "y0": 599.9879760742188,
+          "x1": 482.78887939453125,
+          "y1": 613.27197265625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BC Partners Advisors L.P.",
+        "page": 29,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 72.58802795410156,
+          "x1": 536.78125,
+          "y1": 99.6720199584961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "June 18, 2024",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 115.7368392944336,
+          "x1": 542.8049926757812,
+          "y1": 330.29168701171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Macquarie Capital Funding LLC",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 115.7368392944336,
+          "x1": 542.8049926757812,
+          "y1": 330.29168701171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Macquarie Capital (USA) Inc.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 597.216796875,
+          "x1": 542.7814331054688,
+          "y1": 685.271728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 597.216796875,
+          "x1": 542.7814331054688,
+          "y1": 685.271728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 597.216796875,
+          "x1": 542.7814331054688,
+          "y1": 685.271728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CPPIB Credit Revolver Canada Inc.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 597.216796875,
+          "x1": 542.7814331054688,
+          "y1": 685.271728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Apollo Global Funding, LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 597.216796875,
+          "x1": 542.7814331054688,
+          "y1": 685.271728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 597.216796875,
+          "x1": 542.7814331054688,
+          "y1": 685.271728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC Securities (USA) Inc.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 597.216796875,
+          "x1": 542.7814331054688,
+          "y1": 685.271728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 2,
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 188.5399932861328,
+          "y0": 85.13680267333984,
+          "x1": 426.2649841308594,
+          "y1": 97.29166412353516
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

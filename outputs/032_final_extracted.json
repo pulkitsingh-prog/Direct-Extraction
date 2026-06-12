@@ -1,0 +1,331 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 1 TO TERM LOAN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "VERDE PURCHASER, LLC",
+      "Veritiv Operating Company"
+    ],
+    "Sponsor_name": [
+      "CD&R"
+    ],
+    "MostRecentDocDate": "06/18/2024",
+    "Administrative_Agent": [
+      "Royal Bank of Canada"
+    ],
+    "Lead_Arrangers": [
+      "RBC Capital Markets",
+      "Goldman Sachs Bank USA",
+      "Wells Fargo Securities, LLC",
+      "BMO Capital Markets Corp.",
+      "UBS Securities LLC",
+      "BNP Paribas Securities Corp.",
+      "Mizuho Securities USA LLC",
+      "TD Bank, N.A., New York Branch",
+      "Coöperatieve Rabobank U.A., New York Branch",
+      "Natixis, New York Branch",
+      "Regions Capital Markets, a division of Regions Bank",
+      "Citizens Bank, N.A.",
+      "ING Capital LLC",
+      "Stifel Nicolaus and Company, Inc.",
+      "The Bank of Nova Scotia"
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 1 TO TERM LOAN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 179.3000030517578,
+          "y0": 72.24800109863281,
+          "x1": 510.82000732421875,
+          "y1": 85.5320053100586
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "VERDE PURCHASER, LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 98.04798889160156,
+          "x1": 543.0880126953125,
+          "y1": 221.7320098876953
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Veritiv Operating Company",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 98.04798889160156,
+          "x1": 543.0880126953125,
+          "y1": 221.7320098876953
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": null,
+        "block_id": null,
+        "bbox": null,
+        "page_width": null,
+        "page_height": null
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "June 18, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 98.04798889160156,
+          "x1": 543.0880126953125,
+          "y1": 221.7320098876953
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Royal Bank of Canada",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 260.0780334472656,
+          "x1": 543.0880126953125,
+          "y1": 356.1620178222656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC Capital Markets",
+        "page": 6,
+        "block_id": 10,
+        "bbox": {
+          "x0": 162.02000427246094,
+          "y0": 518.530029296875,
+          "x1": 542.9058837890625,
+          "y1": 531.9819946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 6,
+        "block_id": 10,
+        "bbox": {
+          "x0": 162.02000427246094,
+          "y0": 518.530029296875,
+          "x1": 542.9058837890625,
+          "y1": 531.9819946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Wells Fargo Securities, LLC",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Securities USA LLC",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD Bank, N.A., New York Branch",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Coöperatieve Rabobank U.A., New York Branch",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Natixis, New York Branch",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Regions Capital Markets, a division of Regions Bank",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, N.A.",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING Capital LLC",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Stifel Nicolaus and Company, Inc.",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "The Bank of Nova Scotia",
+        "page": 6,
+        "block_id": 11,
+        "bbox": {
+          "x0": 180.02000427246094,
+          "y0": 532.4979858398438,
+          "x1": 543.0880126953125,
+          "y1": 683.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 179.3000030517578,
+          "y0": 72.24800109863281,
+          "x1": 510.82000732421875,
+          "y1": 85.5320053100586
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

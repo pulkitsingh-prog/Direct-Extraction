@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "DG INVESTMENT INTERMEDIATE HOLDINGS 2, INC."
+    ],
+    "Sponsor_name": [
+      "Ares Corporate Opportunities Fund V, L.P."
+    ],
+    "MostRecentDocDate": "03/31/2021",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "JPMORGAN CHASE BANK, N.A.",
+      "ROYAL BANK OF CANADA",
+      "MIZUHO BANK, LTD.",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "MUFG UNION BANK, N.A.",
+      "CITIBANK, N.A."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 220.55999755859375,
+          "y0": 97.59841918945312,
+          "x1": 394.2276916503906,
+          "y1": 112.46929931640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "DG INVESTMENT INTERMEDIATE HOLDINGS 2, INC.",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 170.63697814941406,
+          "y0": 171.51138305664062,
+          "x1": 444.1380310058594,
+          "y1": 199.10028076171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Ares Corporate Opportunities Fund V, L.P.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 298.0500183105469,
+          "y0": 258.8603820800781,
+          "x1": 316.7679748535156,
+          "y1": 273.73126220703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "March 31, 2021",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 245.76397705078125,
+          "y0": 122.31741333007812,
+          "x1": 369.00946044921875,
+          "y1": 137.18829345703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 179.6240234375,
+          "y0": 221.54440307617188,
+          "x1": 435.0518493652344,
+          "y1": 249.01226806640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 192.80499267578125,
+          "y0": 320.7733459472656,
+          "x1": 421.8125915527344,
+          "y1": 436.7802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 192.80499267578125,
+          "y0": 320.7733459472656,
+          "x1": 421.8125915527344,
+          "y1": 436.7802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 192.80499267578125,
+          "y0": 320.7733459472656,
+          "x1": 421.8125915527344,
+          "y1": 436.7802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 192.80499267578125,
+          "y0": 320.7733459472656,
+          "x1": 421.8125915527344,
+          "y1": 436.7802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 192.80499267578125,
+          "y0": 320.7733459472656,
+          "x1": 421.8125915527344,
+          "y1": 436.7802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG UNION BANK, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 192.80499267578125,
+          "y0": 320.7733459472656,
+          "x1": 421.8125915527344,
+          "y1": 436.7802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIBANK, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 192.80499267578125,
+          "y0": 320.7733459472656,
+          "x1": 421.8125915527344,
+          "y1": 436.7802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

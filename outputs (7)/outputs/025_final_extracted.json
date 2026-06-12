@@ -1,0 +1,294 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT AND RESTATEMENT AGREEMENT TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "WAND NEWCO 3, INC."
+    ],
+    "Sponsor_name": [
+      "Hellman & Friedman LLC",
+      "OMERS Private Equity Inc.",
+      "Leonard Green & Partners, L.P."
+    ],
+    "MostRecentDocDate": "01/30/2024",
+    "Administrative_Agent": [
+      "Bank of America, N.A."
+    ],
+    "Lead_Arrangers": [
+      "Bank of America, N.A.",
+      "Goldman Sachs Bank USA",
+      "Mizuho Bank, Ltd.",
+      "Deutsche Bank Securities Inc.",
+      "Truist Securities, Inc.",
+      "Royal Bank of Canada",
+      "Wells Fargo Securities, LLC",
+      "BMO Capital Markets Corp.",
+      "JPMorgan Chase Bank, N.A.",
+      "Jefferies Finance LLC",
+      "Sumitomo Mitsui Banking Corporation",
+      "PNC Capital Markets LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT AND RESTATEMENT AGREEMENT TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 104.87000274658203,
+          "y0": 72.37228393554688,
+          "x1": 509.7527770996094,
+          "y1": 84.58248901367188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "WAND NEWCO 3, INC.",
+        "page": 10,
+        "block_id": 3,
+        "bbox": {
+          "x0": 292.32000732421875,
+          "y0": 124.57565307617188,
+          "x1": 322.0396728515625,
+          "y1": 135.60137939453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Hellman & Friedman LLC",
+        "page": 101,
+        "block_id": 14,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 595.6856079101562,
+          "x1": 542.5642700195312,
+          "y1": 641.2813720703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "OMERS Private Equity Inc.",
+        "page": 101,
+        "block_id": 14,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 595.6856079101562,
+          "x1": 542.5642700195312,
+          "y1": 641.2813720703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Leonard Green & Partners, L.P.",
+        "page": 101,
+        "block_id": 14,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 595.6856079101562,
+          "x1": 542.5642700195312,
+          "y1": 641.2813720703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "January 30, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.73226928710938,
+          "x1": 542.8436889648438,
+          "y1": 184.90249633789062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Bank of America, N.A.",
+        "page": 10,
+        "block_id": 3,
+        "bbox": {
+          "x0": 292.32000732421875,
+          "y0": 124.57565307617188,
+          "x1": 322.0396728515625,
+          "y1": 135.60137939453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Bank of America, N.A.",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, Ltd.",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Truist Securities, Inc.",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Royal Bank of Canada",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Wells Fargo Securities, LLC",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Sumitomo Mitsui Banking Corporation",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PNC Capital Markets LLC",
+        "page": 76,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 641.1655883789062,
+          "x1": 542.557861328125,
+          "y1": 686.7613525390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

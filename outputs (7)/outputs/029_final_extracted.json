@@ -1,0 +1,294 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 2 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CHARLOTTE BUYER, INC."
+    ],
+    "Sponsor_name": [
+      "CD&R"
+    ],
+    "MostRecentDocDate": "07/08/2024",
+    "Administrative_Agent": [
+      "Goldman Sachs Bank USA"
+    ],
+    "Lead_Arrangers": [
+      "Goldman Sachs Bank USA",
+      "Barclays Bank PLC",
+      "Deutsche Bank Securities Inc.",
+      "UBS AG, Stamford Branch",
+      "UBS Securities LLC",
+      "BNP Paribas Securities Corp",
+      "Citizens Bank, N.A.",
+      "Mizuho Bank, Ltd.",
+      "Royal Bank of Canada",
+      "Truist Securities, Inc",
+      "Truist Bank",
+      "Wells Fargo Securities, LLC",
+      "Natixis, New York Branch"
+    ],
+    "AmendmentNumber": 2
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 2 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 146.66000366210938,
+          "y0": 72.48799133300781,
+          "x1": 465.261962890625,
+          "y1": 85.7719955444336
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CHARLOTTE BUYER, INC.",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 146.66000366210938,
+          "y0": 72.48799133300781,
+          "x1": 465.261962890625,
+          "y1": 85.7719955444336
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 155,
+        "block_id": 3,
+        "bbox": {
+          "x0": 144.0,
+          "y0": 301.7879943847656,
+          "x1": 240.24803161621094,
+          "y1": 315.072021484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 8, 2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 146.66000366210938,
+          "y0": 72.48799133300781,
+          "x1": 465.261962890625,
+          "y1": 85.7719955444336
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 213.36000061035156,
+          "y0": 156.5879669189453,
+          "x1": 398.53411865234375,
+          "y1": 169.87196350097656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS AG, Stamford Branch",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, N.A.",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, Ltd.",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Royal Bank of Canada",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Truist Securities, Inc",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Truist Bank",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Wells Fargo Securities, LLC",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Natixis, New York Branch",
+        "page": 47,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.3599853515625,
+          "y0": 473.38800048828125,
+          "x1": 314.6419677734375,
+          "y1": 486.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 2,
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 146.66000366210938,
+          "y0": 72.48799133300781,
+          "x1": 465.261962890625,
+          "y1": 85.7719955444336
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

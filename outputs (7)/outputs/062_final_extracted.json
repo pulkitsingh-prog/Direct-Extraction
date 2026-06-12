@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "VT TOPCO, INC."
+    ],
+    "Sponsor_name": [
+      "CVC Sponsor",
+      "GIC Sponsor",
+      "LGP Sponsor"
+    ],
+    "MostRecentDocDate": "08/10/2023",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "Goldman Sachs Bank USA",
+      "JPMorgan Chase Bank, N.A.",
+      "BNP Paribas Securities Corp.",
+      "Jefferies Finance LLC",
+      "KKR Capital Markets LLC",
+      "Macquarie Capital (USA) Inc."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 220.55999755859375,
+          "y0": 145.95840454101562,
+          "x1": 394.2213439941406,
+          "y1": 160.82928466796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "VT TOPCO, INC.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 264.2452697753906,
+          "y0": 232.47891235351562,
+          "x1": 350.40142822265625,
+          "y1": 260.06787109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CVC Sponsor",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 298.0607604980469,
+          "y0": 362.4417724609375,
+          "x1": 316.66314697265625,
+          "y1": 377.3126525878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GIC Sponsor",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 298.0607604980469,
+          "y0": 362.4417724609375,
+          "x1": 316.66314697265625,
+          "y1": 377.3126525878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "LGP Sponsor",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 298.0607604980469,
+          "y0": 362.4417724609375,
+          "x1": 316.66314697265625,
+          "y1": 377.3126525878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "August 10, 2023",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 242.88287353515625,
+          "y0": 176.56130981445312,
+          "x1": 371.8863830566406,
+          "y1": 191.43218994140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 204.94940185546875,
+          "y0": 319.1208190917969,
+          "x1": 409.66412353515625,
+          "y1": 346.70977783203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 168.57260131835938,
+          "y0": 436.3656005859375,
+          "x1": 446.0078125,
+          "y1": 489.269287109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 168.57260131835938,
+          "y0": 436.3656005859375,
+          "x1": 446.0078125,
+          "y1": 489.269287109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 168.57260131835938,
+          "y0": 436.3656005859375,
+          "x1": 446.0078125,
+          "y1": 489.269287109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 168.57260131835938,
+          "y0": 436.3656005859375,
+          "x1": 446.0078125,
+          "y1": 489.269287109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 168.57260131835938,
+          "y0": 436.3656005859375,
+          "x1": 446.0078125,
+          "y1": 489.269287109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Macquarie Capital (USA) Inc.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 168.57260131835938,
+          "y0": 436.3656005859375,
+          "x1": 446.0078125,
+          "y1": 489.269287109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

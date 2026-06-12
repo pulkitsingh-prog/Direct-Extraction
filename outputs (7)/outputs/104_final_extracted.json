@@ -1,0 +1,252 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "FIRST ADVANTAGE HOLDINGS, LLC"
+    ],
+    "Sponsor_name": [
+      "Silver Lake Partners V, L.P."
+    ],
+    "MostRecentDocDate": "9/18/24",
+    "Administrative_Agent": [
+      "BANK OF AMERICA, N.A."
+    ],
+    "Lead_Arrangers": [
+      "BOFA SECURITIES, INC.",
+      "BARCLAYS BANK PLC",
+      "BMO CAPITAL MARKETS CORP.",
+      "CITIZENS BANK, N.A.",
+      "HSBC SECURITIES (USA) INC.",
+      "JEFFERIES FINANCE LLC",
+      "KKR CAPITAL MARKETS LLC",
+      "RBC CAPITAL MARKETS",
+      "STIFEL NICOLAUS AND COMPANY, INCORPORATED",
+      "WELLS FARGO SECURITIES, LLC"
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 228.41000366210938,
+          "y0": 106.46566772460938,
+          "x1": 386.1999816894531,
+          "y1": 140.411376953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "FIRST ADVANTAGE HOLDINGS, LLC",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 280.9700012207031,
+          "y0": 278.9356384277344,
+          "x1": 333.5199890136719,
+          "y1": 289.96136474609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Silver Lake Partners V, L.P.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "9/18/24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 54.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 105.97136688232422
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 178.22000122070312,
+          "y0": 347.9356384277344,
+          "x1": 436.239990234375,
+          "y1": 382.0013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "STIFEL NICOLAUS AND COMPANY, INCORPORATED",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8500061035156,
+          "y0": 416.95562744140625,
+          "x1": 315.739990234375,
+          "y1": 439.5013732910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 165.25999450683594,
+          "y0": 198.38565063476562,
+          "x1": 449.3199768066406,
+          "y1": 232.45135498046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

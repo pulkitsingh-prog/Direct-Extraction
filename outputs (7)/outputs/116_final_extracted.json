@@ -1,0 +1,194 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 5 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ACURIS FINANCE S.À R.L.",
+      "ACURIS FINANCE US, INC.",
+      "I-LOGIC TECHNOLOGIES BIDCO LIMITED"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "09/25/2024",
+    "Administrative_Agent": [
+      "UBS AG, Stamford Branch"
+    ],
+    "Lead_Arrangers": [
+      "UBS Securities LLC",
+      "BNP Paribas Securities Corp.",
+      "Goldman Sachs Bank USA",
+      "J.P. Morgan SE",
+      "Jefferies Finance LLC"
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 5 TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 246.7100067138672,
+          "y0": 72.37234497070312,
+          "x1": 370.82171630859375,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ACURIS FINANCE S.À R.L.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 246.7100067138672,
+          "y0": 72.37234497070312,
+          "x1": 370.82171630859375,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ACURIS FINANCE US, INC.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 246.7100067138672,
+          "y0": 72.37234497070312,
+          "x1": 370.82171630859375,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "I-LOGIC TECHNOLOGIES BIDCO LIMITED",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 246.7100067138672,
+          "y0": 72.37234497070312,
+          "x1": 370.82171630859375,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "September 25, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 246.7100067138672,
+          "y0": 72.37234497070312,
+          "x1": 370.82171630859375,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG, Stamford Branch",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 246.7100067138672,
+          "y0": 72.37234497070312,
+          "x1": 370.82171630859375,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS Securities LLC",
+        "page": 12,
+        "block_id": 1,
+        "bbox": {
+          "x0": 243.7100067138672,
+          "y0": 84.98226928710938,
+          "x1": 371.06463623046875,
+          "y1": 110.03256225585938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 12,
+        "block_id": 1,
+        "bbox": {
+          "x0": 243.7100067138672,
+          "y0": 84.98226928710938,
+          "x1": 371.06463623046875,
+          "y1": 110.03256225585938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 12,
+        "block_id": 1,
+        "bbox": {
+          "x0": 243.7100067138672,
+          "y0": 84.98226928710938,
+          "x1": 371.06463623046875,
+          "y1": 110.03256225585938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "J.P. Morgan SE",
+        "page": 12,
+        "block_id": 1,
+        "bbox": {
+          "x0": 243.7100067138672,
+          "y0": 84.98226928710938,
+          "x1": 371.06463623046875,
+          "y1": 110.03256225585938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 12,
+        "block_id": 1,
+        "bbox": {
+          "x0": 243.7100067138672,
+          "y0": 84.98226928710938,
+          "x1": 371.06463623046875,
+          "y1": 110.03256225585938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 246.7100067138672,
+          "y0": 72.37234497070312,
+          "x1": 370.82171630859375,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

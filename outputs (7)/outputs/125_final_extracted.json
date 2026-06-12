@@ -1,0 +1,194 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "SECOND AMENDMENT TO CREDIT AND GUARANTY AGREEMENT",
+    "LegalIssuer": [
+      "MADISON IAQ LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "06/05/2024",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "Goldman",
+      "CIBC Bank USA",
+      "CIBC World Markets Corp.",
+      "HSBC Securities (USA) Inc.",
+      "Capital One, National Association",
+      "Golub Capital LLC",
+      "Stifel Nicolaus and Company, Incorporated"
+    ],
+    "AmendmentNumber": 2
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "SECOND AMENDMENT TO CREDIT AND GUARANTY AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 191.4000244140625,
+          "y0": 72.4768295288086,
+          "x1": 423.34368896484375,
+          "y1": 97.2916030883789
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "MADISON IAQ LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 191.4000244140625,
+          "y0": 72.4768295288086,
+          "x1": 423.34368896484375,
+          "y1": 97.2916030883789
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "June 5, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 191.4000244140625,
+          "y0": 72.4768295288086,
+          "x1": 423.34368896484375,
+          "y1": 97.2916030883789
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 191.4000244140625,
+          "y0": 72.4768295288086,
+          "x1": 423.34368896484375,
+          "y1": 97.2916030883789
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Goldman",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 297.12005615234375,
+          "y0": 595.5634765625,
+          "x1": 314.89654541015625,
+          "y1": 607.7847900390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CIBC Bank USA",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 297.12005615234375,
+          "y0": 595.5634765625,
+          "x1": 314.89654541015625,
+          "y1": 607.7847900390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CIBC World Markets Corp.",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 297.12005615234375,
+          "y0": 595.5634765625,
+          "x1": 314.89654541015625,
+          "y1": 607.7847900390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC Securities (USA) Inc.",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 297.12005615234375,
+          "y0": 595.5634765625,
+          "x1": 314.89654541015625,
+          "y1": 607.7847900390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Capital One, National Association",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 297.12005615234375,
+          "y0": 595.5634765625,
+          "x1": 314.89654541015625,
+          "y1": 607.7847900390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Golub Capital LLC",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 297.12005615234375,
+          "y0": 595.5634765625,
+          "x1": 314.89654541015625,
+          "y1": 607.7847900390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Stifel Nicolaus and Company, Incorporated",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 297.12005615234375,
+          "y0": 595.5634765625,
+          "x1": 314.89654541015625,
+          "y1": 607.7847900390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 2,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 191.4000244140625,
+          "y0": 72.4768295288086,
+          "x1": 423.34368896484375,
+          "y1": 97.2916030883789
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

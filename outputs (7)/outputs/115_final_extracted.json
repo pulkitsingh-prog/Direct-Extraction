@@ -1,0 +1,110 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "INMAR, INC."
+    ],
+    "Sponsor_name": [
+      "OMERS"
+    ],
+    "MostRecentDocDate": "10/30/2024",
+    "Administrative_Agent": [
+      "Jefferies Finance LLC"
+    ],
+    "Lead_Arrangers": "NOT SPECIFIED",
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.67999267578125,
+          "y0": 70.6617660522461,
+          "x1": 463.0852966308594,
+          "y1": 85.94112396240234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "INMAR, INC.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.67999267578125,
+          "y0": 70.6617660522461,
+          "x1": 463.0852966308594,
+          "y1": 85.94112396240234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "OMERS",
+        "page": 88,
+        "block_id": 12,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 481.683349609375,
+          "x1": 230.7607879638672,
+          "y1": 493.9046325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 30, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.67999267578125,
+          "y0": 70.6617660522461,
+          "x1": 463.0852966308594,
+          "y1": 85.94112396240234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.67999267578125,
+          "y0": 70.6617660522461,
+          "x1": 463.0852966308594,
+          "y1": 85.94112396240234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.67999267578125,
+          "y0": 70.6617660522461,
+          "x1": 463.0852966308594,
+          "y1": 85.94112396240234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

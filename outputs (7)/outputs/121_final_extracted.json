@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "TERM LOAN AGREEMENT",
+    "LegalIssuer": [
+      "KODIAK BP, LLC",
+      "AMERICAN BUILDERS SUPPLY, INC."
+    ],
+    "Sponsor_name": [
+      "Court Square Capital Partners, L.P."
+    ],
+    "MostRecentDocDate": "11/20/2024",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS",
+      "BOFA SECURITIES, INC.",
+      "KEYBANC CAPITAL MARKETS INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "TERM LOAN AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 238.85000610351562,
+          "y0": 84.98336791992188,
+          "x1": 376.0299987792969,
+          "y1": 135.24462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "KODIAK BP, LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 263.0899963378906,
+          "y0": 224.18338012695312,
+          "x1": 351.7900085449219,
+          "y1": 249.03466796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AMERICAN BUILDERS SUPPLY, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 263.0899963378906,
+          "y0": 224.18338012695312,
+          "x1": 351.7900085449219,
+          "y1": 249.03466796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Court Square Capital Partners, L.P.",
+        "page": 56,
+        "block_id": 14,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 597.223388671875,
+          "x1": 542.6240844726562,
+          "y1": 622.1646728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "11/20/2024",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 408.30999755859375,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 325.37335205078125,
+          "x1": 316.7300109863281,
+          "y1": 350.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 325.37335205078125,
+          "x1": 316.7300109863281,
+          "y1": 350.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 325.37335205078125,
+          "x1": 316.7300109863281,
+          "y1": 350.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 325.37335205078125,
+          "x1": 316.7300109863281,
+          "y1": 350.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

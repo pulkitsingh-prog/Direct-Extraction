@@ -1,0 +1,222 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST AMENDMENT TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "WP CITYMD BIDCO LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "01/21/2021",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "Credit Suisse Loan Funding LLC",
+      "Goldman Sachs Bank USA",
+      "ING Capital LLC",
+      "Barclays Bank PLC",
+      "Mizuho Bank, Ltd.",
+      "Key. Banc Capital Markets Inc.",
+      "Jefferies Finance LLC",
+      "Truist Securities, Inc.",
+      "Regions Capital Markets"
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST AMENDMENT TO CREDIT AGREEMENT",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "WP CITYMD BIDCO LLC",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "January 21, 2021",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Credit Suisse Loan Funding LLC",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING Capital LLC",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, Ltd.",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Key. Banc Capital Markets Inc.",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Truist Securities, Inc.",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Regions Capital Markets",
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 16,
+        "block_id": 1,
+        "bbox": {
+          "x0": 246.0,
+          "y0": 122.89193725585938,
+          "x1": 365.7945556640625,
+          "y1": 136.15078735351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

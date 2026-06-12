@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 6 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Icebox Holdco III, Inc."
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "11/01/2024",
+    "Administrative_Agent": [
+      "Royal Bank of Canada"
+    ],
+    "Lead_Arrangers": [
+      "RBC Capital Markets, LLC",
+      "UBS Securities LLC",
+      "Barclays Bank PLC",
+      "Banco Santander, S.A.",
+      "Citizens Bank, N.A.",
+      "Natixis, New York Branch",
+      "Société Générale"
+    ],
+    "AmendmentNumber": "6"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 6 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 153.9600067138672,
+          "y0": 82.5417709350586,
+          "x1": 465.36529541015625,
+          "y1": 97.82112884521484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Icebox Holdco III, Inc.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 153.9600067138672,
+          "y0": 82.5417709350586,
+          "x1": 465.36529541015625,
+          "y1": 97.82112884521484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 102,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 209.88333129882812,
+          "x1": 537.245361328125,
+          "y1": 247.30462646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 1, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 153.9600067138672,
+          "y0": 82.5417709350586,
+          "x1": 465.36529541015625,
+          "y1": 97.82112884521484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Royal Bank of Canada",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 153.9600067138672,
+          "y0": 82.5417709350586,
+          "x1": 465.36529541015625,
+          "y1": 97.82112884521484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC Capital Markets, LLC",
+        "page": 7,
+        "block_id": 18,
+        "bbox": {
+          "x0": 44.15999984741211,
+          "y0": 354.7583923339844,
+          "x1": 173.03155517578125,
+          "y1": 382.3492736816406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 7,
+        "block_id": 18,
+        "bbox": {
+          "x0": 44.15999984741211,
+          "y0": 354.7583923339844,
+          "x1": 173.03155517578125,
+          "y1": 382.3492736816406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 7,
+        "block_id": 18,
+        "bbox": {
+          "x0": 44.15999984741211,
+          "y0": 354.7583923339844,
+          "x1": 173.03155517578125,
+          "y1": 382.3492736816406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Banco Santander, S.A.",
+        "page": 7,
+        "block_id": 18,
+        "bbox": {
+          "x0": 44.15999984741211,
+          "y0": 354.7583923339844,
+          "x1": 173.03155517578125,
+          "y1": 382.3492736816406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, N.A.",
+        "page": 7,
+        "block_id": 18,
+        "bbox": {
+          "x0": 44.15999984741211,
+          "y0": 354.7583923339844,
+          "x1": 173.03155517578125,
+          "y1": 382.3492736816406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Natixis, New York Branch",
+        "page": 7,
+        "block_id": 18,
+        "bbox": {
+          "x0": 44.15999984741211,
+          "y0": 354.7583923339844,
+          "x1": 173.03155517578125,
+          "y1": 382.3492736816406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Société Générale",
+        "page": 7,
+        "block_id": 18,
+        "bbox": {
+          "x0": 44.15999984741211,
+          "y0": 354.7583923339844,
+          "x1": 173.03155517578125,
+          "y1": 382.3492736816406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "6",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 153.9600067138672,
+          "y0": 82.5417709350586,
+          "x1": 465.36529541015625,
+          "y1": 97.82112884521484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

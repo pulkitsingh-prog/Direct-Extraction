@@ -1,0 +1,16 @@
+{
+  "document_id": "DOC_001",
+  "document_type": "amendment",
+  "keywords_to_extract": [
+    "Source_Document_Title",
+    "LegalIssuer",
+    "Sponsor_name",
+    "MostRecentDocDate",
+    "Administrative_Agent",
+    "Lead_Arrangers",
+    "AmendmentNumber"
+  ]
+,
+  "strict_mode": true,
+  "output_format": "json"
+}

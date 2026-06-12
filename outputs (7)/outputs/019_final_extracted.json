@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "WILSONART LLC"
+    ],
+    "Sponsor_name": [
+      "CD&R"
+    ],
+    "MostRecentDocDate": "08/05/2024",
+    "Administrative_Agent": [
+      "DEUTSCHE BANK AG NEW YORK BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "DEUTSCHE BANK SECURITIES INC.",
+      "GOLDMAN SACHS BANK USA",
+      "CITIGROUP GLOBAL MARKETS INC.",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "UBS SECURITIES LLC",
+      "BARCLAYS BANK PLC",
+      "WELLS FARGO SECURITIES, LLC",
+      "TD SECURITIES (USA) LLC",
+      "MIZUHO BANK LTD.",
+      "SUMITOMO MITSUI BANKING CORPORATION"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 245.760009765625,
+          "y0": 134.28001403808594,
+          "x1": 369.1199951171875,
+          "y1": 150.4440155029297
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "WILSONART LLC",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 245.760009765625,
+          "y0": 134.28001403808594,
+          "x1": 369.1199951171875,
+          "y1": 150.4440155029297
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 103,
+        "block_id": 15,
+        "bbox": {
+          "x0": 143.99993896484375,
+          "y0": 559.679931640625,
+          "x1": 243.36000061035156,
+          "y1": 575.8440551757812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "August 5, 2024",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 241.67996215820312,
+          "y0": 593.39990234375,
+          "x1": 373.3199157714844,
+          "y1": 623.3638916015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "DEUTSCHE BANK AG NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 185.76004028320312,
+          "y0": 330.4798889160156,
+          "x1": 429.12005615234375,
+          "y1": 360.4438781738281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK LTD.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 304.6799011230469,
+          "x1": 317.6400451660156,
+          "y1": 320.8439025878906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

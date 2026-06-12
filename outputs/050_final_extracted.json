@@ -1,0 +1,280 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDED AND RESTATED CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "GENESYS CLOUD SERVICES HOLDINGS II, LLC",
+      "GENESYS CLOUD SERVICES, INC.",
+      "GENESYS CLOUD SERVICES HOLDINGS III, LLC."
+    ],
+    "Sponsor_name": [
+      "Hellman & Friedman LLC",
+      "Permira Advisors LLC",
+      "Technology Crossover Management VII, Ltd.",
+      "AlpInvest Partners B.V."
+    ],
+    "MostRecentDocDate": "02/08/2024",
+    "Administrative_Agent": [
+      "BANK OF AMERICA, N.A."
+    ],
+    "Lead_Arrangers": [
+      "BANK OF AMERICA, N.A.",
+      "CITIGROUP GLOBAL MARKETS INC.",
+      "GOLDMAN SACHS BANK USA",
+      "ROYAL BANK OF CANADA",
+      "RBC CAPITAL MARKETS",
+      "WELLS FARGO SECURITIES, LLC",
+      "CREDIT SUISSE LOAN FUNDING LLC"
+    ],
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDED AND RESTATED CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 160.94000244140625,
+          "y0": 84.72798156738281,
+          "x1": 454.05999755859375,
+          "y1": 98.0119857788086
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "GENESYS CLOUD SERVICES HOLDINGS II, LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 166.49000549316406,
+          "y0": 260.9179992675781,
+          "x1": 451.6600036621094,
+          "y1": 274.2019958496094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GENESYS CLOUD SERVICES, INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 207.88999938964844,
+          "y0": 300.51800537109375,
+          "x1": 407.260009765625,
+          "y1": 313.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GENESYS CLOUD SERVICES HOLDINGS III, LLC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 164.2100067138672,
+          "y0": 340.1180114746094,
+          "x1": 450.94000244140625,
+          "y1": 353.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Hellman & Friedman LLC",
+        "page": 88,
+        "block_id": 15,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 630.5856323242188,
+          "x1": 542.4788208007812,
+          "y1": 710.4873657226562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Permira Advisors LLC",
+        "page": 88,
+        "block_id": 15,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 630.5856323242188,
+          "x1": 542.4788208007812,
+          "y1": 710.4873657226562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Technology Crossover Management VII, Ltd.",
+        "page": 88,
+        "block_id": 15,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 630.5856323242188,
+          "x1": 542.4788208007812,
+          "y1": 710.4873657226562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AlpInvest Partners B.V.",
+        "page": 88,
+        "block_id": 15,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 630.5856323242188,
+          "x1": 542.4788208007812,
+          "y1": 710.4873657226562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "2/8/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 36.485626220703125,
+          "x1": 542.6099853515625,
+          "y1": 84.25133514404297
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 88.2239990234375,
+          "y0": 417.4179992675781,
+          "x1": 526.9199829101562,
+          "y1": 444.50201416015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 20,
+        "bbox": {
+          "x0": 133.22000122070312,
+          "y0": 516.2979736328125,
+          "x1": 481.7799987792969,
+          "y1": 529.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 22,
+        "bbox": {
+          "x0": 83.54399871826172,
+          "y0": 566.697998046875,
+          "x1": 531.47998046875,
+          "y1": 593.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 20,
+        "bbox": {
+          "x0": 133.22000122070312,
+          "y0": 516.2979736328125,
+          "x1": 481.7799987792969,
+          "y1": 529.5819702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 22,
+        "bbox": {
+          "x0": 83.54399871826172,
+          "y0": 566.697998046875,
+          "x1": 531.47998046875,
+          "y1": 593.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 22,
+        "bbox": {
+          "x0": 83.54399871826172,
+          "y0": 566.697998046875,
+          "x1": 531.47998046875,
+          "y1": 593.8119506835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 23,
+        "bbox": {
+          "x0": 87.98400115966797,
+          "y0": 594.3280029296875,
+          "x1": 527.1599731445312,
+          "y1": 607.6119995117188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 23,
+        "bbox": {
+          "x0": 87.98400115966797,
+          "y0": 594.3280029296875,
+          "x1": 527.1599731445312,
+          "y1": 607.6119995117188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 132.97999572753906,
+          "y0": 163.92799377441406,
+          "x1": 482.0199890136719,
+          "y1": 191.01197814941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

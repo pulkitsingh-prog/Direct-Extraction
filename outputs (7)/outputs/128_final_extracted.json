@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "DRAGON BUYER, INC."
+    ],
+    "Sponsor_name": [
+      "Veritas Capital Fund Management, L.L.C."
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "UBS AG, STAMFORD BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "UBS SECURITIES LLC",
+      "CITIGROUP GLOBAL MARKETS INC.",
+      "RBC CAPITAL MARKETS",
+      "CITIZENS BANK, N.A.",
+      "U.S. BANK NATIONAL ASSOCIATION",
+      "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "MIZUHO BAK, LTD.",
+      "WELLS FARGO SECURITIES, LLC",
+      "TRUIST SECURITIES, INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 241.85000610351562,
+          "y0": 142.20802307128906,
+          "x1": 373.2699890136719,
+          "y1": 169.29200744628906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "DRAGON BUYER, INC.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 239.80999755859375,
+          "y0": 223.80799865722656,
+          "x1": 375.19000244140625,
+          "y1": 250.92201232910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Veritas Capital Fund Management, L.L.C.",
+        "page": 100,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.48799133300781,
+          "x1": 542.8820190429688,
+          "y1": 113.37203216552734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG, STAMFORD BRANCH",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 186.97999572753906,
+          "y0": 361.8380126953125,
+          "x1": 428.1099853515625,
+          "y1": 402.7220153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BAK, LTD.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 296.3299865722656,
+          "y0": 403.2580261230469,
+          "x1": 318.6499938964844,
+          "y1": 430.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "SECOND AMENDMENT TO SENIOR SECURED FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "SOPHOS HOLDINGS, LLC",
+      "SOPHOS HOLDINGS S.À R.L."
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, LP"
+    ],
+    "MostRecentDocDate": "06/26/2023",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "BOFA SECURITIES, INC.",
+      "BARCLAYS BANK PLC",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "HSBC SECURITIES (USA) INC."
+    ],
+    "AmendmentNumber": 2
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "SECOND AMENDMENT TO SENIOR SECURED FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 164.65200805664062,
+          "y0": 72.46900177001953,
+          "x1": 447.35198974609375,
+          "y1": 97.29499816894531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "SOPHOS HOLDINGS, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 109.76700592041016,
+          "x1": 542.756103515625,
+          "y1": 374.92401123046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SOPHOS HOLDINGS S.À R.L.",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, LP",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "June 26, 2023",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 164.65200805664062,
+          "y0": 72.46900177001953,
+          "x1": 447.35198974609375,
+          "y1": 97.29499816894531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 6,
+        "block_id": 20,
+        "bbox": {
+          "x0": 296.8757019042969,
+          "y0": 523.0941772460938,
+          "x1": 312.78778076171875,
+          "y1": 535.3017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 2,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 164.65200805664062,
+          "y0": 72.46900177001953,
+          "x1": 447.35198974609375,
+          "y1": 97.29499816894531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

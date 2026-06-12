@@ -1,0 +1,166 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 6 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Dispatch Terra Acquisition, LLC",
+      "Terra Renewal Services, Inc.",
+      "Dispatch Acquisition Holdings, LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "07/29/2022",
+    "Administrative_Agent": [
+      "UBS AG, Stamford Branch"
+    ],
+    "Lead_Arrangers": [
+      "UBS SECURITIES LLC",
+      "BMO CAPITAL MARKETS CORP.",
+      "KEYBANC CAPITAL MARKETS INC."
+    ],
+    "AmendmentNumber": "6"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 6 TO CREDIT AGREEMENT",
+        "page": 10,
+        "block_id": 1,
+        "bbox": {
+          "x0": 251.75482177734375,
+          "y0": 132.38949584960938,
+          "x1": 362.3454895019531,
+          "y1": 144.64671325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Dispatch Terra Acquisition, LLC",
+        "page": 10,
+        "block_id": 1,
+        "bbox": {
+          "x0": 251.75482177734375,
+          "y0": 132.38949584960938,
+          "x1": 362.3454895019531,
+          "y1": 144.64671325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Terra Renewal Services, Inc.",
+        "page": 10,
+        "block_id": 1,
+        "bbox": {
+          "x0": 251.75482177734375,
+          "y0": 132.38949584960938,
+          "x1": 362.3454895019531,
+          "y1": 144.64671325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Dispatch Acquisition Holdings, LLC",
+        "page": 10,
+        "block_id": 1,
+        "bbox": {
+          "x0": 251.75482177734375,
+          "y0": 132.38949584960938,
+          "x1": 362.3454895019531,
+          "y1": 144.64671325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "July 29, 2022",
+        "page": 10,
+        "block_id": 1,
+        "bbox": {
+          "x0": 251.75482177734375,
+          "y0": 132.38949584960938,
+          "x1": 362.3454895019531,
+          "y1": 144.64671325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG, Stamford Branch",
+        "page": 10,
+        "block_id": 1,
+        "bbox": {
+          "x0": 251.75482177734375,
+          "y0": 132.38949584960938,
+          "x1": 362.3454895019531,
+          "y1": 144.64671325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 10,
+        "block_id": 19,
+        "bbox": {
+          "x0": 299.0943298339844,
+          "y0": 553.0230102539062,
+          "x1": 315.1033935546875,
+          "y1": 565.2802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 10,
+        "block_id": 19,
+        "bbox": {
+          "x0": 299.0943298339844,
+          "y0": 553.0230102539062,
+          "x1": 315.1033935546875,
+          "y1": 565.2802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 10,
+        "block_id": 19,
+        "bbox": {
+          "x0": 299.0943298339844,
+          "y0": 553.0230102539062,
+          "x1": 315.1033935546875,
+          "y1": 565.2802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "6",
+        "page": 10,
+        "block_id": 1,
+        "bbox": {
+          "x0": 251.75482177734375,
+          "y0": 132.38949584960938,
+          "x1": 362.3454895019531,
+          "y1": 144.64671325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

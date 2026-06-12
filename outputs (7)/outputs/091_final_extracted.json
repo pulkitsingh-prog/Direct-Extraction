@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ENGINEERING RESEARCH AND CONSULTING, LLC"
+    ],
+    "Sponsor_name": [
+      "Brightstar Capital Partners Fund II., L.P."
+    ],
+    "MostRecentDocDate": "08/29/2024",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "CITIZENS BANK, N.A.",
+      "KEYBANC CAPITAL MARKETS INC.",
+      "MUFG BANK, LTD.",
+      "SUMITOMO MITSUI BANKING CORPORATION",
+      "CAPITAL ONE, NATIONAL ASSOCIATION",
+      "PINNACLE BANK"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 168.96095275878906,
+          "y0": 168.70175170898438,
+          "x1": 448.50164794921875,
+          "y1": 335.63751220703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ENGINEERING RESEARCH AND CONSULTING, LLC",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Brightstar Capital Partners Fund II., L.P.",
+        "page": 66,
+        "block_id": 7,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 295.83551025390625,
+          "x1": 542.7251586914062,
+          "y1": 323.4292907714844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "August 29, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 168.96095275878906,
+          "y0": 168.70175170898438,
+          "x1": 448.50164794921875,
+          "y1": 335.63751220703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 168.96095275878906,
+          "y0": 168.70175170898438,
+          "x1": 448.50164794921875,
+          "y1": 335.63751220703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CAPITAL ONE, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PINNACLE BANK",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 240.720947265625,
+          "y0": 345.2423095703125,
+          "x1": 376.6817932128906,
+          "y1": 360.1131896972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ARAGORN PARENT CORPORATION"
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "KKR Capital Markets LLC",
+      "Goldman Sachs Bank USA",
+      "Morgan Stanley Senior Funding, Inc.",
+      "ING Capital LLC",
+      "Truist Securities, Inc.",
+      "Credit Agricole Corporate and Investment Bank"
+    ],
+    "AmendmentNumber": 6
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 170.30337524414062,
+          "x1": 542.8599853515625,
+          "y1": 195.3646240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ARAGORN PARENT CORPORATION",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 214.25,
+          "y0": 396.7733459472656,
+          "x1": 403.3900146484375,
+          "y1": 421.6146545410156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 83,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 84.98336791992188,
+          "x1": 542.5299682617188,
+          "y1": 110.04461669921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 188.77999877929688,
+          "y0": 547.2733154296875,
+          "x1": 425.95001220703125,
+          "y1": 572.2146606445312
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 56,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 234.86337280273438,
+          "x1": 542.7997436523438,
+          "y1": 323.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 56,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 234.86337280273438,
+          "x1": 542.7997436523438,
+          "y1": 323.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 56,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 234.86337280273438,
+          "x1": 542.7997436523438,
+          "y1": 323.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING Capital LLC",
+        "page": 56,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 234.86337280273438,
+          "x1": 542.7997436523438,
+          "y1": 323.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Truist Securities, Inc.",
+        "page": 56,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 234.86337280273438,
+          "x1": 542.7997436523438,
+          "y1": 323.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Credit Agricole Corporate and Investment Bank",
+        "page": 56,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 234.86337280273438,
+          "x1": 542.7997436523438,
+          "y1": 323.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 6,
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 170.89999389648438,
+          "y0": 308.8133544921875,
+          "x1": 443.83001708984375,
+          "y1": 321.0346374511719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

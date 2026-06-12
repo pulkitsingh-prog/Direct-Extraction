@@ -1,0 +1,140 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 2 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "OECONNECTION LLC"
+    ],
+    "Sponsor_name": [
+      "Genstar Capital Management, LLC"
+    ],
+    "MostRecentDocDate": "12/17/2021",
+    "Administrative_Agent": [
+      "ANTARES CAPITAL LP"
+    ],
+    "Lead_Arrangers": [
+      "Antares Capital LP",
+      "Golub Capital LLC"
+    ],
+    "AmendmentNumber": "2"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 2 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.36337280273438,
+          "x1": 465.94000244140625,
+          "y1": 96.96466064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "OECONNECTION LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.36337280273438,
+          "x1": 465.94000244140625,
+          "y1": 96.96466064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Genstar Capital Management, LLC",
+        "page": 9,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.6673583984375,
+          "y0": 553.0233154296875,
+          "x1": 312.5988464355469,
+          "y1": 565.285888671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "December 17, 2021",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.36337280273438,
+          "x1": 465.94000244140625,
+          "y1": 96.96466064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ANTARES CAPITAL LP",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.36337280273438,
+          "x1": 465.94000244140625,
+          "y1": 96.96466064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Antares Capital LP",
+        "page": 9,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.6673583984375,
+          "y0": 553.0233154296875,
+          "x1": 312.5988464355469,
+          "y1": 565.285888671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Golub Capital LLC",
+        "page": 9,
+        "block_id": 16,
+        "bbox": {
+          "x0": 296.6673583984375,
+          "y0": 553.0233154296875,
+          "x1": 312.5988464355469,
+          "y1": 565.285888671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "2",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.36337280273438,
+          "x1": 465.94000244140625,
+          "y1": 96.96466064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

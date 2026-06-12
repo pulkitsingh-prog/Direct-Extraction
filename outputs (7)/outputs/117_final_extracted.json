@@ -1,0 +1,194 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 10 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ION Trading Finance Limited",
+      "ION Trading Technologies S.à r.l."
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "06/03/2024",
+    "Administrative_Agent": [
+      "UBS AG, Stamford Branch"
+    ],
+    "Lead_Arrangers": [
+      "UBS Securities LLC",
+      "Goldman Sachs Bank USA",
+      "BNP Paribas Securities Corp.",
+      "Jefferies Finance LLC",
+      "J.P. Morgan SE",
+      "Standard Chartered Bank"
+    ],
+    "AmendmentNumber": 10
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 10 TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 109.70333862304688,
+          "x1": 542.858642578125,
+          "y1": 248.524658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ION Trading Finance Limited",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 244.00999450683594,
+          "y0": 72.38333129882812,
+          "x1": 370.8699951171875,
+          "y1": 84.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ION Trading Technologies S.à r.l.",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 244.00999450683594,
+          "y0": 72.38333129882812,
+          "x1": 370.8699951171875,
+          "y1": 84.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "June 3, 2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 244.00999450683594,
+          "y0": 72.38333129882812,
+          "x1": 370.8699951171875,
+          "y1": 84.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG, Stamford Branch",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 244.00999450683594,
+          "y0": 72.38333129882812,
+          "x1": 370.8699951171875,
+          "y1": 84.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS Securities LLC",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 426.5533752441406,
+          "x1": 543.1359252929688,
+          "y1": 529.6146240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 426.5533752441406,
+          "x1": 543.1359252929688,
+          "y1": 529.6146240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 426.5533752441406,
+          "x1": 543.1359252929688,
+          "y1": 529.6146240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 426.5533752441406,
+          "x1": 543.1359252929688,
+          "y1": 529.6146240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "J.P. Morgan SE",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 426.5533752441406,
+          "x1": 543.1359252929688,
+          "y1": 529.6146240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Standard Chartered Bank",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 426.5533752441406,
+          "x1": 543.1359252929688,
+          "y1": 529.6146240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 10,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 109.70333862304688,
+          "x1": 542.858642578125,
+          "y1": 248.524658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

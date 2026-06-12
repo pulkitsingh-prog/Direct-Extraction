@@ -1,0 +1,126 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 1 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "DERMATOLOGY INTERMEDIATE HOLDINGS III, INC."
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "12/15/2023",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, NEW YORK BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "UBS Securities LLC"
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 1 TO CREDIT AGREEMENT",
+        "page": 7,
+        "block_id": 4,
+        "bbox": {
+          "x0": 298.0199890136719,
+          "y0": 350.7562255859375,
+          "x1": 316.6761169433594,
+          "y1": 362.91107177734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "DERMATOLOGY INTERMEDIATE HOLDINGS III, INC.",
+        "page": 7,
+        "block_id": 4,
+        "bbox": {
+          "x0": 298.0199890136719,
+          "y0": 350.7562255859375,
+          "x1": 316.6761169433594,
+          "y1": 362.91107177734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 89,
+        "block_id": 2,
+        "bbox": {
+          "x0": 71.99984741210938,
+          "y0": 434.93682861328125,
+          "x1": 540.1958618164062,
+          "y1": 472.3511657714844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "December 15, 2023",
+        "page": 7,
+        "block_id": 4,
+        "bbox": {
+          "x0": 298.0199890136719,
+          "y0": 350.7562255859375,
+          "x1": 316.6761169433594,
+          "y1": 362.91107177734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, NEW YORK BRANCH",
+        "page": 7,
+        "block_id": 4,
+        "bbox": {
+          "x0": 298.0199890136719,
+          "y0": 350.7562255859375,
+          "x1": 316.6761169433594,
+          "y1": 362.91107177734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS Securities LLC",
+        "page": 7,
+        "block_id": 4,
+        "bbox": {
+          "x0": 298.0199890136719,
+          "y0": 350.7562255859375,
+          "x1": 316.6761169433594,
+          "y1": 362.91107177734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 7,
+        "block_id": 4,
+        "bbox": {
+          "x0": 298.0199890136719,
+          "y0": 350.7562255859375,
+          "x1": 316.6761169433594,
+          "y1": 362.91107177734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "TWELFTH AMENDMENT",
+    "LegalIssuer": [
+      "Epicor Software Corporation"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "05/30/2024",
+    "Administrative_Agent": [
+      "KKR Loan Administration Services LLC"
+    ],
+    "Lead_Arrangers": [
+      "KKR Corporate Lending LLC",
+      "Barclays Bank PLC",
+      "BNP Paribas Securities Corp.",
+      "Credit Agricole Corporate and Investment Bank",
+      "Jefferies Finance LLC",
+      "MIHI LLC",
+      "Nomura Corporate Funding Americas",
+      "RBC Capital Markets, LLC",
+      "TD Securities (USA) LLC, New York Branch",
+      "UBS AG, Stamford Branch"
+    ],
+    "AmendmentNumber": 12
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "TWELFTH AMENDMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 233.51998901367188,
+          "y0": 99.3480224609375,
+          "x1": 381.47998046875,
+          "y1": 115.95601654052734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Epicor Software Corporation",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 233.51998901367188,
+          "y0": 99.3480224609375,
+          "x1": 381.47998046875,
+          "y1": 115.95601654052734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "May 30, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 233.51998901367188,
+          "y0": 99.3480224609375,
+          "x1": 381.47998046875,
+          "y1": 115.95601654052734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "KKR Loan Administration Services LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 233.51998901367188,
+          "y0": 99.3480224609375,
+          "x1": 381.47998046875,
+          "y1": 115.95601654052734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR Corporate Lending LLC",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Credit Agricole Corporate and Investment Bank",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIHI LLC",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Nomura Corporate Funding Americas",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets, LLC",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD Securities (USA) LLC, New York Branch",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS AG, Stamford Branch",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 407.1000061035156,
+          "y0": 204.8280029296875,
+          "x1": 478.0799255371094,
+          "y1": 221.43600463867188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 12,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 233.51998901367188,
+          "y0": 99.3480224609375,
+          "x1": 381.47998046875,
+          "y1": 115.95601654052734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

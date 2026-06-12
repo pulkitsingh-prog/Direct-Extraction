@@ -1,0 +1,280 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "FIRST TRANSIT PARENT INC.",
+      "FIRST STUDENT BIDCO INC."
+    ],
+    "Sponsor_name": [
+      "EQT Fund Management S.a. r.l."
+    ],
+    "MostRecentDocDate": "07/21/2021",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "BARCLAYS BANK PLC",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "BMO CAPITAL MARKETS CORP.",
+      "TD SECURITIES (USA) LLC",
+      "RBC CAPITAL MARKETS",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "MUFG UNION BANK, N.A.",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "BNP PARIBAS SECURITIES CORP.",
+      "CITIZENS BANK, N.A.",
+      "STIFEL, NICOLAUS & COMPANY, INCORPORATED",
+      "MIZUHO BANK, LTD."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 147.2406463623047,
+          "y0": 117.5968246459961,
+          "x1": 467.4954833984375,
+          "y1": 218.31069946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "FIRST TRANSIT PARENT INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 147.2406463623047,
+          "y0": 117.5968246459961,
+          "x1": 467.4954833984375,
+          "y1": 218.31069946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FIRST STUDENT BIDCO INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 147.2406463623047,
+          "y0": 117.5968246459961,
+          "x1": 467.4954833984375,
+          "y1": 218.31069946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "EQT Fund Management S.a. r.l.",
+        "page": 89,
+        "block_id": 8,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 372.77630615234375,
+          "x1": 542.8508911132812,
+          "y1": 435.5715026855469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 21, 2021",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 147.2406463623047,
+          "y0": 117.5968246459961,
+          "x1": 467.4954833984375,
+          "y1": 218.31069946289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 248.2204132080078,
+          "y0": 342.7151794433594,
+          "x1": 366.4728088378906,
+          "y1": 367.52996826171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG UNION BANK, N.A.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP PARIBAS SECURITIES CORP.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "STIFEL, NICOLAUS & COMPANY, INCORPORATED",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 168.36065673828125,
+          "y0": 379.9747009277344,
+          "x1": 446.36224365234375,
+          "y1": 569.2479858398438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

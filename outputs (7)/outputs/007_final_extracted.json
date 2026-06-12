@@ -1,0 +1,322 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "RAVEN ACQUISITION HOLDINGS, LLC",
+      "R1 RCM Holdco Inc.",
+      "Medical Consultants, Inc.",
+      "SCHEDULING.COM, INC."
+    ],
+    "Sponsor_name": [
+      "CD&R",
+      "TCP"
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "DEUTSCHE BANK AG NEW YORK BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "Deutsche Bank Securities Inc.",
+      "RBC Capital Markets, LLC",
+      "TD Securities (USA) LLC",
+      "UBS Securities LLC",
+      "Wells Fargo Securities, LLC",
+      "BNP Paribas Securities Corp.",
+      "Banco Santander, S.A., New York Branch",
+      "Mizuho Bank, Ltd.",
+      "Natixis, New York Branch",
+      "Sumitomo Mitsui Banking Corporation",
+      "Citizens Banks, N.A.",
+      "Apollo Global Funding, LLC",
+      "Golub Capital LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 245.80999755859375,
+          "y0": 136.08802795410156,
+          "x1": 369.19000244140625,
+          "y1": 149.3720245361328
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "RAVEN ACQUISITION HOLDINGS, LLC",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 245.80999755859375,
+          "y0": 136.08802795410156,
+          "x1": 369.19000244140625,
+          "y1": 149.3720245361328
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "R1 RCM Holdco Inc.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Medical Consultants, Inc.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SCHEDULING.COM, INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TCP",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "DEUTSCHE BANK AG NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets, LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD Securities (USA) LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Wells Fargo Securities, LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Banco Santander, S.A., New York Branch",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, Ltd.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Natixis, New York Branch",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Sumitomo Mitsui Banking Corporation",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Banks, N.A.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Apollo Global Funding, LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Golub Capital LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 306.51800537109375,
+          "x1": 317.69000244140625,
+          "y1": 319.802001953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FOURTH AMENDMENT",
+    "LegalIssuer": [
+      "Sharp Services, LLC"
+    ],
+    "Sponsor_name": [
+      "CD&R"
+    ],
+    "MostRecentDocDate": "04/03/2024",
+    "Administrative_Agent": [
+      "JPMorgan Chase Bank, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMorgan Chase Bank, N.A."
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FOURTH AMENDMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.5,
+          "y0": 72.51100158691406,
+          "x1": 370.5,
+          "y1": 85.79500579833984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Sharp Services, LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.5,
+          "y0": 72.51100158691406,
+          "x1": 370.5,
+          "y1": 85.79500579833984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 128,
+        "block_id": 3,
+        "bbox": {
+          "x0": 144.0,
+          "y0": 72.52796936035156,
+          "x1": 243.34803771972656,
+          "y1": 85.81197357177734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "April 3, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.5,
+          "y0": 72.51100158691406,
+          "x1": 370.5,
+          "y1": 85.79500579833984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 24,
+        "block_id": 4,
+        "bbox": {
+          "x0": 212.760009765625,
+          "y0": 142.7279815673828,
+          "x1": 402.1738586425781,
+          "y1": 156.01197814941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 14,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 232.70199584960938,
+          "x1": 542.9880981445312,
+          "y1": 287.38299560546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.5,
+          "y0": 72.51100158691406,
+          "x1": 370.5,
+          "y1": 85.79500579833984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

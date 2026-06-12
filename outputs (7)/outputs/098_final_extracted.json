@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CONGRUEX GROUP LLC"
+    ],
+    "Sponsor_name": [
+      "Crestview CX Holdings, L.P."
+    ],
+    "MostRecentDocDate": "05/03/2022",
+    "Administrative_Agent": [
+      "KEYBANK NATIONAL ASSOCIATION"
+    ],
+    "Lead_Arrangers": [
+      "KEYBANC CAPITAL MARKETS INC.",
+      "CITIZENS BANK, N.A.",
+      "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "MIDCAP FINANCIAL TRUST"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 252.48023986816406,
+          "y0": 187.93215942382812,
+          "x1": 361.9517822265625,
+          "y1": 199.02430725097656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CONGRUEX GROUP LLC",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 248.04135131835938,
+          "y0": 258.3717956542969,
+          "x1": 366.34759521484375,
+          "y1": 280.98394775390625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Crestview CX Holdings, L.P.",
+        "page": 65,
+        "block_id": 5,
+        "bbox": {
+          "x0": 144.00074768066406,
+          "y0": 153.43209838867188,
+          "x1": 504.190673828125,
+          "y1": 164.5242462158203
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "May 3, 2022",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 257.6405334472656,
+          "y0": 211.45211791992188,
+          "x1": 356.8247375488281,
+          "y1": 222.5442657470703
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "KEYBANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 151.02162170410156,
+          "y0": 375.37139892578125,
+          "x1": 463.5904846191406,
+          "y1": 409.5035095214844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 94.19999694824219,
+          "y0": 493.8721618652344,
+          "x1": 520.3048095703125,
+          "y1": 528.0042724609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 94.19999694824219,
+          "y0": 493.8721618652344,
+          "x1": 520.3048095703125,
+          "y1": 528.0042724609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 94.19999694824219,
+          "y0": 493.8721618652344,
+          "x1": 520.3048095703125,
+          "y1": 528.0042724609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIDCAP FINANCIAL TRUST",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 94.19999694824219,
+          "y0": 493.8721618652344,
+          "x1": 520.3048095703125,
+          "y1": 528.0042724609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

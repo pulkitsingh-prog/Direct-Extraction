@@ -1,0 +1,126 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "SHOWTIME ACQUISITION, L.L.C."
+    ],
+    "Sponsor_name": [
+      "ZMC Management, L.L.C."
+    ],
+    "MostRecentDocDate": "08/16/2024",
+    "Administrative_Agent": [
+      "DEUTSCHE BANK AG NEW YORK BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "DEUTSCHE BANK SECURITIES INC.",
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 247.17300415039062,
+          "y0": 252.95199584960938,
+          "x1": 364.82904052734375,
+          "y1": 265.1289978027344
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "SHOWTIME ACQUISITION, L.L.C.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 247.17300415039062,
+          "y0": 252.95199584960938,
+          "x1": 364.82904052734375,
+          "y1": 265.1289978027344
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "ZMC Management, L.L.C.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 297.13201904296875,
+          "y0": 440.09100341796875,
+          "x1": 314.8639831542969,
+          "y1": 452.26800537109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "August 16, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 240.91299438476562,
+          "y0": 277.60101318359375,
+          "x1": 371.0870056152344,
+          "y1": 289.77801513671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "DEUTSCHE BANK AG NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 162.3909912109375,
+          "y0": 364.84600830078125,
+          "x1": 449.6119079589844,
+          "y1": 427.6190185546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 297.13201904296875,
+          "y0": 440.09100341796875,
+          "x1": 314.8639831542969,
+          "y1": 452.26800537109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 297.13201904296875,
+          "y0": 440.09100341796875,
+          "x1": 314.8639831542969,
+          "y1": 452.26800537109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

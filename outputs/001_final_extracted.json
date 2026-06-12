@@ -1,0 +1,255 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "SECOND AMENDMENT TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Project Alpha Intermediate Holding, Inc."
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "11/26/2024",
+    "Administrative_Agent": [
+      "Morgan Stanley Senior Funding, Inc."
+    ],
+    "Lead_Arrangers": [
+      "Morgan Stanley Senior Funding, Inc.",
+      "BMO Capital Markets Corp.",
+      "Goldman Sachs Bank USA",
+      "HSBC Securities (USA) Inc.",
+      "Bof. A Securities, Inc.",
+      "Citibank, N.A.",
+      "Mizuho Bank, Ltd.",
+      "The Bank of Nova Scotia",
+      "Truist Securities, Inc.",
+      "UBS Securities LLC"
+    ],
+    "AmendmentNumber": 2
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "SECOND AMENDMENT TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 174.89999389648438,
+          "y0": 72.4768295288086,
+          "x1": 439.7727355957031,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Project Alpha Intermediate Holding, Inc.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.99984741210938,
+          "y0": 97.13680267333984,
+          "x1": 542.8167114257812,
+          "y1": 286.349365234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 119,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.00221252441406,
+          "y0": 434.0942687988281,
+          "x1": 542.8092651367188,
+          "y1": 471.5690002441406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 26, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.99984741210938,
+          "y0": 97.13680267333984,
+          "x1": 542.8167114257812,
+          "y1": 286.349365234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0},
+        {
+        "status":"incorrect",
+        "feedback": "latest document date is not taken , it is 18 december 2024 as per amenndment date mentioned in the document"
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.99984741210938,
+          "y0": 97.13680267333984,
+          "x1": 542.8167114257812,
+          "y1": 286.349365234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC Securities (USA) Inc.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Bof. A Securities, Inc.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citibank, N.A.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, Ltd.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "The Bank of Nova Scotia",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Truist Securities, Inc.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.003173828125,
+          "y0": 222.29550170898438,
+          "x1": 542.890380859375,
+          "y1": 297.6895751953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 2,
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.99984741210938,
+          "y0": 97.13680267333984,
+          "x1": 542.8167114257812,
+          "y1": 286.349365234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

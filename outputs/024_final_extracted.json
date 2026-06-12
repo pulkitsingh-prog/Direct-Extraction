@@ -1,0 +1,140 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "HOBBS & ASSOCIATES, LLC"
+    ],
+    "Sponsor_name": [
+      "the MDP Funds",
+      "the Blackstone Funds"
+    ],
+    "MostRecentDocDate": "7.11.2024",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS",
+      "[●]"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 72.38333129882812,
+          "x1": 363.9100036621094,
+          "y1": 136.08465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "HOBBS & ASSOCIATES, LLC",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 232.85000610351562,
+          "y0": 209.66336059570312,
+          "x1": 382.0299987792969,
+          "y1": 221.8846435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "the MDP Funds",
+        "page": 107,
+        "block_id": 16,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 658.5433349609375,
+          "x1": 542.8599853515625,
+          "y1": 708.8006591796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "the Blackstone Funds",
+        "page": 107,
+        "block_id": 16,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 658.5433349609375,
+          "x1": 542.8599853515625,
+          "y1": 708.8006591796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "7.11.2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 390.9100036621094,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 120.26000213623047,
+          "y0": 284.933349609375,
+          "x1": 494.5,
+          "y1": 309.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 239.69000244140625,
+          "y0": 384.5686340332031,
+          "x1": 377.95001220703125,
+          "y1": 397.1146545410156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "[●]",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.010009765625,
+          "y0": 322.25335693359375,
+          "x1": 319.3699951171875,
+          "y1": 334.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

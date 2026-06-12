@@ -1,0 +1,140 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIFTH AMENDMENT TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Imprivata, Inc."
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "09/17/2024",
+    "Administrative_Agent": [
+      "Goldman Sachs Bank USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS & CO. LLC",
+      "GOLUB CAPITAL LLC"
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIFTH AMENDMENT TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.1999969482422,
+          "y0": 70.5417709350586,
+          "x1": 376.1971435546875,
+          "y1": 98.5392074584961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Imprivata, Inc.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.1999969482422,
+          "y0": 70.5417709350586,
+          "x1": 376.1971435546875,
+          "y1": 98.5392074584961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 112,
+        "block_id": 7,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 360.6029968261719,
+          "x1": 542.7560424804688,
+          "y1": 410.6969909667969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "September 17, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.1999969482422,
+          "y0": 70.5417709350586,
+          "x1": 376.1971435546875,
+          "y1": 98.5392074584961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.1999969482422,
+          "y0": 70.5417709350586,
+          "x1": 376.1971435546875,
+          "y1": 98.5392074584961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS & CO. LLC",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 292.0579833984375,
+          "y0": 486.9000244140625,
+          "x1": 310.6920166015625,
+          "y1": 499.0770263671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLUB CAPITAL LLC",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 292.0579833984375,
+          "y0": 486.9000244140625,
+          "x1": 310.6920166015625,
+          "y1": 499.0770263671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.1999969482422,
+          "y0": 70.5417709350586,
+          "x1": 376.1971435546875,
+          "y1": 98.5392074584961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

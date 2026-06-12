@@ -1,0 +1,185 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 6 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Icebox Holdco III, Inc."
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "11/01/2024",
+    "Administrative_Agent": [
+      "Royal Bank of Canada"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS, LLC",
+      "UBS SECURITIES LLC",
+      "BARCLAYS BANK PLC",
+      "BANCO SANTANDER, S.A.",
+      "CITIZENS BANK, N.A."
+
+    ],
+    "AmendmentNumber": "6"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 6 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 153.9600067138672,
+          "y0": 82.5417709350586,
+          "x1": 465.36529541015625,
+          "y1": 97.82112884521484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Icebox Holdco III, Inc.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.98806762695312,
+          "y0": 107.31552124023438,
+          "x1": 547.3667602539062,
+          "y1": 223.4451904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 102,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 209.88333129882812,
+          "x1": 537.245361328125,
+          "y1": 247.30462646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 1, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.98806762695312,
+          "y0": 107.31552124023438,
+          "x1": 547.3667602539062,
+          "y1": 223.4451904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Royal Bank of Canada",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.98806762695312,
+          "y0": 107.31552124023438,
+          "x1": 547.3667602539062,
+          "y1": 223.4451904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS, LLC",
+        "page": 9,
+        "block_id": 12,
+        "bbox": {
+          "x0": 87.719970703125,
+          "y0": 448.0833740234375,
+          "x1": 524.2271118164062,
+          "y1": 498.22467041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 9,
+        "block_id": 12,
+        "bbox": {
+          "x0": 87.719970703125,
+          "y0": 448.0833740234375,
+          "x1": 524.2271118164062,
+          "y1": 498.22467041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 9,
+        "block_id": 12,
+        "bbox": {
+          "x0": 87.719970703125,
+          "y0": 448.0833740234375,
+          "x1": 524.2271118164062,
+          "y1": 498.22467041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANCO SANTANDER, S.A.",
+        "page": 9,
+        "block_id": 12,
+        "bbox": {
+          "x0": 87.719970703125,
+          "y0": 448.0833740234375,
+          "x1": 524.2271118164062,
+          "y1": 498.22467041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 9,
+        "block_id": 12,
+        "bbox": {
+          "x0": 87.719970703125,
+          "y0": 448.0833740234375,
+          "x1": 524.2271118164062,
+          "y1": 498.22467041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {"Status":"incorrect",
+       "feedback":"NATIXIS, NEW YORK BRANCH is not mentioned in the output as lead arranger"}
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "6",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 153.9600067138672,
+          "y0": 82.5417709350586,
+          "x1": 465.36529541015625,
+          "y1": 97.82112884521484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CPI HOLDCO B, LLC"
+    ],
+    "Sponsor_name": [
+      "General Atlantic Service Company, L.P.",
+      "TPG Global LLC"
+    ],
+    "MostRecentDocDate": "10.21.24",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA",
+      "CITIZENS BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "CITIZENS BANK, N.A.",
+      "BMO CAPITAL MARKETS CORP.",
+      "CAPITAL ONE, NATIONAL ASSOCIATION",
+      "MUFG BANK, LTD.",
+      "WELLS FARGO SECURITIES, LLC",
+      "MIZUHO BANK, LTD.",
+      "U.S. BANK NATIONAL ASSOCIATION"
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 256.1300048828125,
+          "y0": 180.50564575195312,
+          "x1": 358.3599853515625,
+          "y1": 191.5313720703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CPI HOLDCO B, LLC",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 228.64999389648438,
+          "y0": 250.97561645507812,
+          "x1": 387.8800048828125,
+          "y1": 262.0013427734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "General Atlantic Service Company, L.P.",
+        "page": 46,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 583.5455932617188,
+          "x1": 542.412353515625,
+          "y1": 617.6113891601562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TPG Global LLC",
+        "page": 95,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 572.025634765625,
+          "x1": 542.3233032226562,
+          "y1": 606.0913696289062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "10.21.24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 273.6499938964844,
+          "y0": 36.485626220703125,
+          "x1": 542.5899658203125,
+          "y1": 59.03136444091797
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 170.17999267578125,
+          "y0": 274.4956359863281,
+          "x1": 444.3999938964844,
+          "y1": 297.0413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 99.02400207519531,
+          "y0": 309.53564453125,
+          "x1": 515.469970703125,
+          "y1": 332.08135986328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 235.97000122070312,
+          "y0": 426.5556335449219,
+          "x1": 380.67999267578125,
+          "y1": 449.10137939453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 210.0500030517578,
+          "y0": 449.47564697265625,
+          "x1": 406.7200012207031,
+          "y1": 483.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 210.0500030517578,
+          "y0": 449.47564697265625,
+          "x1": 406.7200012207031,
+          "y1": 483.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CAPITAL ONE, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 210.0500030517578,
+          "y0": 449.47564697265625,
+          "x1": 406.7200012207031,
+          "y1": 483.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 228.41000366210938,
+          "y0": 484.03564453125,
+          "x1": 386.1999816894531,
+          "y1": 506.58135986328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 228.41000366210938,
+          "y0": 484.03564453125,
+          "x1": 386.1999816894531,
+          "y1": 506.58135986328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 507.0756530761719,
+          "x1": 395.79998779296875,
+          "y1": 541.0213623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 507.0756530761719,
+          "x1": 395.79998779296875,
+          "y1": 541.0213623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 273.6499938964844,
+          "y0": 36.485626220703125,
+          "x1": 542.5899658203125,
+          "y1": 59.03136444091797
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

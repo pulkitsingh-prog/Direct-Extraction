@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "MIDWEST PHYSICIAN ADMINISTRATIVE SERVICES, LLC"
+    ],
+    "Sponsor_name": [
+      "Ares Corporate Opportunities Fund V, L.P."
+    ],
+    "MostRecentDocDate": "03/12/2021",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "BARCLAYS BANK PLC",
+      "CITIZENS BANK, N.A.",
+      "NOMURA SECURITIES INTERNATIONAL, INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 213.36000061035156,
+          "y0": 99.5968246459961,
+          "x1": 401.27392578125,
+          "y1": 111.7516860961914
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "MIDWEST PHYSICIAN ADMINISTRATIVE SERVICES, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 213.36000061035156,
+          "y0": 99.5968246459961,
+          "x1": 401.27392578125,
+          "y1": 111.7516860961914
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Ares Corporate Opportunities Fund V, L.P.",
+        "page": 73,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 286.1368103027344,
+          "x1": 542.7399291992188,
+          "y1": 310.95166015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "March 12, 2021",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 213.36000061035156,
+          "y0": 99.5968246459961,
+          "x1": 401.27392578125,
+          "y1": 111.7516860961914
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 176.40023803710938,
+          "y0": 272.8161315917969,
+          "x1": 438.30059814453125,
+          "y1": 310.2908630371094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 183.30006408691406,
+          "y0": 322.735595703125,
+          "x1": 434.1787109375,
+          "y1": 410.72930908203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 183.30006408691406,
+          "y0": 322.735595703125,
+          "x1": 434.1787109375,
+          "y1": 410.72930908203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 183.30006408691406,
+          "y0": 322.735595703125,
+          "x1": 434.1787109375,
+          "y1": 410.72930908203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 183.30006408691406,
+          "y0": 322.735595703125,
+          "x1": 434.1787109375,
+          "y1": 410.72930908203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

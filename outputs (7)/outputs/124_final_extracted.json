@@ -1,0 +1,182 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AND GUARANTY AGREEMENT",
+    "LegalIssuer": [
+      "Loparex Midco B.V.",
+      "PHM Netherlands Bidco B.V.",
+      "PHM Springboard Bidco, Inc."
+    ],
+    "Sponsor_name": [
+      "Pamplona Capital Management LLP"
+    ],
+    "MostRecentDocDate": "10/31/2023",
+    "Administrative_Agent": [
+      "Jefferies Finance LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "BARCLAYS BANK PLC",
+      "NOMURA SECURITIES INTERNATIONAL, INC."
+    ],
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AND GUARANTY AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 105.18000030517578,
+          "y0": 72.4768295288086,
+          "x1": 509.54498291015625,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Loparex Midco B.V.",
+        "page": 11,
+        "block_id": 5,
+        "bbox": {
+          "x0": 218.39999389648438,
+          "y0": 284.4033203125,
+          "x1": 393.4700012207031,
+          "y1": 296.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PHM Netherlands Bidco B.V.",
+        "page": 11,
+        "block_id": 5,
+        "bbox": {
+          "x0": 218.39999389648438,
+          "y0": 284.4033203125,
+          "x1": 393.4700012207031,
+          "y1": 296.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PHM Springboard Bidco, Inc.",
+        "page": 11,
+        "block_id": 5,
+        "bbox": {
+          "x0": 218.39999389648438,
+          "y0": 284.4033203125,
+          "x1": 393.4700012207031,
+          "y1": 296.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Pamplona Capital Management LLP",
+        "page": 81,
+        "block_id": 3,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 280.80560302734375,
+          "x1": 518.4599609375,
+          "y1": 303.35137939453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 31, 2023",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 105.18000030517578,
+          "y0": 72.4768295288086,
+          "x1": 509.54498291015625,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 11,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.9599914550781,
+          "y0": 470.4034118652344,
+          "x1": 313.91973876953125,
+          "y1": 482.62469482421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 11,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.9599914550781,
+          "y0": 470.4034118652344,
+          "x1": 313.91973876953125,
+          "y1": 482.62469482421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 11,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.9599914550781,
+          "y0": 470.4034118652344,
+          "x1": 313.91973876953125,
+          "y1": 482.62469482421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 11,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.9599914550781,
+          "y0": 470.4034118652344,
+          "x1": 313.91973876953125,
+          "y1": 482.62469482421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 105.18000030517578,
+          "y0": 72.4768295288086,
+          "x1": 509.54498291015625,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CUBE INDUSTRIALS BUYER, INC.",
+      "CUBE A&D BUYER INC."
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "10.7.24",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "KKR CAPITAL MARKETS LLC",
+      "[●]"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 171.14334106445312,
+          "x1": 363.9100036621094,
+          "y1": 183.3646240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CUBE INDUSTRIALS BUYER, INC.",
+        "page": 8,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 96.98336791992188,
+          "x1": 542.8614501953125,
+          "y1": 210.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CUBE A&D BUYER INC.",
+        "page": 8,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 96.98336791992188,
+          "x1": 542.8614501953125,
+          "y1": 210.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 89,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 661.7833251953125,
+          "x1": 542.6395874023438,
+          "y1": 699.440673828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "10.7.24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 424.0299987792969,
+          "y0": 36.46797180175781,
+          "x1": 543.0999755859375,
+          "y1": 49.75197219848633
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 187.4600067138672,
+          "y0": 381.5333557128906,
+          "x1": 427.3900146484375,
+          "y1": 406.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 187.4600067138672,
+          "y0": 381.5333557128906,
+          "x1": 427.3900146484375,
+          "y1": 406.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 229.00999450683594,
+          "y0": 418.87335205078125,
+          "x1": 385.8699951171875,
+          "y1": 443.69464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "[●]",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 129.3800048828125,
+          "y0": 356.933349609375,
+          "x1": 485.3800048828125,
+          "y1": 369.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

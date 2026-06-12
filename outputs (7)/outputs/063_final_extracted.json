@@ -1,0 +1,168 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "GATOR MERGER SUB CORPORATION",
+      "APTEAN, INC.",
+      "APTEAN ACQUIROR INC."
+    ],
+    "Sponsor_name": [
+      "TA Associates Management, L.P.",
+      "Vista Equity Partners Management LLC"
+    ],
+    "MostRecentDocDate": "04/23/2019",
+    "Administrative_Agent": [
+      "GOLUB CAPITAL MARKETS LLC"
+    ],
+    "Lead_Arrangers": [
+      "GOLUB CAPITAL MARKETS LLC",
+      "MACQUARIE CAPITAL (USA) INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 229.89999389648438,
+          "y0": 148.4835968017578,
+          "x1": 385.5,
+          "y1": 159.99639892578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "GATOR MERGER SUB CORPORATION",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 219.47000122070312,
+          "y0": 206.15357971191406,
+          "x1": 395.1000061035156,
+          "y1": 228.86639404296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "APTEAN, INC.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 256.3299865722656,
+          "y0": 251.78358459472656,
+          "x1": 358.25,
+          "y1": 286.5163879394531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "APTEAN ACQUIROR INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 246.72999572753906,
+          "y0": 286.2336120605469,
+          "x1": 368.6700134277344,
+          "y1": 309.74639892578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "TA Associates Management, L.P.",
+        "page": 1,
+        "block_id": 22,
+        "bbox": {
+          "x0": 297.9800109863281,
+          "y0": 585.7335815429688,
+          "x1": 317.3999938964844,
+          "y1": 597.2463989257812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Vista Equity Partners Management LLC",
+        "page": 1,
+        "block_id": 22,
+        "bbox": {
+          "x0": 297.9800109863281,
+          "y0": 585.7335815429688,
+          "x1": 317.3999938964844,
+          "y1": 597.2463989257812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "APRIL 23, 2019",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 247.52000427246094,
+          "y0": 159.7035675048828,
+          "x1": 367.08001708984375,
+          "y1": 182.4163818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLUB CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 161.0,
+          "y0": 390.3336181640625,
+          "x1": 454.3800048828125,
+          "y1": 436.2663879394531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLUB CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 22,
+        "bbox": {
+          "x0": 297.9800109863281,
+          "y0": 585.7335815429688,
+          "x1": 317.3999938964844,
+          "y1": 597.2463989257812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 1,
+        "block_id": 22,
+        "bbox": {
+          "x0": 297.9800109863281,
+          "y0": 585.7335815429688,
+          "x1": 317.3999938964844,
+          "y1": 597.2463989257812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

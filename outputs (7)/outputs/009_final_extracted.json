@@ -1,0 +1,308 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "EPIC CRUDE SERVICES, LP"
+    ],
+    "Sponsor_name": [
+      "Parent",
+      "AF V Energy III AIV, L.P.",
+      "AEOF Warehouse Holdings I, L.P.",
+      "Ares Corporate Opportunities Fund V, L.P.",
+      "Ares EPIC Co-Invest, L.P.",
+      "AEOF EPIC Holdings, L.P.",
+      "ACOF Investment Management LLC",
+      "Kinetik Holdings Inc.",
+      "Diamondback Energy, Inc.",
+      "Ares Management LLC"
+    ],
+    "MostRecentDocDate": "10/15/2024",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "BARCLAYS BANK PLC",
+      "MUFG BANK, LTD.",
+      "WELLS FARGO SECURITIES, LLC",
+      "CIBC WORLD MARKETS CORP.",
+      "CITIGROUP GLOBAL MARKETS INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 249.52999877929688,
+          "y0": 194.18338012695312,
+          "x1": 365.3500061035156,
+          "y1": 206.4046630859375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "EPIC CRUDE SERVICES, LP",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 236.2100067138672,
+          "y0": 305.453369140625,
+          "x1": 378.6700134277344,
+          "y1": 317.6746520996094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Parent",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AF V Energy III AIV, L.P.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AEOF Warehouse Holdings I, L.P.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares Corporate Opportunities Fund V, L.P.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares EPIC Co-Invest, L.P.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AEOF EPIC Holdings, L.P.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ACOF Investment Management LLC",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Kinetik Holdings Inc.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Diamondback Energy, Inc.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares Management LLC",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 278.57000732421875,
+          "y0": 280.8533630371094,
+          "x1": 336.30999755859375,
+          "y1": 293.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 15, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 249.52999877929688,
+          "y0": 194.18338012695312,
+          "x1": 365.3500061035156,
+          "y1": 206.4046630859375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.38333129882812,
+          "x1": 542.853759765625,
+          "y1": 185.8846435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 519.913330078125,
+          "x1": 386.71002197265625,
+          "y1": 532.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 519.913330078125,
+          "x1": 386.71002197265625,
+          "y1": 532.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 519.913330078125,
+          "x1": 386.71002197265625,
+          "y1": 532.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 519.913330078125,
+          "x1": 386.71002197265625,
+          "y1": 532.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CIBC WORLD MARKETS CORP.",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 519.913330078125,
+          "x1": 386.71002197265625,
+          "y1": 532.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 519.913330078125,
+          "x1": 386.71002197265625,
+          "y1": 532.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

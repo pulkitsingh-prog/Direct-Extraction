@@ -1,0 +1,222 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "LTF MERGER SUB, INC."
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "DEUTSCHE BANK AG NEW YORK BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "DEUTSCHE BANK SECURITIES INC.",
+      "GOLDMAN SACHS BANK USA",
+      "BANK OF AMERICA, N.A.",
+      "MIZUHO BANK, LTD.",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "U.S. BANK NATIONAL ASSOCIATION",
+      "WELLS FARGO SECURITIES, LLC",
+      "THE HUNTINGTON NATIONAL BANK",
+      "ROYAL BANK OF CANADA",
+      "BNP PARIBAS SECURITIES CORP"
+    ],
+    "AmendmentNumber": 14
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 203.80999755859375,
+          "y0": 70.94564819335938,
+          "x1": 544.989990234375,
+          "y1": 128.0513916015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "LTF MERGER SUB, INC.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 250.49000549316406,
+          "y0": 395.45562744140625,
+          "x1": 366.6399841308594,
+          "y1": 406.4813537597656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "DEUTSCHE BANK AG NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 19,
+        "bbox": {
+          "x0": 204.64999389648438,
+          "y0": 465.5556335449219,
+          "x1": 409.9599914550781,
+          "y1": 476.58135986328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "THE HUNTINGTON NATIONAL BANK",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP PARIBAS SECURITIES CORP",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 220.00999450683594,
+          "y0": 430.5156555175781,
+          "x1": 394.47998046875,
+          "y1": 441.5413818359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 14,
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 516.8200073242188,
+          "y0": 197.42562866210938,
+          "x1": 542.5899658203125,
+          "y1": 208.45135498046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

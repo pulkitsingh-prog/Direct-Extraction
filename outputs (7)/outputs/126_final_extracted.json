@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Meridian Adhesives Group, Inc."
+    ],
+    "Sponsor_name": [
+      "Arsenal Capital Partners IV LP",
+      "Arsenal Capital Partners IV-B LP"
+    ],
+    "MostRecentDocDate": "07/22/2021",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMORGAN CHASE BANK, N.A.",
+      "RBC CAPITAL MARKETS",
+      "JEFFERIES FINANCE LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 7,
+        "block_id": 0,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 72.14313507080078,
+          "x1": 540.1276245117188,
+          "y1": 147.583251953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Meridian Adhesives Group, Inc.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.8000030517578,
+          "y0": 77.66315460205078,
+          "x1": 363.80865478515625,
+          "y1": 102.4632568359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Arsenal Capital Partners IV LP",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 298.07000732421875,
+          "y0": 319.3441467285156,
+          "x1": 316.6726379394531,
+          "y1": 344.1522521972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Arsenal Capital Partners IV-B LP",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 298.07000732421875,
+          "y0": 319.3441467285156,
+          "x1": 316.6726379394531,
+          "y1": 344.1522521972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 22, 2021",
+        "page": 7,
+        "block_id": 0,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 72.14313507080078,
+          "x1": 540.1276245117188,
+          "y1": 147.583251953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 171.22900390625,
+          "y0": 256.1031494140625,
+          "x1": 443.3908996582031,
+          "y1": 293.62225341796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 298.07000732421875,
+          "y0": 319.3441467285156,
+          "x1": 316.6726379394531,
+          "y1": 344.1522521972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 298.07000732421875,
+          "y0": 319.3441467285156,
+          "x1": 316.6726379394531,
+          "y1": 344.1522521972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 298.07000732421875,
+          "y0": 319.3441467285156,
+          "x1": 316.6726379394531,
+          "y1": 344.1522521972656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

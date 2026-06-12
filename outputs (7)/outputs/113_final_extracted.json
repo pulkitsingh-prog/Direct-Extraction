@@ -1,0 +1,126 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "THE HILLMAN GROUP, INC."
+    ],
+    "Sponsor_name": [
+      "CCMP Capital Advisors, LLC"
+    ],
+    "MostRecentDocDate": "07/14/2021",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "BARCLAYS BANK PLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 249.77088928222656,
+          "y0": 227.30422973632812,
+          "x1": 364.9842529296875,
+          "y1": 277.47552490234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "THE HILLMAN GROUP, INC.",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 233.57077026367188,
+          "y0": 314.5743408203125,
+          "x1": 381.1556396484375,
+          "y1": 339.5158996582031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CCMP Capital Advisors, LLC",
+        "page": 73,
+        "block_id": 7,
+        "bbox": {
+          "x0": 72.02412414550781,
+          "y0": 562.8759765625,
+          "x1": 542.7521362304688,
+          "y1": 587.8175048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 14, 2021",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 249.77088928222656,
+          "y0": 227.30422973632812,
+          "x1": 364.9842529296875,
+          "y1": 277.47552490234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 202.37060546875,
+          "y0": 426.55413818359375,
+          "x1": 412.42327880859375,
+          "y1": 527.3360595703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 202.37060546875,
+          "y0": 426.55413818359375,
+          "x1": 412.42327880859375,
+          "y1": 527.3360595703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 202.37060546875,
+          "y0": 426.55413818359375,
+          "x1": 412.42327880859375,
+          "y1": 527.3360595703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

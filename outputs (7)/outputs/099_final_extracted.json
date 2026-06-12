@@ -1,0 +1,194 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDED AND RESTATED CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CROWN EQUIPMENT CORPORATION",
+      "CROWN ASSOCIATES LLC",
+      "CROWN EQUIPMENT MANUFACTURING, LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "10/10/2024",
+    "Administrative_Agent": [
+      "WELLS FARGO BANK, NATIONAL ASSOCIATION"
+    ],
+    "Lead_Arrangers": [
+      "WELLS FARGO SECURITIES, LLC",
+      "BMO CAPITAL MARKETS CORP.",
+      "JPMORGAN CHASE BANK, N.A.",
+      "PNC CAPITAL MARKETS LLC",
+      "BOFA SECURITIES, INC.",
+      "US BANK NATIONAL ASSOCIATION"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDED AND RESTATED CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 173.05999755859375,
+          "y0": 153.26333618164062,
+          "x1": 441.7900085449219,
+          "y1": 165.484619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CROWN EQUIPMENT CORPORATION",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 204.41000366210938,
+          "y0": 239.78335571289062,
+          "x1": 410.4700012207031,
+          "y1": 252.004638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CROWN ASSOCIATES LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 204.41000366210938,
+          "y0": 239.78335571289062,
+          "x1": 410.4700012207031,
+          "y1": 252.004638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CROWN EQUIPMENT MANUFACTURING, LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 204.41000366210938,
+          "y0": 239.78335571289062,
+          "x1": 410.4700012207031,
+          "y1": 252.004638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "October 10, 2024",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 173.05999755859375,
+          "y0": 153.26333618164062,
+          "x1": 441.7900085449219,
+          "y1": 165.484619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "WELLS FARGO BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 365.0933532714844,
+          "x1": 316.7300109863281,
+          "y1": 377.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 365.0933532714844,
+          "x1": 316.7300109863281,
+          "y1": 377.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 365.0933532714844,
+          "x1": 316.7300109863281,
+          "y1": 377.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 365.0933532714844,
+          "x1": 316.7300109863281,
+          "y1": 377.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PNC CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 365.0933532714844,
+          "x1": 316.7300109863281,
+          "y1": 377.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 365.0933532714844,
+          "x1": 316.7300109863281,
+          "y1": 377.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "US BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 365.0933532714844,
+          "x1": 316.7300109863281,
+          "y1": 377.31463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

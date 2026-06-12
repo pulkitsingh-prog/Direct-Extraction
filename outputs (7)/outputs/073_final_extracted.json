@@ -1,0 +1,126 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "IMPRIVATA, INC."
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS & CO. LLC",
+      "GOLUB CAPITAL LLC"
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 244.52407836914062,
+          "y0": 195.88502502441406,
+          "x1": 362.3194885253906,
+          "y1": 208.13906860351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "IMPRIVATA, INC.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 255.228759765625,
+          "y0": 296.95526123046875,
+          "x1": 351.5710144042969,
+          "y1": 309.4499206542969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 295.4014587402344,
+          "y0": 449.2825927734375,
+          "x1": 311.39837646484375,
+          "y1": 461.53662109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 167.7870635986328,
+          "y0": 373.4798583984375,
+          "x1": 438.8924865722656,
+          "y1": 398.3677062988281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS & CO. LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 295.4014587402344,
+          "y0": 449.2825927734375,
+          "x1": 311.39837646484375,
+          "y1": 461.53662109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLUB CAPITAL LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 295.4014587402344,
+          "y0": 449.2825927734375,
+          "x1": 311.39837646484375,
+          "y1": 461.53662109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 244.52407836914062,
+          "y0": 195.88502502441406,
+          "x1": 362.3194885253906,
+          "y1": 208.13906860351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

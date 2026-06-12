@@ -1,0 +1,266 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "JOINDER AGREEMENT AND AMENDMENT NO. 2",
+    "LegalIssuer": [
+      "CNT HOLDINGS I CORP"
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "01/30/2024",
+    "Administrative_Agent": [
+      "MORGAN STANLEY SENIOR FUNDING, INC."
+    ],
+    "Lead_Arrangers": [
+      "KKR Capital Markets LLC",
+      "Morgan Stanley Senior Funding, Inc.",
+      "Jefferies Finance LLC",
+      "Crédit Agricole Corporate Investment Bank",
+      "Societe Generale",
+      "UBS Securities LLC",
+      "Barclays Bank PLC",
+      "Mizuho Bank, Ltd.",
+      "MUFG Bank, Ltd.",
+      "Bank of America, N.A.",
+      "Wells Fargo Securities, LLC"
+    ],
+    "AmendmentNumber": 2
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "JOINDER AGREEMENT AND AMENDMENT NO. 2",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 48.0,
+          "y0": 68.5768051147461,
+          "x1": 567.8250122070312,
+          "y1": 106.05167388916016
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CNT HOLDINGS I CORP",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 48.0,
+          "y0": 68.5768051147461,
+          "x1": 567.8250122070312,
+          "y1": 106.05167388916016
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 97,
+        "block_id": 8,
+        "bbox": {
+          "x0": 71.99905395507812,
+          "y0": 575.396484375,
+          "x1": 537.2677001953125,
+          "y1": 612.8712158203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "January 30, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 48.0,
+          "y0": 68.5768051147461,
+          "x1": 567.8250122070312,
+          "y1": 106.05167388916016
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 48.0,
+          "y0": 68.5768051147461,
+          "x1": 567.8250122070312,
+          "y1": 106.05167388916016
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Crédit Agricole Corporate Investment Bank",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Societe Generale",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, Ltd.",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG Bank, Ltd.",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Bank of America, N.A.",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Wells Fargo Securities, LLC",
+        "page": 11,
+        "block_id": 10,
+        "bbox": {
+          "x0": 296.6396484375,
+          "y0": 560.2757568359375,
+          "x1": 315.277099609375,
+          "y1": 572.4306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 2,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 48.0,
+          "y0": 68.5768051147461,
+          "x1": 567.8250122070312,
+          "y1": 106.05167388916016
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

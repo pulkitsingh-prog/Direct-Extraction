@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ASPIRE BAKERIES HOLDINGS LLC",
+      "the BORROWING SUBSIDIARIES"
+    ],
+    "Sponsor_name": [
+      "LG",
+      "Lindsay Goldberg LLC"
+    ],
+    "MostRecentDocDate": "10/22/2024",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMORGAN CHASE BANK, N.A.",
+      "CITIZENS BANK, N.A.",
+      "KEYBANC CAPITAL MARKETS INC.",
+      "MUFG BANK, LTD.",
+      "SUMITOMO MITSUI BANKING CORPORATION"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 148.82333374023438,
+          "x1": 363.9100036621094,
+          "y1": 161.04461669921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ASPIRE BAKERIES HOLDINGS LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 216.1699981689453,
+          "y0": 259.9733581542969,
+          "x1": 398.5899963378906,
+          "y1": 272.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "the BORROWING SUBSIDIARIES",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 196.1300048828125,
+          "y0": 297.4133605957031,
+          "x1": 418.6300048828125,
+          "y1": 309.6346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "LG",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 346.7333679199219,
+          "x1": 316.7300109863281,
+          "y1": 358.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Lindsay Goldberg LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 346.7333679199219,
+          "x1": 316.7300109863281,
+          "y1": 358.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 22, 2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 379.2699890136719,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 52,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 488.5933532714844,
+          "x1": 542.7445068359375,
+          "y1": 538.8546142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 346.7333679199219,
+          "x1": 316.7300109863281,
+          "y1": 358.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 346.7333679199219,
+          "x1": 316.7300109863281,
+          "y1": 358.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 346.7333679199219,
+          "x1": 316.7300109863281,
+          "y1": 358.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 346.7333679199219,
+          "x1": 316.7300109863281,
+          "y1": 358.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 346.7333679199219,
+          "x1": 316.7300109863281,
+          "y1": 358.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

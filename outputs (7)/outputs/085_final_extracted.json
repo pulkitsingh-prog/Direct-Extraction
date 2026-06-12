@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "TERM LOAN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "AMBIENCE MERGER SUB, INC.",
+      "AT HOME GROUP INC."
+    ],
+    "Sponsor_name": [
+      "Hellman & Friedman LLC"
+    ],
+    "MostRecentDocDate": "6/22/21",
+    "Administrative_Agent": [
+      "BANK OF AMERICA, N.A."
+    ],
+    "Lead_Arrangers": [
+      "Bof. A SECURITIES, INC.",
+      "BARCLAYS BANK PLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "WELLS FARGO SECURITIES, LLC",
+      "BNP PARIBAS SECURITIES INC.",
+      "PNC CAPITAL MARKETS LLC",
+      "U.S. BANK NATIONAL ASSOCIATION"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "TERM LOAN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 203.57000732421875,
+          "y0": 58.06800842285156,
+          "x1": 411.54998779296875,
+          "y1": 71.35201263427734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "AMBIENCE MERGER SUB, INC.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 216.2899932861328,
+          "y0": 186.7279815673828,
+          "x1": 401.95001220703125,
+          "y1": 200.01197814941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AT HOME GROUP INC.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 216.2899932861328,
+          "y0": 186.7279815673828,
+          "x1": 401.95001220703125,
+          "y1": 200.01197814941406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Hellman & Friedman LLC",
+        "page": 89,
+        "block_id": 8,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 488.95562744140625,
+          "x1": 542.571044921875,
+          "y1": 523.0213623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "6/22/21",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 433.6300048828125,
+          "y0": 36.485626220703125,
+          "x1": 542.5899658203125,
+          "y1": 47.51134490966797
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 195.88999938964844,
+          "y0": 274.9580078125,
+          "x1": 419.2300109863281,
+          "y1": 302.0420227050781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Bof. A SECURITIES, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 350.0780029296875,
+          "x1": 317.69000244140625,
+          "y1": 363.36199951171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 350.0780029296875,
+          "x1": 317.69000244140625,
+          "y1": 363.36199951171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 350.0780029296875,
+          "x1": 317.69000244140625,
+          "y1": 363.36199951171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 350.0780029296875,
+          "x1": 317.69000244140625,
+          "y1": 363.36199951171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP PARIBAS SECURITIES INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 350.0780029296875,
+          "x1": 317.69000244140625,
+          "y1": 363.36199951171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PNC CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 350.0780029296875,
+          "x1": 317.69000244140625,
+          "y1": 363.36199951171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 350.0780029296875,
+          "x1": 317.69000244140625,
+          "y1": 363.36199951171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

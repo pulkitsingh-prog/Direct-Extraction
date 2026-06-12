@@ -1,0 +1,96 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "GIH BORROWER, LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "11/19/2024",
+    "Administrative_Agent": [
+      "BANK OF AMERICA, N.A."
+    ],
+    "Lead_Arrangers": [
+      "Bank of America, N.A."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 255.88999938964844,
+          "y0": 282.53564453125,
+          "x1": 358.7200012207031,
+          "y1": 293.5613708496094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "GIH BORROWER, LLC",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 255.88999938964844,
+          "y0": 282.53564453125,
+          "x1": 358.7200012207031,
+          "y1": 293.5613708496094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "11/19/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 424.510009765625,
+          "y0": 54.485626220703125,
+          "x1": 542.5899658203125,
+          "y1": 65.51134490966797
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 34,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.50564575195312,
+          "x1": 538.447998046875,
+          "y1": 106.57134246826172
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Bank of America, N.A.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 246.41000366210938,
+          "y0": 522.5556030273438,
+          "x1": 368.0799865722656,
+          "y1": 533.5813598632812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

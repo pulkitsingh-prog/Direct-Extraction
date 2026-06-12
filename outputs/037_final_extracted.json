@@ -1,0 +1,336 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FOURTH AMENDMENT TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Proofpoint, Inc."
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "05/28/2024",
+    "Administrative_Agent": [
+      "Goldman Sachs Bank USA"
+    ],
+    "Lead_Arrangers": [
+      "Goldman Sachs Bank USA",
+      "Morgan Stanley Senior Funding, Inc.",
+      "Macquarie Capital (USA) Inc",
+      "Bof. A Securities",
+      "Royal Bank of Canada",
+      "RBC Capital Markets LLC",
+      "Barclays Bank PLC",
+      "HSBC Securities (USA) Inc.",
+      "Jefferies Finance LLC",
+      "UBS Securities LLC",
+      "Antares Capital LP",
+      "BMO Capital Markets Corp.",
+      "Golub Capital LLC",
+      "Mizuho Bank, Ltd.",
+      "KKR Capital Markets LLC",
+      "SPC Financing Company LLC"
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FOURTH AMENDMENT TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 214.72999572753906,
+          "y0": 72.38333129882812,
+          "x1": 400.0299987792969,
+          "y1": 97.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Proofpoint, Inc.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 109.70333862304688,
+          "x1": 542.8599853515625,
+          "y1": 248.524658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "May 28, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 109.70333862304688,
+          "x1": 542.8599853515625,
+          "y1": 248.524658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 109.70333862304688,
+          "x1": 542.8599853515625,
+          "y1": 248.524658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Macquarie Capital (USA) Inc",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Bof. A Securities",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Royal Bank of Canada",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC Securities (USA) Inc.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Antares Capital LP",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Golub Capital LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, Ltd.",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SPC Financing Company LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 697.0615844726562,
+          "x1": 147.95001220703125,
+          "y1": 708.0873413085938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 109.70333862304688,
+          "x1": 542.8599853515625,
+          "y1": 248.524658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "TOUCHDOWN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "TOUCHDOWN ACQUIRER INC."
+    ],
+    "Sponsor_name": [
+      "Leonard Green & Partners, L.P."
+    ],
+    "MostRecentDocDate": "2.6.2024",
+    "Administrative_Agent": [
+      "BANK OF AMERICA, N.A."
+    ],
+    "Lead_Arrangers": [
+      "BOFA SECURITIES, INC.",
+      "JEFFERIES FINANCE LLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "BMO CAPITAL MARKETS CORP.",
+      "SOCIÉTÉ GÉNÉRALE",
+      "ING BANK N.V."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "TOUCHDOWN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 247.1300048828125,
+          "y0": 72.38333129882812,
+          "x1": 367.6300048828125,
+          "y1": 97.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "TOUCHDOWN ACQUIRER INC.",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 226.85000610351562,
+          "y0": 177.02334594726562,
+          "x1": 387.9100036621094,
+          "y1": 189.24462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Leonard Green & Partners, L.P.",
+        "page": 97,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 210.86337280273438,
+          "x1": 542.8599853515625,
+          "y1": 261.1546630859375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "2.6.2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 396.42999267578125,
+          "y0": 54.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 66.58465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 203.69000244140625,
+          "y0": 258.2933654785156,
+          "x1": 411.19000244140625,
+          "y1": 283.2346496582031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 301.6133728027344,
+          "x1": 316.7300109863281,
+          "y1": 313.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 301.6133728027344,
+          "x1": 316.7300109863281,
+          "y1": 313.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 301.6133728027344,
+          "x1": 316.7300109863281,
+          "y1": 313.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 301.6133728027344,
+          "x1": 316.7300109863281,
+          "y1": 313.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SOCIÉTÉ GÉNÉRALE",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 301.6133728027344,
+          "x1": 316.7300109863281,
+          "y1": 313.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING BANK N.V.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 301.6133728027344,
+          "x1": 316.7300109863281,
+          "y1": 313.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

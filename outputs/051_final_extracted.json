@@ -1,0 +1,364 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "EMERALD DEBT MERGER SUB L.L.C.",
+      "EMRLD BORROWER LP"
+    ],
+    "Sponsor_name": [
+      "the Blackstone Funds"
+    ],
+    "MostRecentDocDate": "05/31/2023",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS",
+      "BARCLAYS BANK PLC",
+      "WELLS FARGO SECURITIES, LLC",
+      "SUMITOMO MITSUI BANKING CORPORATION",
+      "GOLDMAN SACHS BANK USA",
+      "BNP PARIBAS SECURITIES CORP",
+      "HSBC SECURITIES (USA) INC.",
+      "JPMORGAN CHASE BANK, N.A.",
+      "MIZUHO BANK, LTD.",
+      "TRUIST SECURITIES, INC.",
+      "BOFA SECURITIES, INC.",
+      "MUFG BANK, LTD.",
+      "THE BANK OF NOVA SCOTIA",
+      "TD SECURITIES (USA) LLC",
+      "CIBC WORLD MARKETS CORP.",
+      "REGIONS CAPITAL MARKETS, A DIVISION OF REGIONS BANK",
+      "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "U.S. BANK NATIONAL ASSOCIATION"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 255.86599731445312,
+          "y0": 98.42500305175781,
+          "x1": 356.135986328125,
+          "y1": 109.49500274658203
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "EMERALD DEBT MERGER SUB L.L.C.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 83.24400329589844,
+          "y0": 190.91799926757812,
+          "x1": 531.2540283203125,
+          "y1": 224.9860076904297
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "EMRLD BORROWER LP",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 97.92500305175781,
+          "x1": 542.5099487304688,
+          "y1": 212.48599243164062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "the Blackstone Funds",
+        "page": 67,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 491.9010009765625,
+          "x1": 542.5098876953125,
+          "y1": 514.469970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "May 31, 2023",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 252.8159942626953,
+          "y0": 121.42300415039062,
+          "x1": 359.1860046386719,
+          "y1": 132.49301147460938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 212.96800231933594,
+          "y0": 259.9119873046875,
+          "x1": 399.02801513671875,
+          "y1": 282.4809875488281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP PARIBAS SECURITIES CORP",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "THE BANK OF NOVA SCOTIA",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CIBC WORLD MARKETS CORP.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "REGIONS CAPITAL MARKETS, A DIVISION OF REGIONS BANK",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 75.83200073242188,
+          "y0": 340.4049987792969,
+          "x1": 538.6620483398438,
+          "y1": 431.968017578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

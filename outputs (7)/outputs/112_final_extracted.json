@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ASP RESINS MERGER SUB, INC.",
+      "HEXION INC."
+    ],
+    "Sponsor_name": [
+      "AS"
+    ],
+    "MostRecentDocDate": "12/02/2024",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "ROYAL BANK OF CANADA",
+      "RBC CAPITAL MARKETS",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "BOFA SECURITIES, INC.",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "BARCLAYS BANK PLC",
+      "JEFFERIES FINANCE LLC"
+    ],
+    "AmendmentNumber": 2
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 151.94338989257812,
+          "x1": 394.27001953125,
+          "y1": 164.1646728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ASP RESINS MERGER SUB, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 224.2100067138672,
+          "y0": 313.01336669921875,
+          "x1": 390.5500183105469,
+          "y1": 325.2346496582031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HEXION INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 80.42400360107422,
+          "y0": 350.3333740234375,
+          "x1": 534.3413696289062,
+          "y1": 362.5546569824219
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "AS",
+        "page": 1,
+        "block_id": 20,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 488.3533630371094,
+          "x1": 316.7300109863281,
+          "y1": 500.57464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "12/2/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 413.8299865722656,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 228.1699981689453,
+          "y0": 512.8333740234375,
+          "x1": 386.71002197265625,
+          "y1": 525.0546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 2,
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 99.50399780273438,
+          "y0": 226.58334350585938,
+          "x1": 515.260009765625,
+          "y1": 238.80462646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

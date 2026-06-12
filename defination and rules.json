@@ -1,0 +1,209 @@
+{
+"keywords": {
+   "Source_Document_Title": {
+  "definition": "Source Document Title refers to the official name or designation of a legal document within US Loan or Credit Agreement documentation. It serves as the primary identifier for the document that contains covenants, liens, collateral descriptions, borrower obligations, and related legal clauses. The title is used to reference the document in agreements, notices, and enforcement actions, ensuring clarity and precision in legal and business communications regarding loan terms and conditions.",
+  "document_type_rules": {
+    "amendment": {
+      "sections": [
+        "cover page",
+        "first page",
+        "amendment preamble"
+      ],
+      "trigger_phrases": [
+        "THIS AMENDMENT",
+        "THIS AMENDED AND RESTATED",
+        "AMENDMENT NO.",
+        "SECOND AMENDMENT",
+        "THIRD AMENDMENT"
+      ]
+    },
+    "fresh_issue": {
+      "sections": [
+        "cover page",
+        "first page",
+        "preamble"
+      ],
+      "trigger_phrases": [
+        "CREDIT AGREEMENT",
+        "AMENDED AND RESTATED CREDIT AGREEMENT",
+        "FIRST LIEN CREDIT AGREEMENT",
+        "LOAN AGREEMENT"
+      ]
+    }
+  },
+  "extraction_rules": [
+    "Identify the document title using the following priority order:",
+    "1. The first main heading on the cover page or first page",
+    "2. The phrase immediately following the keyword 'THIS' in amendment documents",
+    "3. A clearly formatted heading identifying the agreement type",
+    "The title must be a short phrase, not a paragraph",
+    "Exclude any monetary amounts, whether written inline or enclosed in brackets",
+    "Exclude dates, party names, addresses, execution language, and signatures",
+    "If a monetary amount precedes the title (e.g., '$1,700,000,000 AMENDED AND RESTATED CREDIT AGREEMENT'), remove the amount and extract only the agreement name",
+    "If multiple candidates exist, select the most formal and complete agreement name",
+    "Return ONLY the title text, with no surrounding words or explanations"
+  ],
+  "expected_output": {
+    "type": "string",
+    "cardinality": "single",
+    "fallback": "NOT SPECIFIED"
+  }
+}
+,
+    "LegalIssuer": {
+      "definition": "A Borrower is a legal entity or individual who receives funds or credit under a loan or credit agreement and is obligated to repay the principal amount along with any interest and fees according to the terms set forth in the agreement. The Borrower is responsible for complying with all covenants, maintaining collateral if required, and fulfilling all obligations to the lender. The Borrower’s role is central to the credit transaction, as it assumes the financial risk and legal duties associated with the loan, including adherence to representations, warranties, and conditions precedent to borrowing.",
+      "document_type_rules": {
+        "amendment": {
+          "sections": ["amendment preamble", "amendment attachment"],
+          "trigger_phrases": ["Borrower", "Borrowers", "Parent Borrower"]
+        },
+        "fresh_issue": {
+          "sections": ["cover sheet", "recitals"],
+          "trigger_phrases": ["Borrower", "Borrowers"]
+        }
+      },
+      "extraction_rules": [
+  "Extract all entities explicitly labeled as Borrowers",
+  "Capture names only, without former names, descriptive text, or explanatory clauses",
+  "Ignore entities mentioned only in merger, acquisition, survivorship, or transactional description clauses",
+  "Do NOT extract entities appearing in phrases such as 'will be survived by', 'after consummation of', 'upon completion of the merger','shall be merged' or similar explanatory parenthetical language",
+  "Extract only the entities directly identified as Borrower or Borrowers in the defined section",
+  "Do not include extra information beyond the legal entity name",
+  "Extract the entity names EXACTLY as they appear in the document"
+]
+,
+      "expected_output": {
+        "type": "entity_name",
+        "cardinality": "multiple"
+      }
+    },
+    "Sponsor_name": {
+      "definition": "Sponsor refers to the private equity firm, investment fund, holding entity, or other controlling owner that directly or indirectly controls the Borrower or its Parent through ownership of Equity Interests, voting power, or contractual control, as expressly defined in the credit agreement (typically in a defined term such as “Sponsor” or “Sponsors”).",
+      "primary_source": "defined_terms",
+      "search_terms": ["Sponsor", "Sponsors"],
+      "extraction_rules": [
+  "Navigate directly to the Defined Terms or Definitions section and locate the defined term 'Sponsor' or 'Sponsors'",
+  "If the Sponsor definition contains conditional language such as 'prior to', 'before', 'following', or 'after', extract ONLY the sponsors applicable following or after the current Amendment Effective Date",
+  "Ignore sponsors that are applicable only prior to or before the current Amendment Effective Date",
+  "If multiple time-based clauses exist, always prefer the sponsors tied to the most recent amendment or effective date",
+  "Extract the entity names EXACTLY as they appear in the document",
+  "Do NOT expand abbreviations, infer relationships, or modify capitalization",
+  "Do not include extra information beyond the legal entity name"
+]
+,
+      "expected_output": {
+        "type": "entity_name",
+        "cardinality": "multiple"
+      }
+    },
+    "MostRecentDocDate": {
+  "definition": "The legally effective execution date of the current credit agreement or amendment.",
+  "document_type_rules": {
+    "amendment": {
+      "primary_source": "current amendment preamble or header",
+      "trigger_phrases": [
+        "THIS AMENDMENT",
+        "THIS AMENDMENT TO",
+        "This Amendment",
+        "dated as of"
+      ]
+    },
+    "fresh_issue": {
+      "trigger_phrases": [
+        "Posting Version",
+        "Version Control",
+        "KE Draft",
+        "Draft Date",
+        "THIS AMENDMENT",
+        "dated as of"
+]
+    }
+  },
+  "extraction_rules": [
+  "For amendment documents, FIRST check if a Posting Version date, Version Control date, or KE Draft Date is present anywhere in the document header or cover page",
+  "If a Posting Version, Version Control, or KE Draft date is present, extract that date and stop searching",
+  "If none of the above draft or posting dates are present, then extract the execution date of THIS amendment",
+  "Ignore dates appearing in phrases such as 'as amended by', 'amended by', or amendment history sections",
+  "Ignore dates associated with prior amendment numbers",
+  "Prefer the date that appears closest to the title or opening sentence of THIS amendment",
+  "Do NOT extract dates from recital history paragraphs",
+  "If the amendment execution date is blank, incomplete, or cannot be clearly identified, return NOT SPECIFIED"
+],
+  "expected_output": {
+    "type": "date",
+    "cardinality": "single",
+    "fallback": "NOT SPECIFIED"
+  }
+}
+,
+    "Administrative_Agent": {
+      "definition": "An Administrative Agent is a financial institution or entity appointed under a US loan or credit agreement to act on behalf of the lenders in administering the loan. This role includes managing communications between the borrower and lenders, handling the distribution of payments, maintaining records of the loan, enforcing covenants, and overseeing collateral and lien arrangements. The Administrative Agent serves as the central point of contact and facilitator for all administrative tasks related to the credit facility, ensuring compliance with the terms of the agreement and protecting the interests of the lending group.",
+      "document_type_rules": {
+        "amendment": {
+          "sections": ["amendment preamble", "amendment attachment"],
+          "trigger_phrases": ["as Administrative Agent", "Admin Agent"]
+        },
+        "fresh_issue": {
+          "sections": ["cover sheet", "preamble", "recitals"],
+          "trigger_phrases": ["Administrative Agent", "Admin Agent"]
+        }
+      },
+      "extraction_rules": [
+        "Extract the full legal name of the Administrative Agent",
+        "Do not infer the agent if not explicitly stated"
+      ],
+      "expected_output": {
+        "type": "entity_name",
+        "cardinality": "multiple",
+        "fallback": "NOT SPECIFIED"
+      }
+    },
+    "Lead_Arrangers": {
+      "definition": "Lead Arrangers are financial institutions or banks that organize and structure syndicated loan facilities by coordinating among multiple lenders, negotiating terms with the borrower, and facilitating the distribution of loan portions. They play a critical legal and business role in US loan and credit agreements by managing borrower obligations, overseeing covenant compliance, and ensuring proper lien and collateral arrangements to protect the interests of the lending group.",
+      "document_type_rules": {
+        "fresh_issue": {
+          "primary_sections": ["cover sheet", "recitals"]
+        },
+        "amendment": {
+          "primary_sections": [
+            "pages before table of contents in amendment attachment"
+          ],
+          "secondary_sections": [
+            "defined terms (tranche-specific arranger definitions)"
+          ]
+        }
+      },
+      "extraction_rules": [
+        "Search for Arranger, Joint Lead Arranger, or Lead Arranger roles",
+        "Always prioritize arrangers associated with the latest tranche or amendment number",
+        "Ignore arranger names from older tranches if a newer one exists"
+      ],
+      "expected_output": {
+        "type": "entity_name",
+        "cardinality": "multiple",
+        "fallback": "NOT SPECIFIED"
+      }
+    },
+    "AmendmentNumber": {
+      "definition": "AmendmentNumber refers to the specific identifier assigned to a formal modification or change made to a US loan or credit agreement. It serves as a unique reference to track and distinguish each amendment within the lifecycle of the agreement, particularly in relation to covenants, liens, collateral, and borrower obligations. The AmendmentNumber ensures clarity and precision in legal documentation and business processes by enabling parties to reference and enforce the exact terms of any changes agreed upon after the original contract execution.",
+      "document_type_rules": {
+        "amendment": {
+          "primary_source": "amendment attachment header or preamble",
+          "secondary_source": "cover sheet"
+        },
+        "fresh_issue": {
+          "fixed_value": 0
+        }
+      },
+      "extraction_rules": [
+        "If multiple amendment numbers are mentioned, extract the highest (most recent) number",
+        "If the document is an amendment but no number is identifiable, return NOT SPECIFIED"
+      ],
+      "expected_output": {
+        "type": "number",
+        "cardinality": "single",
+        "fallback": "NOT SPECIFIED"
+      }
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIFTH AMENDMENT TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "AQA ACQUISITION HOLDING, INC."
+    ],
+    "Sponsor_name": [
+      "Francisco Partners",
+      "the New Investor"
+    ],
+    "MostRecentDocDate": "11/05/2024",
+    "Administrative_Agent": [
+      "UBS AG, STAMFORD BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "ANTARES CAPITAL LP",
+      "GOLUB CAPITAL LLC",
+      "NB PD III HOLDINGS (LO) LP"
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIFTH AMENDMENT TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 205.44000244140625,
+          "y0": 72.37228393554688,
+          "x1": 406.62066650390625,
+          "y1": 97.31246948242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "AQA ACQUISITION HOLDING, INC.",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 109.69229125976562,
+          "x1": 542.9130249023438,
+          "y1": 324.35247802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Francisco Partners",
+        "page": 96,
+        "block_id": 6,
+        "bbox": {
+          "x0": 144.0,
+          "y0": 561.4833984375,
+          "x1": 465.8211975097656,
+          "y1": 573.7046508789062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "the New Investor",
+        "page": 96,
+        "block_id": 6,
+        "bbox": {
+          "x0": 144.0,
+          "y0": 561.4833984375,
+          "x1": 465.8211975097656,
+          "y1": 573.7046508789062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 5, 2024",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 109.69229125976562,
+          "x1": 542.9130249023438,
+          "y1": 324.35247802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG, STAMFORD BRANCH",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 109.69229125976562,
+          "x1": 542.9130249023438,
+          "y1": 324.35247802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 15,
+        "block_id": 9,
+        "bbox": {
+          "x0": 146.39999389648438,
+          "y0": 348.24334716796875,
+          "x1": 465.5932922363281,
+          "y1": 398.2646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ANTARES CAPITAL LP",
+        "page": 15,
+        "block_id": 9,
+        "bbox": {
+          "x0": 146.39999389648438,
+          "y0": 348.24334716796875,
+          "x1": 465.5932922363281,
+          "y1": 398.2646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLUB CAPITAL LLC",
+        "page": 15,
+        "block_id": 9,
+        "bbox": {
+          "x0": 146.39999389648438,
+          "y0": 348.24334716796875,
+          "x1": 465.5932922363281,
+          "y1": 398.2646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NB PD III HOLDINGS (LO) LP",
+        "page": 15,
+        "block_id": 9,
+        "bbox": {
+          "x0": 146.39999389648438,
+          "y0": 348.24334716796875,
+          "x1": 465.5932922363281,
+          "y1": 398.2646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+     {
+      "status":"incorrect",
+      "feedback": "NB PD III HOLDINGS (LO) LP is not mentioned in the output as lead arranger"
+     }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 109.69229125976562,
+          "x1": 542.9130249023438,
+          "y1": 324.35247802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

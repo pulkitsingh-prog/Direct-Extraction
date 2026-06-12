@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "PROJECT BOOST PURCHASER, LLC"
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P.",
+      "the New Sponsor"
+    ],
+    "MostRecentDocDate": "7.1.24",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS",
+      "GOLDMAN SACHS BANK USA",
+      "KKR CAPITAL MARKETS LLC",
+      "TD SECURITIES (USA) LLC",
+      "TRUIST SECURITIES, INC.",
+      "UBS SECURITIES LLC",
+      "WELLS FARGO SECURITIES, LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 208.72999572753906,
+          "y0": 219.26333618164062,
+          "x1": 394.0299987792969,
+          "y1": 231.484619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "PROJECT BOOST PURCHASER, LLC",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 202.97000122070312,
+          "y0": 295.25335693359375,
+          "x1": 399.7900085449219,
+          "y1": 307.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 108,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 410.1133728027344,
+          "x1": 542.8599853515625,
+          "y1": 472.9746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "the New Sponsor",
+        "page": 108,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 410.1133728027344,
+          "x1": 542.8599853515625,
+          "y1": 472.9746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "7.1.24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 437.3500061035156,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 371.0933532714844,
+          "x1": 437.4700012207031,
+          "y1": 408.6346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 447.0733642578125,
+          "x1": 313.3699951171875,
+          "y1": 471.8946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 447.0733642578125,
+          "x1": 313.3699951171875,
+          "y1": 471.8946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 447.0733642578125,
+          "x1": 313.3699951171875,
+          "y1": 471.8946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 447.0733642578125,
+          "x1": 313.3699951171875,
+          "y1": 471.8946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 447.0733642578125,
+          "x1": 313.3699951171875,
+          "y1": 471.8946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 447.0733642578125,
+          "x1": 313.3699951171875,
+          "y1": 471.8946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 447.0733642578125,
+          "x1": 313.3699951171875,
+          "y1": 471.8946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "GOLDEN STATE FOODS LLC",
+      "BORROWING SUBSIDIARIES"
+    ],
+    "Sponsor_name": [
+      "LG",
+      "Lindsay Goldberg LLC"
+    ],
+    "MostRecentDocDate": "10/07/2024",
+    "Administrative_Agent": [
+      "BANK OF MONTREAL"
+    ],
+    "Lead_Arrangers": [
+      "BMO CAPITAL MARKETS CORP.",
+      "TRUIST SECURITIES, INC.",
+      "CITIZENS BANK, N.A.",
+      "KEYBANC CAPITAL MARKETS INC.",
+      "CAPITAL ONE, NATIONAL ASSOCIATION",
+      "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "MUFG BANK, LTD.",
+      "U.S. BANK NATIONAL ASSOCIATION",
+      "COÖPERATIEVE RABOBANK U.A., NEW YORK BRANCH"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 150.38333129882812,
+          "x1": 363.9100036621094,
+          "y1": 162.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "GOLDEN STATE FOODS LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 232.3699951171875,
+          "y0": 261.5333557128906,
+          "x1": 382.3900146484375,
+          "y1": 273.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BORROWING SUBSIDIARIES",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 196.1300048828125,
+          "y0": 298.9733581542969,
+          "x1": 418.6300048828125,
+          "y1": 311.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "LG",
+        "page": 88,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 446.7133483886719,
+          "x1": 542.7825317382812,
+          "y1": 496.9746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Lindsay Goldberg LLC",
+        "page": 88,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 446.7133483886719,
+          "x1": 542.7825317382812,
+          "y1": 496.9746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "10/7/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 390.30999755859375,
+          "y0": 36.363372802734375,
+          "x1": 542.5899658203125,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF MONTREAL",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.38333129882812,
+          "x1": 542.8378295898438,
+          "y1": 135.3646240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CAPITAL ONE, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "COÖPERATIEVE RABOBANK U.A., NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 348.1733703613281,
+          "x1": 316.7300109863281,
+          "y1": 360.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

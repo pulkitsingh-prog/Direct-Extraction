@@ -1,0 +1,140 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "FLOW MERGER SUB, INC.",
+      "FCG ACQUISITIONS, INC."
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "Aptil 4, 2023",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "KKR Capital Markets LLC"
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 88.10336303710938,
+          "x1": 394.27001953125,
+          "y1": 100.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "FLOW MERGER SUB, INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 200.3300018310547,
+          "y0": 334.49334716796875,
+          "x1": 414.4300231933594,
+          "y1": 359.43463134765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "FCG ACQUISITIONS, INC.",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 656.38330078125,
+          "x1": 316.7300109863281,
+          "y1": 668.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 92,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 549.193359375,
+          "x1": 542.5410766601562,
+          "y1": 574.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "Aptil 4, 2023",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 380.8299865722656,
+          "y0": 36.483367919921875,
+          "x1": 542.8599853515625,
+          "y1": 48.704647064208984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 111.37999725341797,
+          "y0": 471.0733642578125,
+          "x1": 503.5,
+          "y1": 496.0146484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 15,
+        "block_id": 4,
+        "bbox": {
+          "x0": 108.0199966430664,
+          "y0": 97.10336303710938,
+          "x1": 486.46002197265625,
+          "y1": 109.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 88.10336303710938,
+          "x1": 394.27001953125,
+          "y1": 100.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

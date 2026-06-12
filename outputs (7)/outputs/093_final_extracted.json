@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "A-AP BUYER, INC."
+    ],
+    "Sponsor_name": [
+      "American Industrial Partners Capital Fund VIII, L.P."
+    ],
+    "MostRecentDocDate": "09/09/2024",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A.",
+      "KEYBANK NATIONAL ASSOCIATION"
+    ],
+    "Lead_Arrangers": [
+      "JPMORGAN CHASE BANK, N.A.",
+      "KEYBANC CAPITAL MARKETS INC.",
+      "CITIBANK, N.A.",
+      "PNC BANK, NATIONAL ASSOCIATION",
+      "U.S. BANK NATIONAL ASSOCIATION",
+      "WELLS FARGO SECURITIES, LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "A-AP BUYER, INC.",
+        "page": 7,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.9998779296875,
+          "y0": 75.5968246459961,
+          "x1": 542.8594970703125,
+          "y1": 151.05178833007812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "American Industrial Partners Capital Fund VIII, L.P.",
+        "page": 95,
+        "block_id": 6,
+        "bbox": {
+          "x0": 71.99996948242188,
+          "y0": 185.63546752929688,
+          "x1": 542.8333129882812,
+          "y1": 223.11160278320312
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "September 9, 2024",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIBANK, N.A.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PNC BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 84.4800033569336,
+          "y0": 110.63680267333984,
+          "x1": 529.7100219726562,
+          "y1": 603.4515991210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

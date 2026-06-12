@@ -1,0 +1,110 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "BALCAN INNOVATIONS INC."
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "10/18/2024",
+    "Administrative_Agent": [
+      "BANK OF AMERICA, N.A."
+    ],
+    "Lead_Arrangers": [
+      "BOFA SECURITIES, INC.",
+      "BMO CAPITAL MARKETS CORP."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 214.77499389648438,
+          "y0": 98.61800384521484,
+          "x1": 397.2210388183594,
+          "y1": 110.79500579833984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "BALCAN INNOVATIONS INC.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 230.52999877929688,
+          "y0": 212.45901489257812,
+          "x1": 381.4719543457031,
+          "y1": 237.28500366210938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "October 18, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 214.77499389648438,
+          "y0": 98.61800384521484,
+          "x1": 397.2210388183594,
+          "y1": 110.79500579833984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.4530029296875,
+          "y0": 301.00201416015625,
+          "x1": 371.55096435546875,
+          "y1": 325.8280334472656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 202.44000244140625,
+          "y0": 364.2469787597656,
+          "x1": 409.55902099609375,
+          "y1": 401.7220153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 202.44000244140625,
+          "y0": 364.2469787597656,
+          "x1": 409.55902099609375,
+          "y1": 401.7220153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

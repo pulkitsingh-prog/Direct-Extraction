@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "[●]"
+    ],
+    "Sponsor_name": [
+      "Brookfield Corporation"
+    ],
+    "MostRecentDocDate": "09/12/2024",
+    "Administrative_Agent": [
+      "ROYAL BANK OF CANADA"
+    ],
+    "Lead_Arrangers": [
+      "RBC CAPITAL MARKETS, LLC",
+      "BMO CAPITAL MARKETS CORP.",
+      "CITIGROUP GLOBAL MARKETS INC.",
+      "UBS SECURITIES LLC",
+      "MUFG BANK, LTD.",
+      "SUMITOMO MITSUI BANKING CORPORATION",
+      "BROOKFIELD CAPITAL SOLUTIONS"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 253.3699951171875,
+          "y0": 96.5710220336914,
+          "x1": 361.27001953125,
+          "y1": 108.26094055175781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "[●]",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 271.1300048828125,
+          "y0": 228.93106079101562,
+          "x1": 343.510009765625,
+          "y1": 252.7709503173828
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Brookfield Corporation",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "9/12/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 395.3500061035156,
+          "y0": 36.431068420410156,
+          "x1": 542.739990234375,
+          "y1": 48.12098693847656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 209.57000732421875,
+          "y0": 337.321044921875,
+          "x1": 405.07000732421875,
+          "y1": 361.1309814453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "RBC CAPITAL MARKETS, LLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BROOKFIELD CAPITAL SOLUTIONS",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.489990234375,
+          "y0": 470.06103515625,
+          "x1": 316.25,
+          "y1": 493.7509765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "THERMOSTAT PURCHASER III, INC."
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "TRUIST BANK"
+    ],
+    "Lead_Arrangers": [
+      "TRUIST SECURITIES, INC.",
+      "ANTARES CAPITAL LP",
+      "ARES CAPITAL MANAGEMENT LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 110.42337036132812,
+          "x1": 394.27001953125,
+          "y1": 122.6446533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "THERMOSTAT PURCHASER III, INC.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 213.41000366210938,
+          "y0": 245.57333374023438,
+          "x1": 401.3500061035156,
+          "y1": 257.79461669921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 82,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 523.2733154296875,
+          "x1": 542.7229614257812,
+          "y1": 560.9346313476562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "TRUIST BANK",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 205.00999450683594,
+          "y0": 295.49334716796875,
+          "x1": 409.75,
+          "y1": 320.5546569824219
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ANTARES CAPITAL LP",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ARES CAPITAL MANAGEMENT LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

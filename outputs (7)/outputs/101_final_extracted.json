@@ -1,0 +1,168 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "INCREMENTAL ASSUMPTION AGREEMENT AND AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "DISCOVERY PURCHASER CORPORATION"
+    ],
+    "Sponsor_name": [
+      "Cinven Partnership LLP",
+      "Cinven Holdings Guernsey Limited"
+    ],
+    "MostRecentDocDate": "11/01/2024",
+    "Administrative_Agent": [
+      "BANK OF MONTREAL"
+    ],
+    "Lead_Arrangers": [
+      "Bank of Montreal",
+      "Barclays Bank PLC",
+      "Deutsche Bank Securities Inc."
+    ],
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "INCREMENTAL ASSUMPTION AGREEMENT AND AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 79.91232299804688,
+          "y0": 70.66854858398438,
+          "x1": 534.80712890625,
+          "y1": 98.5247802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "DISCOVERY PURCHASER CORPORATION",
+        "page": 10,
+        "block_id": 9,
+        "bbox": {
+          "x0": 203.64002990722656,
+          "y0": 463.66558837890625,
+          "x1": 391.4528503417969,
+          "y1": 488.7313232421875
+        },
+        "page_width": 595.25,
+        "page_height": 841.9000244140625
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Cinven Partnership LLP",
+        "page": 144,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 575.1280517578125,
+          "x1": 520.017578125,
+          "y1": 658.6119995117188
+        },
+        "page_width": 595.25,
+        "page_height": 841.9000244140625
+      },
+      {
+        "value": "Cinven Holdings Guernsey Limited",
+        "page": 144,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 575.1280517578125,
+          "x1": 520.017578125,
+          "y1": 658.6119995117188
+        },
+        "page_width": 595.25,
+        "page_height": 841.9000244140625
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 1, 2024",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 79.91232299804688,
+          "y0": 70.66854858398438,
+          "x1": 534.80712890625,
+          "y1": 98.5247802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF MONTREAL",
+        "page": 10,
+        "block_id": 9,
+        "bbox": {
+          "x0": 203.64002990722656,
+          "y0": 463.66558837890625,
+          "x1": 391.4528503417969,
+          "y1": 488.7313232421875
+        },
+        "page_width": 595.25,
+        "page_height": 841.9000244140625
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Bank of Montreal",
+        "page": 8,
+        "block_id": 1,
+        "bbox": {
+          "x0": 214.19700622558594,
+          "y0": 97.76700592041016,
+          "x1": 397.7979736328125,
+          "y1": 109.94400787353516
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 8,
+        "block_id": 1,
+        "bbox": {
+          "x0": 214.19700622558594,
+          "y0": 97.76700592041016,
+          "x1": 397.7979736328125,
+          "y1": 109.94400787353516
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 8,
+        "block_id": 1,
+        "bbox": {
+          "x0": 214.19700622558594,
+          "y0": 97.76700592041016,
+          "x1": 397.7979736328125,
+          "y1": 109.94400787353516
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 79.91232299804688,
+          "y0": 70.66854858398438,
+          "x1": 534.80712890625,
+          "y1": 98.5247802734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

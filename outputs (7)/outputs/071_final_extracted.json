@@ -1,0 +1,222 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 2 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Sophia, L.P."
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "04/19/2022",
+    "Administrative_Agent": [
+      "Bank of America, N.A."
+    ],
+    "Lead_Arrangers": [
+      "Bank of America, N. A.",
+      "Morgan Stanley Senior Funding, Inc.",
+      "JPMorgan Chase Bank, N.A.",
+      "Royal Bank of Canada",
+      "Goldman Sachs Bank USA",
+      "UBS Securities LLC",
+      "BMO Capital Markets Corp.",
+      "Barclays Bank PLC",
+      "Deutsche Bank Securities Inc."
+    ],
+    "AmendmentNumber": "2"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 2 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 137.63900756835938,
+          "y0": 72.36669158935547,
+          "x1": 477.5513610839844,
+          "y1": 85.62744140625
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Sophia, L.P.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 137.63900756835938,
+          "y0": 72.36669158935547,
+          "x1": 477.5513610839844,
+          "y1": 85.62744140625
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "April 19, 2022",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 137.63900756835938,
+          "y0": 72.36669158935547,
+          "x1": 477.5513610839844,
+          "y1": 85.62744140625
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Bank of America, N.A.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 137.63900756835938,
+          "y0": 72.36669158935547,
+          "x1": 477.5513610839844,
+          "y1": 85.62744140625
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Bank of America, N. A.",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Royal Bank of Canada",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 10,
+        "block_id": 12,
+        "bbox": {
+          "x0": 287.1600036621094,
+          "y0": 651.3634033203125,
+          "x1": 303.1197509765625,
+          "y1": 663.5846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "2",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 137.63900756835938,
+          "y0": 72.36669158935547,
+          "x1": 477.5513610839844,
+          "y1": 85.62744140625
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ]
+  }
+}

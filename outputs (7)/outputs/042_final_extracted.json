@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN TERM LOAN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ILLUMINATE MERGER SUB CORP."
+    ],
+    "Sponsor_name": [
+      "LGP",
+      "WSC",
+      "AEA"
+    ],
+    "MostRecentDocDate": "07/23/2021",
+    "Administrative_Agent": [
+      "DEUTSCHE BANK AG NEW YORK BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "DEUTSCHE BANK SECURITIES INC.",
+      "GOLDMAN SACHS LENDING PARTNERS LLC",
+      "BARCLAYS BANK PLC",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "KEYBANC CAPITAL MARKETS INC.",
+      "NOMURA SECURITIES INTERNATIONAL, INC."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN TERM LOAN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 187.33999633789062,
+          "y0": 120.3568344116211,
+          "x1": 427.4649963378906,
+          "y1": 132.51168823242188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ILLUMINATE MERGER SUB CORP.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 166.6999969482422,
+          "y0": 230.29684448242188,
+          "x1": 448.04498291015625,
+          "y1": 255.11166381835938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "LGP",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.0400085449219,
+          "y0": 440.19683837890625,
+          "x1": 316.68499755859375,
+          "y1": 452.3516845703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WSC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.0400085449219,
+          "y0": 440.19683837890625,
+          "x1": 316.68499755859375,
+          "y1": 452.3516845703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AEA",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 298.0400085449219,
+          "y0": 440.19683837890625,
+          "x1": 316.68499755859375,
+          "y1": 452.3516845703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 23, 2021",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 249.6199951171875,
+          "y0": 157.03683471679688,
+          "x1": 365.125,
+          "y1": 169.19168090820312
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "DEUTSCHE BANK AG NEW YORK BRANCH",
+        "page": 7,
+        "block_id": 0,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 585.8167724609375,
+          "x1": 540.0393676757812,
+          "y1": 724.4716796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 55,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 673.0567626953125,
+          "x1": 542.816162109375,
+          "y1": 710.5516967773438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS LENDING PARTNERS LLC",
+        "page": 55,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 673.0567626953125,
+          "x1": 542.816162109375,
+          "y1": 710.5516967773438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 55,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 673.0567626953125,
+          "x1": 542.816162109375,
+          "y1": 710.5516967773438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 55,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 673.0567626953125,
+          "x1": 542.816162109375,
+          "y1": 710.5516967773438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 55,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 673.0567626953125,
+          "x1": 542.816162109375,
+          "y1": 710.5516967773438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 55,
+        "block_id": 13,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 673.0567626953125,
+          "x1": 542.816162109375,
+          "y1": 710.5516967773438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

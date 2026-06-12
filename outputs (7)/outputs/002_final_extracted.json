@@ -1,0 +1,182 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 3",
+    "LegalIssuer": [
+      "Medline Borrower, LP"
+    ],
+    "Sponsor_name": [
+      "the Blackstone Funds",
+      "the Carlyle Funds",
+      "the H&F Funds"
+    ],
+    "MostRecentDocDate": "07/08/2024",
+    "Administrative_Agent": [
+      "Bank of America, N.A."
+    ],
+    "Lead_Arrangers": [
+      "Bof. A Securities, Inc.",
+      "JPMorgan Chase Bank, N.A.",
+      "Goldman Sachs Bank USA"
+    ],
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 3",
+        "page": 13,
+        "block_id": 1,
+        "bbox": {
+          "x0": 239.39999389648438,
+          "y0": 65.98177337646484,
+          "x1": 375.35760498046875,
+          "y1": 81.2611312866211
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Medline Borrower, LP",
+        "page": 14,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8000183105469,
+          "y0": 511.6855773925781,
+          "x1": 313.14227294921875,
+          "y1": 522.7113037109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "the Blackstone Funds",
+        "page": 93,
+        "block_id": 8,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 385.6856384277344,
+          "x1": 537.4415283203125,
+          "y1": 500.391357421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "the Carlyle Funds",
+        "page": 93,
+        "block_id": 8,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 385.6856384277344,
+          "x1": 537.4415283203125,
+          "y1": 500.391357421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "the H&F Funds",
+        "page": 93,
+        "block_id": 8,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 385.6856384277344,
+          "x1": 537.4415283203125,
+          "y1": 500.391357421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 8, 2024",
+        "page": 14,
+        "block_id": 4,
+        "bbox": {
+          "x0": 255.83999633789062,
+          "y0": 177.60562133789062,
+          "x1": 355.8739318847656,
+          "y1": 188.63134765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Bank of America, N.A.",
+        "page": 14,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8000183105469,
+          "y0": 511.6855773925781,
+          "x1": 313.14227294921875,
+          "y1": 522.7113037109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Bof. A Securities, Inc.",
+        "page": 14,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8000183105469,
+          "y0": 511.6855773925781,
+          "x1": 313.14227294921875,
+          "y1": 522.7113037109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 14,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8000183105469,
+          "y0": 511.6855773925781,
+          "x1": 313.14227294921875,
+          "y1": 522.7113037109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 14,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.8000183105469,
+          "y0": 511.6855773925781,
+          "x1": 313.14227294921875,
+          "y1": 522.7113037109375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.00811767578125,
+          "y0": 70.5417709350586,
+          "x1": 542.8206787109375,
+          "y1": 212.16278076171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

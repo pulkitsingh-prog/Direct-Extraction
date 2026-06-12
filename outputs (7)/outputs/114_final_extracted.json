@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 7 AND JOINDER TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "BCPE EMPIRE HOLDINGS, INC."
+    ],
+    "Sponsor_name": [
+      "Bain"
+    ],
+    "MostRecentDocDate": "10/23/2024",
+    "Administrative_Agent": [
+      "UBS AG CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "UBS Securities LLC",
+      "JPMorgan Chase Bank, N.A.",
+      "Citizens Bank, N.A.",
+      "TD Securities (USA) LLC",
+      "BMO Capital Markets Corp.",
+      "U.S. Bank National Association",
+      "Barclays Bank PLC",
+      "MUFG Bank, LTD.",
+      "Goldman Sachs Bank USA"
+    ],
+    "AmendmentNumber": 7
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 7 AND JOINDER TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 112.28019714355469,
+          "y0": 84.47701263427734,
+          "x1": 505.32470703125,
+          "y1": 96.63187408447266
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "BCPE EMPIRE HOLDINGS, INC.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 112.28019714355469,
+          "y0": 84.47701263427734,
+          "x1": 505.32470703125,
+          "y1": 96.63187408447266
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Bain",
+        "page": 12,
+        "block_id": 20,
+        "bbox": {
+          "x0": 297.9606018066406,
+          "y0": 588.12451171875,
+          "x1": 313.9222106933594,
+          "y1": 600.3458251953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 23, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 112.28019714355469,
+          "y0": 84.47701263427734,
+          "x1": 505.32470703125,
+          "y1": 96.63187408447266
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG CAYMAN ISLANDS BRANCH",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 112.28019714355469,
+          "y0": 84.47701263427734,
+          "x1": 505.32470703125,
+          "y1": 96.63187408447266
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS Securities LLC",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, N.A.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD Securities (USA) LLC",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. Bank National Association",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG Bank, LTD.",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 2,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.00032043457031,
+          "y0": 423.99774169921875,
+          "x1": 542.9664916992188,
+          "y1": 486.7923583984375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 7,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 112.28019714355469,
+          "y0": 84.47701263427734,
+          "x1": 505.32470703125,
+          "y1": 96.63187408447266
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

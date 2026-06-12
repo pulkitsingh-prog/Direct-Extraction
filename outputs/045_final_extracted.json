@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "EPIC Y-GRADE SERVICES, LP"
+    ],
+    "Sponsor_name": [
+      "Parent",
+      "AF V Energy III AIV, L.P.",
+      "AEOF EPIC Holdings, L.P.",
+      "Ares EPIC Co-Invest, L.P."
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "BARCLAYS BANK PLC",
+      "WELLS FARGO SECURITIES, LLC",
+      "UBS SECURITIES LLC",
+      "MUFG BANK, LTD",
+      "TCBI SECURITIES, INC., doing business as TEXAS CAPITAL SECURITIES"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 249.52999877929688,
+          "y0": 215.18338012695312,
+          "x1": 365.3500061035156,
+          "y1": 227.4046630859375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "EPIC Y-GRADE SERVICES, LP",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 230.08999633789062,
+          "y0": 326.453369140625,
+          "x1": 384.7900085449219,
+          "y1": 338.6746520996094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Parent",
+        "page": 63,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 159.02334594726562,
+          "x1": 542.5492553710938,
+          "y1": 234.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AF V Energy III AIV, L.P.",
+        "page": 63,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 159.02334594726562,
+          "x1": 542.5492553710938,
+          "y1": 234.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "AEOF EPIC Holdings, L.P.",
+        "page": 63,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 159.02334594726562,
+          "x1": 542.5492553710938,
+          "y1": 234.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares EPIC Co-Invest, L.P.",
+        "page": 63,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 159.02334594726562,
+          "x1": 542.5492553710938,
+          "y1": 234.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 246.88999938964844,
+          "y0": 376.37335205078125,
+          "x1": 367.9900207519531,
+          "y1": 401.19464111328125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 515.5933837890625,
+          "x1": 394.1500244140625,
+          "y1": 540.4146728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 515.5933837890625,
+          "x1": 394.1500244140625,
+          "y1": 540.4146728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 19,
+        "bbox": {
+          "x0": 249.64999389648438,
+          "y0": 540.913330078125,
+          "x1": 365.2300109863281,
+          "y1": 553.1346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD",
+        "page": 1,
+        "block_id": 20,
+        "bbox": {
+          "x0": 259.7300109863281,
+          "y0": 553.5133056640625,
+          "x1": 357.9100036621094,
+          "y1": 565.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TCBI SECURITIES, INC., doing business as TEXAS CAPITAL SECURITIES",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 128.4199981689453,
+          "y0": 566.2333984375,
+          "x1": 489.1000061035156,
+          "y1": 591.0846557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 1 to the FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "LSCS HOLDINGS, INC."
+    ],
+    "Sponsor_name": [
+      "JLL",
+      "Water Street"
+    ],
+    "MostRecentDocDate": "07/01/2023",
+    "Administrative_Agent": [
+      "KEYBANK NATIONAL ASSOCIATION"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "KEYBANC CAPITAL MARKETS INC.",
+      "RBC CAPITAL MARKETS"
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 1 to the FIRST LIEN CREDIT AGREEMENT",
+        "page": 4,
+        "block_id": 1,
+        "bbox": {
+          "x0": 233.3800048828125,
+          "y0": 112.52001953125,
+          "x1": 381.6199951171875,
+          "y1": 125.55238342285156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "LSCS HOLDINGS, INC.",
+        "page": 4,
+        "block_id": 1,
+        "bbox": {
+          "x0": 233.3800048828125,
+          "y0": 112.52001953125,
+          "x1": 381.6199951171875,
+          "y1": 125.55238342285156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "JLL",
+        "page": 88,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 185.28335571289062,
+          "x1": 537.3356323242188,
+          "y1": 210.1046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Water Street",
+        "page": 88,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 185.28335571289062,
+          "x1": 537.3356323242188,
+          "y1": 210.1046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 1, 2023",
+        "page": 4,
+        "block_id": 1,
+        "bbox": {
+          "x0": 233.3800048828125,
+          "y0": 112.52001953125,
+          "x1": 381.6199951171875,
+          "y1": 125.55238342285156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "KEYBANK NATIONAL ASSOCIATION",
+        "page": 4,
+        "block_id": 1,
+        "bbox": {
+          "x0": 233.3800048828125,
+          "y0": 112.52001953125,
+          "x1": 381.6199951171875,
+          "y1": 125.55238342285156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 5,
+        "block_id": 10,
+        "bbox": {
+          "x0": 214.9199981689453,
+          "y0": 370.443359375,
+          "x1": 396.95819091796875,
+          "y1": 458.3846435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KEYBANC CAPITAL MARKETS INC.",
+        "page": 5,
+        "block_id": 10,
+        "bbox": {
+          "x0": 214.9199981689453,
+          "y0": 370.443359375,
+          "x1": 396.95819091796875,
+          "y1": 458.3846435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 5,
+        "block_id": 10,
+        "bbox": {
+          "x0": 214.9199981689453,
+          "y0": 370.443359375,
+          "x1": 396.95819091796875,
+          "y1": 458.3846435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 4,
+        "block_id": 1,
+        "bbox": {
+          "x0": 233.3800048828125,
+          "y0": 112.52001953125,
+          "x1": 381.6199951171875,
+          "y1": 125.55238342285156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CHARTER NEXT GENERATION, INC."
+    ],
+    "Sponsor_name": [
+      "KKR",
+      "Leonard Green"
+    ],
+    "MostRecentDocDate": "10/23/2024",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "KKR Capital Markets LLC",
+      "Jefferies Finance LLC",
+      "Morgan Stanley Senior Funding, Inc.",
+      "Goldman Sachs Bank USA",
+      "Nomura Securities International, Inc."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CHARTER NEXT GENERATION, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 133.10000610351562,
+          "y0": 432.5533752441406,
+          "x1": 484.5400085449219,
+          "y1": 444.774658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Leonard Green",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "10/23/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 447.7900085449219,
+          "y0": 54.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 66.58465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 205.00999450683594,
+          "y0": 519.7933349609375,
+          "x1": 409.75,
+          "y1": 544.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Nomura Securities International, Inc.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 557.1134033203125,
+          "x1": 316.7300109863281,
+          "y1": 569.3346557617188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

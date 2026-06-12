@@ -1,0 +1,252 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "THIRD AMENDMENT TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "THE ACTION ENVIRONMENTAL GROUP, INC."
+    ],
+    "Sponsor_name": [
+      "Ares Corporate Opportunities Fund VI, L.P.",
+      "Ares Corporate Opportunities Fund VI Parallel (TE), L.P.",
+      "Ares Corporate Opportunities Fund VI Parallel (Foreign), L.P.",
+      "Littlejohn & Co., LLC",
+      "Littlejohn Fund VI, L.P.",
+      "Littlejohn Fund VI-A, L.P."
+    ],
+    "MostRecentDocDate": "08/16/2024",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMORGAN CHASE BANK, N.A.",
+      "BMO CAPITAL MARKETS CORP.",
+      "MUFG BANK, LTD.",
+      "STIFEL NICOLAUS AND COMPANY, INCORPORATED",
+      "COMERICA BANK"
+    ],
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "THIRD AMENDMENT TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 179.75990295410156,
+          "y0": 72.37234497070312,
+          "x1": 432.2895812988281,
+          "y1": 84.58255004882812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "THE ACTION ENVIRONMENTAL GROUP, INC.",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 179.75990295410156,
+          "y0": 72.37234497070312,
+          "x1": 432.2895812988281,
+          "y1": 84.58255004882812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Ares Corporate Opportunities Fund VI, L.P.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 350.4033508300781,
+          "x1": 313.9197692871094,
+          "y1": 362.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares Corporate Opportunities Fund VI Parallel (TE), L.P.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 350.4033508300781,
+          "x1": 313.9197692871094,
+          "y1": 362.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares Corporate Opportunities Fund VI Parallel (Foreign), L.P.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 350.4033508300781,
+          "x1": 313.9197692871094,
+          "y1": 362.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Littlejohn & Co., LLC",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 350.4033508300781,
+          "x1": 313.9197692871094,
+          "y1": 362.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Littlejohn Fund VI, L.P.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 350.4033508300781,
+          "x1": 313.9197692871094,
+          "y1": 362.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Littlejohn Fund VI-A, L.P.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 350.4033508300781,
+          "x1": 313.9197692871094,
+          "y1": 362.6246337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "August 16, 2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 179.75990295410156,
+          "y0": 72.37234497070312,
+          "x1": 432.2895812988281,
+          "y1": 84.58255004882812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 179.75990295410156,
+          "y0": 72.37234497070312,
+          "x1": 432.2895812988281,
+          "y1": 84.58255004882812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 162.95999145507812,
+          "y0": 412.203369140625,
+          "x1": 448.9200134277344,
+          "y1": 500.0246887207031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 162.95999145507812,
+          "y0": 412.203369140625,
+          "x1": 448.9200134277344,
+          "y1": 500.0246887207031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD.",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 162.95999145507812,
+          "y0": 412.203369140625,
+          "x1": 448.9200134277344,
+          "y1": 500.0246887207031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "STIFEL NICOLAUS AND COMPANY, INCORPORATED",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 162.95999145507812,
+          "y0": 412.203369140625,
+          "x1": 448.9200134277344,
+          "y1": 500.0246887207031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "COMERICA BANK",
+        "page": 11,
+        "block_id": 0,
+        "bbox": {
+          "x0": 162.95999145507812,
+          "y0": 412.203369140625,
+          "x1": 448.9200134277344,
+          "y1": 500.0246887207031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 179.75990295410156,
+          "y0": 72.37234497070312,
+          "x1": 432.2895812988281,
+          "y1": 84.58255004882812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

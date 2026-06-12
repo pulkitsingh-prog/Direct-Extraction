@@ -1,0 +1,110 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CPPIB OVM MEMBER U.S. LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "08/20/2024",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "BARCLAYS BANK PLC",
+      "JEFFERIES FINANCE LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 247.07000732421875,
+          "y0": 72.37228393554688,
+          "x1": 367.5507507324219,
+          "y1": 84.58248901367188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CPPIB OVM MEMBER U.S. LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 247.07000732421875,
+          "y0": 72.37228393554688,
+          "x1": 367.5507507324219,
+          "y1": 84.58248901367188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "August 20, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 96.98226928710938,
+          "x1": 373.7869873046875,
+          "y1": 109.19247436523438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 7,
+        "block_id": 0,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.73226928710938,
+          "x1": 540.1994018554688,
+          "y1": 159.58248901367188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.1199951171875,
+          "y0": 244.94229125976562,
+          "x1": 317.62591552734375,
+          "y1": 257.1524963378906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.1199951171875,
+          "y0": 244.94229125976562,
+          "x1": 317.62591552734375,
+          "y1": 257.1524963378906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

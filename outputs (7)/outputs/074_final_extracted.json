@@ -1,0 +1,308 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "POLARIS NEWCO, LLC",
+      "SOLERA, LLC",
+      "OMNITRACS, LLC",
+      "DEALERSOCKET, LLC"
+    ],
+    "Sponsor_name": [
+      "Vista Equity Partners Management, LLC"
+    ],
+    "MostRecentDocDate": "06/04/2021",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS LENDING PARTNERS LLC"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "GOLDMAN SACHS LENDING PARTNERS LLC",
+      "JPMORGAN CHASE BANK, N.A.",
+      "BARCLAYS BANK PLC",
+      "BNP PARIBAS SECURITIES CORP.",
+      "CITIGROUP GLOBAL MARKETS INC.",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "HSBC SECURITIES (USA) INC.",
+      "NOMURA SECURITIES INTERNATIONAL, INC.",
+      "MACQUARIE CAPITAL (USA) INC.",
+      "JEFFERIES FINANCE LLC",
+      "KKR CAPITAL MARKETS LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "POLARIS NEWCO, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SOLERA, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "OMNITRACS, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEALERSOCKET, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Vista Equity Partners Management, LLC",
+        "page": 96,
+        "block_id": 14,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 659.7479858398438,
+          "x1": 542.99755859375,
+          "y1": 686.8319702148438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "June 4, 2021",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS LENDING PARTNERS LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS LENDING PARTNERS LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP PARIBAS SECURITIES CORP.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 83.16000366210938,
+          "y0": 72.52796936035156,
+          "x1": 531.8258666992188,
+          "y1": 622.8717041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

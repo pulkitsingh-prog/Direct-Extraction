@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 5 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "AMERICAN GREETINGS CORPORATION"
+    ],
+    "Sponsor_name": [
+      "CD&R"
+    ],
+    "MostRecentDocDate": "04/30/2024",
+    "Administrative_Agent": [
+      "Barclays Bank PLC"
+    ],
+    "Lead_Arrangers": [
+      "Barclays Bank PLC",
+      "Deutsche Bank Securities Inc.",
+      "Citizens Bank, N.A.",
+      "ING Capital LLC",
+      "Bank of America, N.A.",
+      "HSBC Securities (USA) Inc.",
+      "Sumitomo Mitsui Banking Corporation",
+      "Keybanc Capital Markets Inc.",
+      "CIBC World Markets Corp."
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 5 TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 197.75900268554688,
+          "y0": 72.13671112060547,
+          "x1": 456.5318298339844,
+          "y1": 85.3974609375
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "AMERICAN GREETINGS CORPORATION",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 197.75900268554688,
+          "y0": 72.13671112060547,
+          "x1": 456.5318298339844,
+          "y1": 85.3974609375
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 128,
+        "block_id": 10,
+        "bbox": {
+          "x0": 144.0,
+          "y0": 470.38800048828125,
+          "x1": 240.24301147460938,
+          "y1": 483.6719970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "April 30, 2024",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 197.75900268554688,
+          "y0": 72.13671112060547,
+          "x1": 456.5318298339844,
+          "y1": 85.3974609375
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Barclays Bank PLC",
+        "page": 18,
+        "block_id": 2,
+        "bbox": {
+          "x0": 202.1999969482422,
+          "y0": 182.3880157470703,
+          "x1": 388.2141418457031,
+          "y1": 195.67201232910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Barclays Bank PLC",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, N.A.",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING Capital LLC",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Bank of America, N.A.",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC Securities (USA) Inc.",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Sumitomo Mitsui Banking Corporation",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Keybanc Capital Markets Inc.",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CIBC World Markets Corp.",
+        "page": 18,
+        "block_id": 6,
+        "bbox": {
+          "x0": 286.55999755859375,
+          "y0": 313.1880187988281,
+          "x1": 303.84197998046875,
+          "y1": 326.4720153808594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 197.75900268554688,
+          "y0": 72.13671112060547,
+          "x1": 456.5318298339844,
+          "y1": 85.3974609375
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ]
+  }
+}

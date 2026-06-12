@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "LEIA FINCO US LLC"
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "7/1/24",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "MIZUHO BANK, LTD.",
+      "BMO CAPITAL MARKETS CORP.",
+      "HSBC SECURITIES (USA) INC.",
+      "CITIZENS BANK, N.A.",
+      "BANCO SANTANDER, S.A., NEW YORK BRANCH",
+      "THE BANK OF NOVA SCOTIA",
+      "TD SECURITIES (USA) LLC",
+      "TRUIST SECURITIES, INC.",
+      "WELLS FARGO SECURITIES, LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 71.97787475585938,
+          "y0": 211.34439086914062,
+          "x1": 317.73931884765625,
+          "y1": 238.8118896484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "LEIA FINCO US LLC",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 71.97784423828125,
+          "y0": 236.36099243164062,
+          "x1": 357.67657470703125,
+          "y1": 276.72320556640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 108,
+        "block_id": 4,
+        "bbox": {
+          "x0": 71.99998474121094,
+          "y0": 120.45503997802734,
+          "x1": 542.8097534179688,
+          "y1": 173.53533935546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "7/1/24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 434.8800048828125,
+          "y0": 34.541770935058594,
+          "x1": 542.7628784179688,
+          "y1": 49.82113265991211
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 71.966796875,
+          "y0": 350.2165222167969,
+          "x1": 437.36871337890625,
+          "y1": 390.5787658691406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 219.81446838378906,
+          "y0": 476.6687316894531,
+          "x1": 382.74066162109375,
+          "y1": 491.9480895996094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 211.7663116455078,
+          "y0": 489.3868103027344,
+          "x1": 390.9234619140625,
+          "y1": 517.2628173828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 211.7663116455078,
+          "y0": 489.3868103027344,
+          "x1": 390.9234619140625,
+          "y1": 517.2628173828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 219.9248809814453,
+          "y0": 514.580078125,
+          "x1": 382.6434631347656,
+          "y1": 529.8594360351562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 171.5586395263672,
+          "y0": 527.2981567382812,
+          "x1": 430.9986572265625,
+          "y1": 555.1741333007812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANCO SANTANDER, S.A., NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 171.5586395263672,
+          "y0": 527.2981567382812,
+          "x1": 430.9986572265625,
+          "y1": 555.1741333007812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "THE BANK OF NOVA SCOTIA",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 71.97782897949219,
+          "y0": 451.5306396484375,
+          "x1": 316.41448974609375,
+          "y1": 479.1195983886719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 71.97782897949219,
+          "y0": 451.5306396484375,
+          "x1": 316.41448974609375,
+          "y1": 479.1195983886719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 71.97782897949219,
+          "y0": 451.5306396484375,
+          "x1": 316.41448974609375,
+          "y1": 479.1195983886719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 71.97782897949219,
+          "y0": 451.5306396484375,
+          "x1": 316.41448974609375,
+          "y1": 479.1195983886719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

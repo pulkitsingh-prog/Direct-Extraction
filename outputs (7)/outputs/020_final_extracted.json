@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "PRO MACH GROUP, INC."
+    ],
+    "Sponsor_name": [
+      "New Sponsor",
+      "LGP",
+      "BDT"
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "MORGAN STANLEY SENIOR FUNDING, INC."
+    ],
+    "Lead_Arrangers": [
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "GOLDMAN SACHS LENDING PARTNERS LLC",
+      "MUFG UNION BANK, N.A.",
+      "PNC CAPITAL MARKETS LLC",
+      "NOMURA SECURITIES INTERNATIONAL, INC.",
+      "MACQUARIE CAPITAL (USA) INC."
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 84.38333129882812,
+          "x1": 394.27001953125,
+          "y1": 109.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "PRO MACH GROUP, INC.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 84.38333129882812,
+          "x1": 394.27001953125,
+          "y1": 109.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "New Sponsor",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 426.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 438.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "LGP",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 426.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 438.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BDT",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 426.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 438.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.77000427246094,
+          "y0": 351.7733459472656,
+          "x1": 421.9900207519531,
+          "y1": 363.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.77000427246094,
+          "y0": 351.7733459472656,
+          "x1": 421.9900207519531,
+          "y1": 363.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS LENDING PARTNERS LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.77000427246094,
+          "y0": 351.7733459472656,
+          "x1": 421.9900207519531,
+          "y1": 363.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG UNION BANK, N.A.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.77000427246094,
+          "y0": 351.7733459472656,
+          "x1": 421.9900207519531,
+          "y1": 363.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PNC CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.77000427246094,
+          "y0": 351.7733459472656,
+          "x1": 421.9900207519531,
+          "y1": 363.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.77000427246094,
+          "y0": 351.7733459472656,
+          "x1": 421.9900207519531,
+          "y1": 363.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.77000427246094,
+          "y0": 351.7733459472656,
+          "x1": 421.9900207519531,
+          "y1": 363.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 92.42400360107422,
+          "y0": 180.50564575195312,
+          "x1": 522.0700073242188,
+          "y1": 191.5313720703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

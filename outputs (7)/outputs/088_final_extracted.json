@@ -1,0 +1,180 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ALLIANCE LAUNDRY SYSTEMS LLC",
+      "ALLIANCE LAUNDRY (THAILAND) COMPANY LIMITED"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "8/9/24",
+    "Administrative_Agent": [
+      "CITIBANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "CITIGROUP GLOBAL CAPITAL MARKETS INC.",
+      "BMO CAPITAL MARKETS CORP.",
+      "BOFA SECURITIES, INC.",
+      "JPMORGAN CHASE BANK, N.A.",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "UBS SECURITIES LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 247.1300048828125,
+          "y0": 135.14334106445312,
+          "x1": 367.6300048828125,
+          "y1": 147.3646240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ALLIANCE LAUNDRY SYSTEMS LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 211.00999450683594,
+          "y0": 236.45333862304688,
+          "x1": 403.8699951171875,
+          "y1": 261.274658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ALLIANCE LAUNDRY (THAILAND) COMPANY LIMITED",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 162.5,
+          "y0": 292.37335205078125,
+          "x1": 452.260009765625,
+          "y1": 304.5946350097656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "8/9/24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 436.75,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CITIBANK, N.A.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 342.89337158203125,
+          "x1": 363.9100036621094,
+          "y1": 380.43463134765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CITIGROUP GLOBAL CAPITAL MARKETS INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 187.10000610351562,
+          "y0": 380.933349609375,
+          "x1": 427.75,
+          "y1": 405.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 187.10000610351562,
+          "y0": 380.933349609375,
+          "x1": 427.75,
+          "y1": 405.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 187.10000610351562,
+          "y0": 380.933349609375,
+          "x1": 427.75,
+          "y1": 405.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 187.10000610351562,
+          "y0": 380.933349609375,
+          "x1": 427.75,
+          "y1": 405.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 187.10000610351562,
+          "y0": 380.933349609375,
+          "x1": 427.75,
+          "y1": 405.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 187.10000610351562,
+          "y0": 380.933349609375,
+          "x1": 427.75,
+          "y1": 405.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "DIRECTV Financing, LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "08/02/2021",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "BOFA SECURITIES, INC.",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "HSBC SECURITIES (USA) INC.",
+      "BMO CAPITAL MARKETS CORP",
+      "GOLDMAN SACHS BANK USA",
+      "MIZUHO BANK, LTD.",
+      "MUFG UNION BANK, N.A.",
+      "UBS SECURITIES LLC",
+      "BARCLAYS BANK PLC",
+      "JEFFERIES FINANCE LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 136.94338989257812,
+          "x1": 363.9100036621094,
+          "y1": 149.1646728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "DIRECTV Financing, LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 136.94338989257812,
+          "x1": 363.9100036621094,
+          "y1": 149.1646728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "August 2, 2021",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 245.80999755859375,
+          "y0": 173.54336547851562,
+          "x1": 368.95001220703125,
+          "y1": 185.7646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 165.5,
+          "y0": 298.13336181640625,
+          "x1": 449.3500061035156,
+          "y1": 323.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG UNION BANK, N.A.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 562.5133056640625,
+          "x1": 316.7300109863281,
+          "y1": 574.734619140625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

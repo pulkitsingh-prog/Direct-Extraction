@@ -1,0 +1,334 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "BELRON FINANCE LIMITED",
+      "BELRON FINANCE US LLC",
+      "BELRON FINANCE 2019 LLC",
+      "BELRON LUXEMBOURG S.À R.L."
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "BANK OF AMERICA, N.A., LONDON BRANCH",
+      "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
+      "BARCLAYS BANK PLC",
+      "BNP PARIBAS",
+      "ING BANK N.V., LONDON BRANCH",
+      "J.P. MORGAN SE",
+      "JPMORGAN CHASE BANK, N.A.",
+      "CITIBANK N.A., LONDON BRANCH",
+      "CITIZENS BANK, N.A.",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "DEUTSCHE BANK AG, LONDON BRANCH",
+      "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "GOLDMAN SACHS BANK USA",
+      "HSBC BANK PLC",
+      "KBC BANK, NV"
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.86399841308594,
+          "y0": 106.22335815429688,
+          "x1": 524.8300170898438,
+          "y1": 143.7646484375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "BELRON FINANCE LIMITED",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 82.2239990234375,
+          "y0": 174.38565063476562,
+          "x1": 515.1904907226562,
+          "y1": 196.93133544921875
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "BELRON FINANCE US LLC",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 82.2239990234375,
+          "y0": 174.38565063476562,
+          "x1": 515.1904907226562,
+          "y1": 196.93133544921875
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "BELRON FINANCE 2019 LLC",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 82.2239990234375,
+          "y0": 174.38565063476562,
+          "x1": 515.1904907226562,
+          "y1": 196.93133544921875
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "BELRON LUXEMBOURG S.À R.L.",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 82.2239990234375,
+          "y0": 174.38565063476562,
+          "x1": 515.1904907226562,
+          "y1": 196.93133544921875
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 199.85000610351562,
+          "y0": 214.94564819335938,
+          "x1": 398.1999816894531,
+          "y1": 237.4913330078125
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BANK OF AMERICA, N.A., LONDON BRANCH",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 229.1300048828125,
+          "y0": 347.9356384277344,
+          "x1": 368.79998779296875,
+          "y1": 358.96136474609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 229.1300048828125,
+          "y0": 347.9356384277344,
+          "x1": 368.79998779296875,
+          "y1": 358.96136474609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 229.1300048828125,
+          "y0": 347.9356384277344,
+          "x1": 368.79998779296875,
+          "y1": 358.96136474609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "BNP PARIBAS",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 229.1300048828125,
+          "y0": 347.9356384277344,
+          "x1": 368.79998779296875,
+          "y1": 358.96136474609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "ING BANK N.V., LONDON BRANCH",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 229.1300048828125,
+          "y0": 347.9356384277344,
+          "x1": 368.79998779296875,
+          "y1": 358.96136474609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "J.P. MORGAN SE",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 229.1300048828125,
+          "y0": 347.9356384277344,
+          "x1": 368.79998779296875,
+          "y1": 358.96136474609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 229.1300048828125,
+          "y0": 347.9356384277344,
+          "x1": 368.79998779296875,
+          "y1": 358.96136474609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "CITIBANK N.A., LONDON BRANCH",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "DEUTSCHE BANK AG, LONDON BRANCH",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "HSBC BANK PLC",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      },
+      {
+        "value": "KBC BANK, NV",
+        "page": 1,
+        "block_id": 36,
+        "bbox": {
+          "x0": 225.2899932861328,
+          "y0": 762.0032958984375,
+          "x1": 375.07000732421875,
+          "y1": 774.224609375
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 371.8299865722656,
+          "y0": 36.485626220703125,
+          "x1": 526.0299682617188,
+          "y1": 47.51134490966797
+        },
+        "page_width": 595.4400024414062,
+        "page_height": 841.6799926757812
+      }
+    ]
+  }
+}

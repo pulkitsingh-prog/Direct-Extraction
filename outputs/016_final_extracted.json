@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "[INITIAL BORROWER]",
+      "[ULTIMATE BORROWER]"
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "09/10/2024",
+    "Administrative_Agent": [
+      "MORGAN STANLEY SENIOR FUNDING, INC."
+    ],
+    "Lead_Arrangers": [
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "KKR CAPITAL MARKETS LLC",
+      "UBS SECURITIES LLC",
+      "JEFFERIES FINANCE LLC",
+      "RBC CAPITAL MARKETS",
+      "HSBC SECURITIES (USA) INC.",
+      "MIZUHO BANK, LTD."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 220.5601806640625,
+          "y0": 144.47720336914062,
+          "x1": 394.13751220703125,
+          "y1": 156.63204956054688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "[INITIAL BORROWER]",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 116.28091430664062,
+          "y0": 293.0365295410156,
+          "x1": 498.44525146484375,
+          "y1": 317.851318359375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "[ULTIMATE BORROWER]",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 254.5806121826172,
+          "y0": 169.13717651367188,
+          "x1": 360.1060791015625,
+          "y1": 181.29202270507812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 92,
+        "block_id": 8,
+        "bbox": {
+          "x0": 71.99880981445312,
+          "y0": 499.2554931640625,
+          "x1": 542.7937622070312,
+          "y1": 536.730224609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "9/10/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 390.29998779296875,
+          "y0": 36.476829528808594,
+          "x1": 542.6946411132812,
+          "y1": 48.631690979003906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 188.82028198242188,
+          "y0": 416.8755187988281,
+          "x1": 425.933349609375,
+          "y1": 441.6903076171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 188.82028198242188,
+          "y0": 416.8755187988281,
+          "x1": 425.933349609375,
+          "y1": 441.6903076171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.78076171875,
+          "y0": 490.85546875,
+          "x1": 421.9947814941406,
+          "y1": 604.1710815429688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.78076171875,
+          "y0": 490.85546875,
+          "x1": 421.9947814941406,
+          "y1": 604.1710815429688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.78076171875,
+          "y0": 490.85546875,
+          "x1": 421.9947814941406,
+          "y1": 604.1710815429688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.78076171875,
+          "y0": 490.85546875,
+          "x1": 421.9947814941406,
+          "y1": 604.1710815429688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.78076171875,
+          "y0": 490.85546875,
+          "x1": 421.9947814941406,
+          "y1": 604.1710815429688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 192.78076171875,
+          "y0": 490.85546875,
+          "x1": 421.9947814941406,
+          "y1": 604.1710815429688
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

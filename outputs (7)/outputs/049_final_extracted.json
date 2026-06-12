@@ -1,0 +1,308 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "TERM LOAN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CD&R HYDRA BUYER, INC.",
+      "STS OPERATING, INC."
+    ],
+    "Sponsor_name": [
+      "CD&R"
+    ],
+    "MostRecentDocDate": "3/12/24",
+    "Administrative_Agent": [
+      "UBS AG, STAMFORD BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "UBS SECURITIES LLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "BANK OF AMERICA, N.A.",
+      "BARCLAYS BANK PLC",
+      "BNP PARIBAS SECURITIES CORP.",
+      "GOLDMAN SACHS BANK USA",
+      "JEFFERIES FINANCE LLC",
+      "MIZUHO BANK, LTD.",
+      "NATIXIS, S.A. NEW YORK BRANCH",
+      "ROYAL BANK OF CANADA",
+      "WELLS FARGO SECURITIES, LLC",
+      "U.S. BANK NATIONAL ASSOCIATION",
+      "ING CAPITAL LLC"
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "TERM LOAN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 35.86799621582031,
+          "x1": 543.0999755859375,
+          "y1": 187.17201232910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CD&R HYDRA BUYER, INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 209.4499969482422,
+          "y0": 199.68800354003906,
+          "x1": 405.54998779296875,
+          "y1": 212.9720001220703
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "STS OPERATING, INC.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 243.88999938964844,
+          "y0": 265.1180114746094,
+          "x1": 371.2300109863281,
+          "y1": 292.2019958496094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 91,
+        "block_id": 15,
+        "bbox": {
+          "x0": 144.02000427246094,
+          "y0": 589.16796875,
+          "x1": 243.41000366210938,
+          "y1": 602.4519653320312
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "3/12/24",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 35.86799621582031,
+          "x1": 543.0999755859375,
+          "y1": 187.17201232910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG, STAMFORD BRANCH",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 194.3300018310547,
+          "y0": 383.9179992675781,
+          "x1": 420.6700134277344,
+          "y1": 411.00201416015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP PARIBAS SECURITIES CORP.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NATIXIS, S.A. NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING CAPITAL LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 358.1180114746094,
+          "x1": 317.69000244140625,
+          "y1": 371.4020080566406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 35.86799621582031,
+          "x1": 543.0999755859375,
+          "y1": 187.17201232910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

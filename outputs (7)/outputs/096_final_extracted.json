@@ -1,0 +1,194 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CACI INTERNATIONAL INC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMORGAN CHASE BANK, N.A.",
+      "BANK OF AMERICA, N.A.",
+      "TRUIST BANK",
+      "PNC BANK, NATIONAL ASSOCIATION",
+      "TD SECURITIES (USA) LLC",
+      "MUFG BANK, LTD",
+      "WELLS FARGO BANK, NATIONAL ASSOCIATION",
+      "U.S. BANK NATIONAL ASSOCIATION",
+      "CAPITAL ONE, NATIONAL ASSOCIATION"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 7,
+        "block_id": 1,
+        "bbox": {
+          "x0": 250.8038330078125,
+          "y0": 70.84036254882812,
+          "x1": 363.8424072265625,
+          "y1": 85.71124267578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CACI INTERNATIONAL INC",
+        "page": 7,
+        "block_id": 1,
+        "bbox": {
+          "x0": 250.8038330078125,
+          "y0": 70.84036254882812,
+          "x1": 363.8424072265625,
+          "y1": 85.71124267578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 7,
+        "block_id": 1,
+        "bbox": {
+          "x0": 250.8038330078125,
+          "y0": 70.84036254882812,
+          "x1": 363.8424072265625,
+          "y1": 85.71124267578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST BANK",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "PNC BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG BANK, LTD",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO BANK, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CAPITAL ONE, NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 225.13673400878906,
+          "y0": 386.8481750488281,
+          "x1": 389.53338623046875,
+          "y1": 427.0337829589844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

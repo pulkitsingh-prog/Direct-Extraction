@@ -1,0 +1,140 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "SOUTHERN VETERINARY PARTNERS, LLC"
+    ],
+    "Sponsor_name": [
+      "Shore Capital Partners Management, L.P.",
+      "Silver Lake"
+    ],
+    "MostRecentDocDate": "10/28/2024",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "AmendmentNumber": 10
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 220.61000061035156,
+          "y0": 292.8533630371094,
+          "x1": 394.27001953125,
+          "y1": 305.07464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "SOUTHERN VETERINARY PARTNERS, LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 194.80999755859375,
+          "y0": 404.1133728027344,
+          "x1": 420.07000732421875,
+          "y1": 416.33465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Shore Capital Partners Management, L.P.",
+        "page": 91,
+        "block_id": 7,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 310.8533630371094,
+          "x1": 542.829345703125,
+          "y1": 335.7946472167969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Silver Lake",
+        "page": 91,
+        "block_id": 7,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 310.8533630371094,
+          "x1": 542.829345703125,
+          "y1": 335.7946472167969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "10/28/2024",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 406.510009765625,
+          "y0": 188.18338012695312,
+          "x1": 542.8599853515625,
+          "y1": 200.4046630859375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 87.26399993896484,
+          "y0": 491.3533630371094,
+          "x1": 527.6199951171875,
+          "y1": 516.1746826171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.010009765625,
+          "y0": 466.75335693359375,
+          "x1": 319.3699951171875,
+          "y1": 478.9746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 10,
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 162.86337280273438,
+          "x1": 542.8599853515625,
+          "y1": 187.68463134765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

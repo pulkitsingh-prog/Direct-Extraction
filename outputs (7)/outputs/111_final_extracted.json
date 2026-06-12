@@ -1,0 +1,112 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "HANGER, INC."
+    ],
+    "Sponsor_name": [
+      "Patient Square Capital LP"
+    ],
+    "MostRecentDocDate": "10.16.24",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "Barclays"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 241.85000610351562,
+          "y0": 75.00801086425781,
+          "x1": 543.0999755859375,
+          "y1": 115.8919906616211
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "HANGER, INC.",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 246.0500030517578,
+          "y0": 170.40797424316406,
+          "x1": 369.07000732421875,
+          "y1": 211.29200744628906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Patient Square Capital LP",
+        "page": 93,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 310.1180114746094,
+          "x1": 543.0099487304688,
+          "y1": 433.822021484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "10.16.24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 415.989990234375,
+          "y0": 36.46797180175781,
+          "x1": 543.0999755859375,
+          "y1": 49.75197219848633
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 188.4199981689453,
+          "y0": 336.03802490234375,
+          "x1": 426.54998779296875,
+          "y1": 376.9219970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Barclays",
+        "page": 66,
+        "block_id": 7,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 217.08802795410156,
+          "x1": 542.8700561523438,
+          "y1": 244.17201232910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

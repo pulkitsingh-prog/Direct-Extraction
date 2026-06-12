@@ -1,0 +1,490 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 11",
+    "LegalIssuer": [
+      "Belron Finance Limited",
+      "Belron Finance 2019 LLC",
+      "Belron UK Finance Plc"
+    ],
+    "Sponsor_name": [
+      "D’Ieteren",
+      "CD&R",
+      "Hellman & Friedman",
+      "GIC",
+      "BlackRock Private Equity Partners"
+    ],
+    "MostRecentDocDate": "10/16/2024",
+    "Administrative_Agent": [
+      "JPMorgan Chase Bank, N.A."
+    ],
+    "Lead_Arrangers": [
+      "Bank of America, N.A., London Branch",
+      "Bank of America Euro Designated Activity Company",
+      "BNP Paribas",
+      "BNP Paribas Fortis SA/NV",
+      "J.P. Morgan SE",
+      "JPMorgan Chase Bank, N.A.",
+      "Barclays Bank PLC",
+      "Citibank N.A., London Branch",
+      "Fifth Third Bank, National Association",
+      "Goldman Sachs Bank USA",
+      "HSBC Bank PLC",
+      "ING Bank N.V., London Branch",
+      "Morgan Stanley Bank AG",
+      "SMBC Bank International PLC",
+      "Societe Generale London Branch",
+      "Banco Bilbao Vizcaya Argentaria, S.A., London Branch",
+      "Citizens Bank, N.A.",
+      "Deutsche Bank AG, London Branch",
+      "Intesa Sanpaolo S.P.A.",
+      "KBC Bank, NV",
+      "Mediobanca – Banca di Credito Finanziario S.P.A."
+    ],
+    "AmendmentNumber": 11
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 11",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Belron Finance Limited",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Belron Finance 2019 LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Belron UK Finance Plc",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "D’Ieteren",
+        "page": 19,
+        "block_id": 4,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 135.996337890625,
+          "x1": 314.56268310546875,
+          "y1": 144.8966064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CD&R",
+        "page": 19,
+        "block_id": 4,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 135.996337890625,
+          "x1": 314.56268310546875,
+          "y1": 144.8966064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Hellman & Friedman",
+        "page": 19,
+        "block_id": 4,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 135.996337890625,
+          "x1": 314.56268310546875,
+          "y1": 144.8966064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GIC",
+        "page": 19,
+        "block_id": 4,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 135.996337890625,
+          "x1": 314.56268310546875,
+          "y1": 144.8966064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BlackRock Private Equity Partners",
+        "page": 19,
+        "block_id": 4,
+        "bbox": {
+          "x0": 297.36004638671875,
+          "y0": 135.996337890625,
+          "x1": 314.56268310546875,
+          "y1": 144.8966064453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 16, 2024",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Bank of America, N.A., London Branch",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Bank of America Euro Designated Activity Company",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Fortis SA/NV",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "J.P. Morgan SE",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citibank N.A., London Branch",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Fifth Third Bank, National Association",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC Bank PLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING Bank N.V., London Branch",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Bank AG",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SMBC Bank International PLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Societe Generale London Branch",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Banco Bilbao Vizcaya Argentaria, S.A., London Branch",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, N.A.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank AG, London Branch",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Intesa Sanpaolo S.P.A.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KBC Bank, NV",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mediobanca – Banca di Credito Finanziario S.P.A.",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 11,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.79519653320312,
+          "y0": 82.66707611083984,
+          "x1": 363.8337707519531,
+          "y1": 97.9464340209961
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

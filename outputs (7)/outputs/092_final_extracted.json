@@ -1,0 +1,266 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "APPLE BIDCO, LLC"
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "12/06/2023",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "KKR CAPITAL MARKETS LLC",
+      "JEFFERIES FINANCE LLC",
+      "GOLDMAN SACHS BANK USA",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "HSBC SECURITIES (USA) INC.",
+      "MIZUHO BANK, LTD.",
+      "BNP PARIBAS SECURITIES CORP.",
+      "SOCIÉTÉ GÉNÉRALE",
+      "SUMITOMO MITSUI BANKING CORPORATION",
+      "WELLS FARGO SECURITIES, LLC",
+      "U.S. BANK NATIONAL ASSOCIATION"
+    ],
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 2,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.8000030517578,
+          "y0": 72.26217651367188,
+          "x1": 463.3078918457031,
+          "y1": 84.46131134033203
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "APPLE BIDCO, LLC",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 254.16000366210938,
+          "y0": 183.15115356445312,
+          "x1": 360.9593811035156,
+          "y1": 207.94032287597656
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 103,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 674.643310546875,
+          "x1": 540.1200561523438,
+          "y1": 699.4646606445312
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "December 6, 2023",
+        "page": 2,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.8000030517578,
+          "y0": 72.26217651367188,
+          "x1": 463.3078918457031,
+          "y1": 84.46131134033203
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 2,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.63217163085938,
+          "x1": 543.2454223632812,
+          "y1": 197.2613067626953
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "BNP PARIBAS SECURITIES CORP.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "SOCIÉTÉ GÉNÉRALE",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "U.S. BANK NATIONAL ASSOCIATION",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 240.8300018310547,
+          "y0": 257.6711730957031,
+          "x1": 374.1279602050781,
+          "y1": 269.87030029296875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 2,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.8000030517578,
+          "y0": 72.26217651367188,
+          "x1": 463.3078918457031,
+          "y1": 84.46131134033203
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ]
+  }
+}

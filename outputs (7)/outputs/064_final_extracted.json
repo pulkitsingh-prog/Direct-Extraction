@@ -1,0 +1,168 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 3 TO THE CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "PEDIATRIC ASSOCIATES HOLDING COMPANY, LLC"
+    ],
+    "Sponsor_name": [
+      "Summit Partners, L.P.",
+      "TPG Capital, L.P."
+    ],
+    "MostRecentDocDate": "05/26/2023",
+    "Administrative_Agent": [
+      "Credit Suisse AG, Cayman Islands Branch"
+    ],
+    "Lead_Arrangers": [
+      "Goldman Sachs Bank USA",
+      "Deutsche Bank Securities Inc.",
+      "Citizens Bank, National Association"
+    ],
+    "AmendmentNumber": "3"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 3 TO THE CREDIT AGREEMENT",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.9199981689453,
+          "y0": 132.41683959960938,
+          "x1": 361.0779113769531,
+          "y1": 144.57168579101562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "PEDIATRIC ASSOCIATES HOLDING COMPANY, LLC",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.9199981689453,
+          "y0": 132.41683959960938,
+          "x1": 361.0779113769531,
+          "y1": 144.57168579101562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Summit Partners, L.P.",
+        "page": 7,
+        "block_id": 8,
+        "bbox": {
+          "x0": 298.0198059082031,
+          "y0": 334.9759826660156,
+          "x1": 313.8924865722656,
+          "y1": 347.1308288574219
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TPG Capital, L.P.",
+        "page": 7,
+        "block_id": 8,
+        "bbox": {
+          "x0": 298.0198059082031,
+          "y0": 334.9759826660156,
+          "x1": 313.8924865722656,
+          "y1": 347.1308288574219
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "May 26, 2023",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.9199981689453,
+          "y0": 132.41683959960938,
+          "x1": 361.0779113769531,
+          "y1": 144.57168579101562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Credit Suisse AG, Cayman Islands Branch",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.9199981689453,
+          "y0": 132.41683959960938,
+          "x1": 361.0779113769531,
+          "y1": 144.57168579101562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 7,
+        "block_id": 8,
+        "bbox": {
+          "x0": 298.0198059082031,
+          "y0": 334.9759826660156,
+          "x1": 313.8924865722656,
+          "y1": 347.1308288574219
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 7,
+        "block_id": 8,
+        "bbox": {
+          "x0": 298.0198059082031,
+          "y0": 334.9759826660156,
+          "x1": 313.8924865722656,
+          "y1": 347.1308288574219
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, National Association",
+        "page": 7,
+        "block_id": 8,
+        "bbox": {
+          "x0": 298.0198059082031,
+          "y0": 334.9759826660156,
+          "x1": 313.8924865722656,
+          "y1": 347.1308288574219
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "3",
+        "page": 7,
+        "block_id": 2,
+        "bbox": {
+          "x0": 250.9199981689453,
+          "y0": 132.41683959960938,
+          "x1": 361.0779113769531,
+          "y1": 144.57168579101562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Creative Artists Agency, LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "02/22/2023",
+    "Administrative_Agent": [
+      "Bank of America, N.A."
+    ],
+    "Lead_Arrangers": [
+      "BOFA SECURITIES, INC.",
+      "HSBC SECURITIES (USA) INC.",
+      "JPMORGAN CHASE BANK, N.A.",
+      "MIZUHO BANK, LTD.",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "UBS SECURITIES LLC",
+      "TRUIST SECURITIES, INC.",
+      "RBC CAPITAL MARKETS"
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 141.25669860839844,
+          "x1": 543.4420166015625,
+          "y1": 264.7884521484375
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Creative Artists Agency, LLC",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 141.25669860839844,
+          "x1": 543.4420166015625,
+          "y1": 264.7884521484375
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "February 22, 2023",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 248.86900329589844,
+          "y0": 103.93669891357422,
+          "x1": 366.3266906738281,
+          "y1": 117.19744873046875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Bank of America, N.A.",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 11,
+        "block_id": 17,
+        "bbox": {
+          "x0": 119.16000366210938,
+          "y0": 289.81671142578125,
+          "x1": 145.41676330566406,
+          "y1": 303.07745361328125
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 248.86900329589844,
+          "y0": 103.93669891357422,
+          "x1": 366.3266906738281,
+          "y1": 117.19744873046875
+        },
+        "page_width": 612.0,
+        "page_height": 790.0
+      }
+    ]
+  }
+}

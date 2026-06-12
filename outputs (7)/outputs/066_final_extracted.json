@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 7 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Renaissance Holding Corp."
+    ],
+    "Sponsor_name": [
+      "Francisco Partners V, L.P.",
+      "Blackstone"
+    ],
+    "MostRecentDocDate": "04/07/2023",
+    "Administrative_Agent": [
+      "Barclays Bank PLC"
+    ],
+    "Lead_Arrangers": [
+      "Barclays",
+      "Jefferies",
+      "Macquarie Capital",
+      "BMOCM",
+      "Nomura",
+      "Royal Bank of Canada",
+      "RBC Capital Markets, LLC",
+      "Madison Capital Funding LLC"
+    ],
+    "AmendmentNumber": 7
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 7 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.67800903320312,
+          "y0": 72.46900177001953,
+          "x1": 460.32696533203125,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Renaissance Holding Corp.",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.67800903320312,
+          "y0": 72.46900177001953,
+          "x1": 460.32696533203125,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Francisco Partners V, L.P.",
+        "page": 104,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.73799133300781,
+          "y0": 385.84832763671875,
+          "x1": 534.4912109375,
+          "y1": 426.9261779785156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Blackstone",
+        "page": 104,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.73799133300781,
+          "y0": 385.84832763671875,
+          "x1": 534.4912109375,
+          "y1": 426.9261779785156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "April 7, 2023",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.67800903320312,
+          "y0": 72.46900177001953,
+          "x1": 460.32696533203125,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Barclays Bank PLC",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.67800903320312,
+          "y0": 72.46900177001953,
+          "x1": 460.32696533203125,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Barclays",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Macquarie Capital",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMOCM",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Nomura",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Royal Bank of Canada",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets, LLC",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Madison Capital Funding LLC",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 296.27789306640625,
+          "y0": 381.1735534667969,
+          "x1": 313.50604248046875,
+          "y1": 394.4426574707031
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 7,
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.67800903320312,
+          "y0": 72.46900177001953,
+          "x1": 460.32696533203125,
+          "y1": 84.64600372314453
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

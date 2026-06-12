@@ -1,0 +1,298 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 4 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CLOUDERA, INC."
+    ],
+    "Sponsor_name": [
+      "CD&R",
+      "KKR"
+    ],
+    "MostRecentDocDate": "07/26/2024",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMorgan",
+      "KKR Capital Markets LLC",
+      "BNP Paribas Securities Corp.",
+      "Barclays Bank PLC",
+      "Citigroup Global Markets Inc.",
+      "Citibank, N.A.",
+      "Citicorp USA, Inc.",
+      "Citicorp North America, Inc.",
+      "Crédit Agricole Corporate and Investment Bank",
+      "MUFG Bank, Ltd.",
+      "Sumitomo Mitsui Banking Corporation",
+      "UBS Securities LLC",
+      "Banco Santander S.A., New York Branch"
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 4 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.66990661621094,
+          "y0": 72.37234497070312,
+          "x1": 463.06463623046875,
+          "y1": 84.58255004882812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CLOUDERA, INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.73226928710938,
+          "x1": 542.8304443359375,
+          "y1": 172.19247436523438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": null,
+        "block_id": null,
+        "bbox": null,
+        "page_width": null,
+        "page_height": null
+      },
+      {
+        "value": "KKR",
+        "page": null,
+        "block_id": null,
+        "bbox": null,
+        "page_width": null,
+        "page_height": null
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "July 26, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.73226928710938,
+          "x1": 542.8304443359375,
+          "y1": 172.19247436523438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.73226928710938,
+          "x1": 542.8304443359375,
+          "y1": 172.19247436523438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMorgan",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citigroup Global Markets Inc.",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citibank, N.A.",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citicorp USA, Inc.",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citicorp North America, Inc.",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Crédit Agricole Corporate and Investment Bank",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG Bank, Ltd.",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Sumitomo Mitsui Banking Corporation",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Banco Santander S.A., New York Branch",
+        "page": 3,
+        "block_id": 6,
+        "bbox": {
+          "x0": 108.0,
+          "y0": 438.9822692871094,
+          "x1": 542.8606567382812,
+          "y1": 564.9425048828125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.66990661621094,
+          "y0": 72.37234497070312,
+          "x1": 463.06463623046875,
+          "y1": 84.58255004882812
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

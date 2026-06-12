@@ -1,0 +1,266 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "TWELFTH AMENDMENT",
+    "LegalIssuer": [
+      "Epicor Software Corporation"
+    ],
+    "Sponsor_name": [
+      "CD&R",
+      "the New Owner"
+    ],
+    "MostRecentDocDate": "05/30/2024",
+    "Administrative_Agent": [
+      "KKR Loan Administration Services LLC"
+    ],
+    "Lead_Arrangers": [
+      "KKR Corporate Lending LLC",
+      "Barclays Bank PLC",
+      "BNP Paribas Securities Corp.",
+      "Credit Agricole Corporate and Investment Bank",
+      "Jefferies Finance LLC",
+      "MIHI LLC",
+      "Nomura Corporate Funding Americas",
+      "RBC Capital Markets, LLC",
+      "TD Securities (USA) LLC, New York Branch",
+      "UBS AG, Stamford Branch"
+    ],
+    "AmendmentNumber": 12
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "TWELFTH AMENDMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 233.51998901367188,
+          "y0": 99.3480224609375,
+          "x1": 381.47998046875,
+          "y1": 115.95601654052734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Epicor Software Corporation",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 125.34001159667969,
+          "x1": 525.0011596679688,
+          "y1": 251.90391540527344
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "CD&R",
+        "page": 85,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 350.4056396484375,
+          "x1": 532.1631469726562,
+          "y1": 407.5113220214844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "the New Owner",
+        "page": 85,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 350.4056396484375,
+          "x1": 532.1631469726562,
+          "y1": 407.5113220214844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "May 30, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 125.34001159667969,
+          "x1": 525.0011596679688,
+          "y1": 251.90391540527344
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "KKR Loan Administration Services LLC",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 125.34001159667969,
+          "x1": 525.0011596679688,
+          "y1": 251.90391540527344
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR Corporate Lending LLC",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Securities Corp.",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Credit Agricole Corporate and Investment Bank",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIHI LLC",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Nomura Corporate Funding Americas",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets, LLC",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD Securities (USA) LLC, New York Branch",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS AG, Stamford Branch",
+        "page": 4,
+        "block_id": 5,
+        "bbox": {
+          "x0": 90.0,
+          "y0": 437.3399658203125,
+          "x1": 525.0750122070312,
+          "y1": 536.2440795898438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 12,
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 429.6600036621094,
+          "y0": 20.43600845336914,
+          "x1": 525.0,
+          "y1": 36.504005432128906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

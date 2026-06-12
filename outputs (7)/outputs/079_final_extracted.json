@@ -1,0 +1,124 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "TERM LOAN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "KNIGHT HEALTH HOLDINGS LLC"
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "12/16/2021",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "BARCLAYS BANK PLC",
+      "CITIBANK, N.A.",
+      "RBC CAPITAL MARKETS"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "TERM LOAN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 212.08999633789062,
+          "y0": 90.50338745117188,
+          "x1": 402.7900085449219,
+          "y1": 102.72467041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "KNIGHT HEALTH HOLDINGS LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 218.92999267578125,
+          "y0": 177.62338256835938,
+          "x1": 395.83001708984375,
+          "y1": 189.84466552734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "12/16/2021",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 412.8699951171875,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 203.69000244140625,
+          "y0": 227.54336547851562,
+          "x1": 411.19000244140625,
+          "y1": 252.5146484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 246.88999938964844,
+          "y0": 271.6133728027344,
+          "x1": 367.9900207519531,
+          "y1": 283.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIBANK, N.A.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 246.88999938964844,
+          "y0": 271.6133728027344,
+          "x1": 367.9900207519531,
+          "y1": 283.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 246.88999938964844,
+          "y0": 271.6133728027344,
+          "x1": 367.9900207519531,
+          "y1": 283.83465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

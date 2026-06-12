@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "HOYA MIDCO, LLC"
+    ],
+    "Sponsor_name": [
+      "GTCR Fund XI/B LP",
+      "GTCR Fund XI/C LP",
+      "GTCR Co-Invest XI LP"
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "BOFA SECURITIES, INC.",
+      "CITIGROUP GLOBAL MARKETS, INC.",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "RBC CAPITAL MARKETS"
+    ],
+    "AmendmentNumber": 4
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 255.52999877929688,
+          "y0": 33.605621337890625,
+          "x1": 556.1499633789062,
+          "y1": 67.55138397216797
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "HOYA MIDCO, LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 251.3300018310547,
+          "y0": 278.1980285644531,
+          "x1": 363.6700134277344,
+          "y1": 291.4820251464844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "GTCR Fund XI/B LP",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GTCR Fund XI/C LP",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GTCR Co-Invest XI LP",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 104.9000015258789,
+          "y0": 369.39801025390625,
+          "x1": 510.2200012207031,
+          "y1": 396.4820251464844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS, INC.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 297.4100036621094,
+          "y0": 343.5980224609375,
+          "x1": 317.69000244140625,
+          "y1": 356.88201904296875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 4,
+        "page": 1,
+        "block_id": 24,
+        "bbox": {
+          "x0": 255.52999877929688,
+          "y0": 33.605621337890625,
+          "x1": 556.1499633789062,
+          "y1": 67.55138397216797
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

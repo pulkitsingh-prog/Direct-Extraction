@@ -1,0 +1,238 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "LEIA FINCO US LLC"
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "7/1/24",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "MIZUHO BANK, LTD.",
+      "BMO CAPITAL MARKETS CORP.",
+      "HSBC SECURITIES (USA) INC.",
+      "CITIZENS BANK, N.A.",
+      "BANCO SANTANDER, S.A., NEW YORK BRANCH",
+      "THE BANK OF NOVA SCOTIA",
+      "TD SECURITIES (USA) LLC",
+      "TRUIST SECURITIES, INC.",
+      "WELLS FARGO SECURITIES, LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 208.67520141601562,
+          "y0": 160.53836059570312,
+          "x1": 393.95074462890625,
+          "y1": 175.81771850585938
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "LEIA FINCO US LLC",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 71.97784423828125,
+          "y0": 236.36099243164062,
+          "x1": 357.67657470703125,
+          "y1": 276.72320556640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 108,
+        "block_id": 4,
+        "bbox": {
+          "x0": 71.99998474121094,
+          "y0": 120.45503997802734,
+          "x1": 542.8097534179688,
+          "y1": 173.53533935546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "7/1/24",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 434.8800048828125,
+          "y0": 34.541770935058594,
+          "x1": 542.7628784179688,
+          "y1": 49.82113265991211
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 71.966796875,
+          "y0": 350.2165222167969,
+          "x1": 437.36871337890625,
+          "y1": 390.5787658691406
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC SECURITIES (USA) INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BANCO SANTANDER, S.A., NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "THE BANK OF NOVA SCOTIA",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 292.0491943359375,
+          "y0": 388.1278991699219,
+          "x1": 310.651611328125,
+          "y1": 403.4072570800781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

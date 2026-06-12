@@ -1,0 +1,168 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Dermatology Intermediate Holdings III, Inc."
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "03/21/2022",
+    "Administrative_Agent": [
+      "Credit Suisse AG, New York Branch"
+    ],
+    "Lead_Arrangers": [
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "RBC CAPITAL MARKETS, LLC",
+      "UBS SECURITIES LLC",
+      "NATIXIS, NEW YORK BRANCH"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 110.42337036132812,
+          "x1": 363.9100036621094,
+          "y1": 122.6446533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Dermatology Intermediate Holdings III, Inc.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 110.42337036132812,
+          "x1": 363.9100036621094,
+          "y1": 122.6446533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 81,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 374.0933532714844,
+          "x1": 542.7229614257812,
+          "y1": 411.6346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "3/21/2022",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 54.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 79.18463134765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Credit Suisse AG, New York Branch",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 110.42337036132812,
+          "x1": 363.9100036621094,
+          "y1": 122.6446533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS, LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NATIXIS, NEW YORK BRANCH",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 338.933349609375,
+          "x1": 316.7300109863281,
+          "y1": 351.1546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

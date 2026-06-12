@@ -1,0 +1,208 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "SECOND AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CENGAGE LEARNING, INC."
+    ],
+    "Sponsor_name": "NOT SPECIFIED",
+    "MostRecentDocDate": "6/28/21",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "CITIGROUP GLOBAL MARKETS INC.",
+      "CREDIT SUISSE SECURITIES (USA) LLC",
+      "WELLS FARGO SECURITIES, LLC",
+      "BMO CAPITAL MARKETS CORP.",
+      "GOLDMAN SACHS BANK USA",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "KKR CAPITAL MARKETS LLC"
+    ],
+    "AmendmentNumber": "2"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "SECOND AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 421.3900146484375,
+          "y0": 36.46797180175781,
+          "x1": 543.0999755859375,
+          "y1": 49.75197219848633
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CENGAGE LEARNING, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 228.88999938964844,
+          "y0": 295.8380126953125,
+          "x1": 386.2300109863281,
+          "y1": 309.12200927734375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [],
+    "MostRecentDocDate": [
+      {
+        "value": "6/28/21",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 421.3900146484375,
+          "y0": 36.46797180175781,
+          "x1": 543.0999755859375,
+          "y1": 49.75197219848633
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 168.13999938964844,
+          "y0": 361.2380065917969,
+          "x1": 446.95001220703125,
+          "y1": 374.5220031738281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 182.4199981689453,
+          "y0": 426.65802001953125,
+          "x1": 432.54998779296875,
+          "y1": 439.9420166015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 195.52999877929688,
+          "y0": 440.4580078125,
+          "x1": 419.5899963378906,
+          "y1": 467.5420227050781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 18,
+        "bbox": {
+          "x0": 195.52999877929688,
+          "y0": 440.4580078125,
+          "x1": 419.5899963378906,
+          "y1": 467.5420227050781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 19,
+        "bbox": {
+          "x0": 212.80999755859375,
+          "y0": 468.0580139160156,
+          "x1": 402.19000244140625,
+          "y1": 481.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 1,
+        "block_id": 20,
+        "bbox": {
+          "x0": 215.2100067138672,
+          "y0": 481.8580017089844,
+          "x1": 399.9100036621094,
+          "y1": 495.1419982910156
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 205.85000610351562,
+          "y0": 495.65802001953125,
+          "x1": 412.1499938964844,
+          "y1": 522.7420043945312
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 21,
+        "bbox": {
+          "x0": 205.85000610351562,
+          "y0": 495.65802001953125,
+          "x1": 412.1499938964844,
+          "y1": 522.7420043945312
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 182.4199981689453,
+          "y0": 426.65802001953125,
+          "x1": 432.54998779296875,
+          "y1": 439.9420166015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "2",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 421.3900146484375,
+          "y0": 36.46797180175781,
+          "x1": 543.0999755859375,
+          "y1": 49.75197219848633
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

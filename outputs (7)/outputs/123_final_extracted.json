@@ -1,0 +1,182 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "LIKEWIZE CORP."
+    ],
+    "Sponsor_name": [
+      "Genstar Capital"
+    ],
+    "MostRecentDocDate": "08/14/2024",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "BARCLAYS BANK PLC",
+      "BOFA SECURITIES, INC.",
+      "CITIGROUP GLOBAL MARKETS INC.",
+      "SUMITOMO MITSUI BANKING CORPORATION",
+      "CITIZENS BANK, N.A."
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 245.4499969482422,
+          "y0": 72.38333129882812,
+          "x1": 369.4300231933594,
+          "y1": 173.1646728515625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "LIKEWIZE CORP.",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 251.3300018310547,
+          "y0": 224.18338012695312,
+          "x1": 363.5500183105469,
+          "y1": 261.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Genstar Capital",
+        "page": 107,
+        "block_id": 5,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 260.8133850097656,
+          "x1": 542.8533325195312,
+          "y1": 323.7946472167969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "August 14, 2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 383.8299865722656,
+          "y0": 36.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 48.584651947021484
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 119.9000015258789,
+          "y0": 300.0533752441406,
+          "x1": 494.9800109863281,
+          "y1": 337.5946350097656
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 294.04998779296875,
+          "y0": 338.0933532714844,
+          "x1": 320.69000244140625,
+          "y1": 362.9146423339844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 294.04998779296875,
+          "y0": 338.0933532714844,
+          "x1": 320.69000244140625,
+          "y1": 362.9146423339844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 294.04998779296875,
+          "y0": 338.0933532714844,
+          "x1": 320.69000244140625,
+          "y1": 362.9146423339844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIGROUP GLOBAL MARKETS INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 294.04998779296875,
+          "y0": 338.0933532714844,
+          "x1": 320.69000244140625,
+          "y1": 362.9146423339844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SUMITOMO MITSUI BANKING CORPORATION",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 294.04998779296875,
+          "y0": 338.0933532714844,
+          "x1": 320.69000244140625,
+          "y1": 362.9146423339844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIZENS BANK, N.A.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 294.04998779296875,
+          "y0": 338.0933532714844,
+          "x1": 320.69000244140625,
+          "y1": 362.9146423339844
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

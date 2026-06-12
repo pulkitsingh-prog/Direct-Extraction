@@ -1,0 +1,154 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "FLASH CHARM, INC."
+    ],
+    "Sponsor_name": [
+      "TA Associates",
+      "HGGC",
+      "Partners Group"
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "JEFFERIES FINANCE LLC"
+    ],
+    "Lead_Arrangers": [
+      "JEFFERIES FINANCE LLC",
+      "RBC CAPITAL MARKETS"
+    ],
+    "AmendmentNumber": "8"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDED AND RESTATED FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 140.66000366210938,
+          "y0": 98.06338500976562,
+          "x1": 474.2200012207031,
+          "y1": 123.004638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "FLASH CHARM, INC.",
+        "page": 2,
+        "block_id": 3,
+        "bbox": {
+          "x0": 166.6999969482422,
+          "y0": 252.77334594726562,
+          "x1": 448.1500244140625,
+          "y1": 264.99462890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "TA Associates",
+        "page": 69,
+        "block_id": 7,
+        "bbox": {
+          "x0": 144.02000427246094,
+          "y0": 360.1733703613281,
+          "x1": 497.02001953125,
+          "y1": 372.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HGGC",
+        "page": 69,
+        "block_id": 7,
+        "bbox": {
+          "x0": 144.02000427246094,
+          "y0": 360.1733703613281,
+          "x1": 497.02001953125,
+          "y1": 372.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Partners Group",
+        "page": 69,
+        "block_id": 7,
+        "bbox": {
+          "x0": 144.02000427246094,
+          "y0": 360.1733703613281,
+          "x1": 497.02001953125,
+          "y1": 372.3946533203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 149.3000030517578,
+          "y0": 389.933349609375,
+          "x1": 465.58001708984375,
+          "y1": 414.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 2,
+        "block_id": 11,
+        "bbox": {
+          "x0": 149.3000030517578,
+          "y0": 389.933349609375,
+          "x1": 465.58001708984375,
+          "y1": 414.754638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS",
+        "page": 2,
+        "block_id": 14,
+        "bbox": {
+          "x0": 239.08999633789062,
+          "y0": 452.5933532714844,
+          "x1": 378.4300231933594,
+          "y1": 464.81463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "8",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 340.989990234375,
+          "y0": 50.26802062988281,
+          "x1": 543.0999755859375,
+          "y1": 77.35201263427734
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

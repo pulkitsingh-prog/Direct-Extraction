@@ -1,0 +1,182 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT AND RESTATEMENT AGREEMENT",
+    "LegalIssuer": [
+      "Bulldog Purchaser Inc."
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "06/28/2024",
+    "Administrative_Agent": [
+      "Morgan Stanley Senior Funding, Inc."
+    ],
+    "Lead_Arrangers": [
+      "KKR CAPITAL MARKETS LLC",
+      "MORGAN STANLEY SENIOR FUNDING, INC.",
+      "BOFA SECURITIES, INC.",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "ROYAL BANK OF CANADA",
+      "UBS SECURITIES LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT AND RESTATEMENT AGREEMENT",
+        "page": 10,
+        "block_id": 3,
+        "bbox": {
+          "x0": 213.9676971435547,
+          "y0": 83.31503295898438,
+          "x1": 400.6872253417969,
+          "y1": 110.90399169921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Bulldog Purchaser Inc.",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 92,
+        "block_id": 11,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 545.9817504882812,
+          "x1": 542.7630004882812,
+          "y1": 573.8692626953125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "June 28, 2024",
+        "page": 11,
+        "block_id": 3,
+        "bbox": {
+          "x0": 248.87615966796875,
+          "y0": 232.35549926757812,
+          "x1": 365.8670654296875,
+          "y1": 247.22637939453125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MORGAN STANLEY SENIOR FUNDING, INC.",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOFA SECURITIES, INC.",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ROYAL BANK OF CANADA",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 9,
+        "block_id": 6,
+        "bbox": {
+          "x0": 81.23999786376953,
+          "y0": 122.91842651367188,
+          "x1": 228.3601837158203,
+          "y1": 137.789306640625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDED AND RESTATED CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "AZALEA TOPCO, INC."
+    ],
+    "Sponsor_name": [
+      "Leonard Green & Partners, L.P.",
+      "Ares Corporate Opportunities Fund V, L.P."
+    ],
+    "MostRecentDocDate": "04/19/2024",
+    "Administrative_Agent": [
+      "BARCLAYS BANK PLC"
+    ],
+    "Lead_Arrangers": [
+      "BARCLAYS BANK PLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDED AND RESTATED CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 173.05999755859375,
+          "y0": 72.50338745117188,
+          "x1": 441.7900085449219,
+          "y1": 84.72467041015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "AZALEA TOPCO, INC.",
+        "page": 1,
+        "block_id": 5,
+        "bbox": {
+          "x0": 249.64999389648438,
+          "y0": 164.30337524414062,
+          "x1": 365.2300109863281,
+          "y1": 176.524658203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Leonard Green & Partners, L.P.",
+        "page": 88,
+        "block_id": 8,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 448.63336181640625,
+          "x1": 542.785400390625,
+          "y1": 536.9346313476562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares Corporate Opportunities Fund V, L.P.",
+        "page": 88,
+        "block_id": 8,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 448.63336181640625,
+          "x1": 542.785400390625,
+          "y1": 536.9346313476562
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "4/19/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 386.7099914550781,
+          "y0": 54.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 66.58465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 203.69000244140625,
+          "y0": 245.57333374023438,
+          "x1": 411.19000244140625,
+          "y1": 270.6346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 203.69000244140625,
+          "y0": 245.57333374023438,
+          "x1": 411.19000244140625,
+          "y1": 270.6346435546875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

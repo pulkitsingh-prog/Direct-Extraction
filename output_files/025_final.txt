@@ -1,0 +1,292 @@
+############################################################ PAGE END ############################################################
+
+Execution Version
+
+AMENDMENT AND RESTATEMENT AGREEMENT TO CREDIT AGREEMENT
+
+This AMENDMENT AND RESTATEMENT TO CREDIT AGREEMENT, dated as of January 30, 2024 (this “Agreement”), among WAND NEWCO 2, INC., a Delaware corporation (“Holdings”), WAND NEWCO 3, INC., a Delaware corporation (the “Borrower”), the Co-Borrowers from time to time party hereto, the other Credit Parties party hereto, the Additional 2024 Refinancing Term Lender (as defined below), each Revolving Credit Lender, each 2024 Refinancing Revolving Lender (as defined below) and Bank of America, N.A. (“Bank of America”), as Administrative Agent, Collateral Agent, Letter of Credit Issuer and Swingline Lender.
+
+WHEREAS, reference is hereby made to the Credit Agreement, dated as of February 5, 2019 (as amended by Incremental Agreement No. 1, dated as of January 31, 2020, Amendment No. 2, dated as of November 15, 2022, Incremental Agreement No. 2, dated as of November 29, 2022, Incremental Agreement No. 3, dated as of December 12, 2022, Incremental Agreement No. 4, dated as of March 9, 2023, Amendment No. 3, dated as of June 8, 2023, Incremental Agreement No. 5, dated as of August 4, 2023 and as further amended, restated, supplemented, amended and restated or otherwise modified prior to giving effect to this Agreement, the “Existing Credit Agreement” and as amended and restated by this Agreement, the “Amended Credit Agreement”);
+
+WHEREAS, the Borrower desires, pursuant to clause (i) of the proviso to Section 2.14(b) of the Existing Credit Agreement, to obtain Incremental Term Loans by among other things entering into this Agreement (which constitutes an Incremental Agreement under the Existing Credit Agreement and using the Net Cash Proceeds thereof, together with a portion of the Net Cash Proceeds from the issuance of the Senior Secured Notes (as defined below), to prepay in full all of the Initial Term Loans (the “Existing Prepaid Term Loans”) outstanding under the Existing Credit Agreement immediately prior to the Restatement Agreement Effective Date (as defined below) (the “Term Loan Transactions”);
+
+WHEREAS, the Borrower desires, pursuant to clause (ii) of the proviso to Section 2.14(b) of the Existing Credit Agreement to obtain Additional/Replacement Revolving Credit Commitments (the “2024 Revolving Credit Commitments”) to permanently reduce in full the aggregate amount of the Revolving Credit Commitments (as defined in the Existing Credit Agreement);
+
+WHEREAS, the Borrower desires to make certain other amendments as set forth in Annex I hereto (the “Other Amendments” and, together with the Term Loan Transactions, the Borrower’s issuance of and sale of $1,250,000,000 of 7.625% senior secured notes due 2032 (the “Senior Secured Notes”), the Revolver Refinancing (as defined below), the Closing Date Refinancing and the 2024 Distribution (as defined below), collectively, the “2024 Transactions”);
+
+WHEREAS, the 2024 Refinancing Term Lenders (as defined below) have agreed to provide a new Class of Incremental Term Loans in an aggregate principal amount equal to $2,725,000,000 (the “2024 Refinancing Term Loans”) in accordance with the terms and conditions set forth herein and in the Amended Credit Agreement;
+
+WHEREAS, each of the Revolving Credit Lenders signatory hereto (the “2024 Refinancing Revolving Lenders”) have agreed to provide a new Class of Additional/Replacement Revolving Credit Commitments in an aggregate principal amount equal to $625,000,000 (the “2024 Revolving Credit Commitments”) in accordance with the terms and conditions set forth herein and in the Existing Credit Agreement (the “Revolver Refinancing”);
+
+WHEREAS, in accordance with Section 2.14 and, as applicable, Section 13.1 of the Existing Credit Agreement, Holdings, the Borrower, the Co-Borrowers, the Administrative Agent, the Letter of Credit Issuer, the Swingline Lender, each 2024 Refinancing Revolving Lender (constituting 100% of the Revolving Credit Lenders under the Existing Credit Agreement), and each 2024 Refinancing Term Lender (together with the 2024 Refinancing Revolver Lenders, collectively constituting, the Required Lenders), have agreed to amend and restate the Existing Credit Agreement as set forth in Annex I hereto to facilitate the incurrence of the 2024 Refinancing Term Loans and the 2024 Revolving Credit Commitments, the issuance of the Senior Secured Notes and the making of the 2024 Distribution; and
+
+############################################################ PAGE END ############################################################ para_combined
+
+WHEREAS, each 2024 Refinancing Agreement Joint Lead Arranger (as defined below) and each 2024 Refinancing Agreement Joint Bookrunner (as defined below) has agreed to act as a joint lead arranger and a joint bookrunner in respect of this Agreement and the Amended Credit Agreement.
+
+NOW, THEREFORE, the parties hereto agree as follows:
+
+Section 1. Defined Terms; References.
+
+(a) Unless otherwise specifically defined herein, each term used herein which is defined in the Amended Credit Agreement has the meaning assigned to such term in the Amended Credit Agreement (as defined below). The rules of construction and other interpretive provisions specified in Sections 1.2, 1.3, 1.5, 1.6, 1.7 and 1.12 of the Amended Credit Agreement shall apply to this Agreement, including terms defined in the preamble and recitals hereto.
+
+(b) As used in this Agreement, the following terms have the meanings specified below:
+
+“2024 Distribution” shall mean the declaration and payment of a dividend or distribution to Holdings, Holdings’ declaration and payment of a dividend or distribution to its Parent Entity and its Parent Entity’s declaration and payment of a dividend to the holders of its Capital Stock (including related payments to the holders of stock options, restricted stock units and similar rights, which payments could occur prior to or upon vesting thereof), in each case, in an aggregate amount not to exceed $1,213,000,000.
+
+“2024 Refinancing Agreement Joint Lead Arrangers” shall have the meaning assigned to the term “Lead Arrangers” in the Amended Credit Agreement.
+
+“2024 Refinancing Agreement Joint Bookrunners” shall have the meaning assigned to the term “Joint Bookrunners” in the Amended Credit Agreement.
+
+“2024 Refinancing Term Lenders” shall mean the Additional 2024 Refinancing Term Lender and each Rollover Lender designated as such by the Administrative Agent in accordance with Section 3 of this Agreement.
+
+“2024 Refinancing Term Loan Commitment” shall mean (i) the Additional 2024 Refinancing Term Loan Commitment and (ii) the aggregate amount of any rollover amount, of any Rollover Lenders.
+
+“2024 Refinancing Term Loans” shall have the meaning provided in the recitals hereto.
+
+“Additional 2024 Refinancing Term Lender” shall mean Bank of America, in such capacity.
+
+“Additional 2024 Refinancing Term Loan Commitment” shall mean, with respect to the Additional 2024 Refinancing Term Lender, the amount set forth opposite such Lender’s name on Schedule 1 hereto, as such Lender’s “Additional 2024 Refinancing Term Loan Commitment.” The aggregate amount of the Additional 2024 Refinancing Term Loan Commitment as of the Restatement Agreement Effective Date is $2,651,592,333.23.
+
+############################################################ PAGE END ############################################################ para_combined
+
+“Existing Prepaid Term Lender” shall mean, for each Existing Term Lender a Lender with an Existing Prepaid Term Loan on the Restatement Agreement Effective Date, immediately prior to giving effect to this Agreement.
+
+“Existing Prepaid Term Loan Amount” shall mean, for each Existing Prepaid Term Lender, the sum of the aggregate principal amount of Existing Prepaid Term Loans owing to such Existing Prepaid Term Lender on the Restatement Agreement Effective Date.
+
+“Restatement Agreement Effective Date” shall have the meaning provided in Section 12 hereof.
+
+Section 2. 2024 Refinancing Term Loans.
+
+(a) With effect from and including the Restatement Agreement Effective Date, each 2024 Refinancing Term Lender shall become party to the Amended Credit Agreement as a “Lender”, a “Term Lender”, and an “Initial Term Loan Lender”, shall have an Incremental Term Loan Commitment, in the case of the Additional 2024 Refinancing Term Lender, in the amount equal to the Additional 2024 Refinancing Term Loan Commitment and shall have all of the rights and obligations of a “Lender” and an “Initial Term Loan Lender” under the Amended Credit Agreement and the other Credit Documents.
+
+(b) On the Restatement Agreement Effective Date after giving effect to the Term Loan Transactions and subject to Section 3 of this Agreement, each Existing Prepaid Term Lender shall cease to be a Lender party to the Existing Credit Agreement with respect to the Initial Term Loans (as defined in the Existing Credit Agreement in effect prior to the Restatement Agreement Effective Date) (and, for the avoidance of doubt, shall not be a party to the Amended Credit Agreement as a Lender of Initial Term Loans (except to the extent that it shall subsequently become party thereto (i) pursuant to a “cashless roll” in accordance with Section 3 of this Agreement or (ii) through other means under the terms and provisions of the Amended Credit Agreement and the other Credit Documents)), and all accrued and unpaid interest, premiums, fees and other amounts payable under the Existing Credit Agreement for the account of each Existing Prepaid Term Lender with respect to Existing Prepaid Term Loans shall be due and payable on the Restatement Agreement Effective Date; provided that the provisions of Sections 2.10, 2.11, 5.4 and 13.5 of the Existing Credit Agreement shall continue to inure to the benefit of each Existing Prepaid Term Lender after the Restatement Agreement Effective Date.
+
+(c) On the Restatement Agreement Effective Date:
+
+(i) the Additional 2024 Refinancing Term Lender, severally and not jointly, shall make an Incremental Term Loan to the Borrower in accordance with this Section 2(c) and Section 2.14 of the Existing Credit Agreement by delivering to the Administrative Agent immediately available funds in an amount equal to its Additional 2024 Refinancing Term Loan Commitment;
+
+(ii) the Administrative Agent shall apply a portion of the funds made available to the Administrative Agent pursuant to Section 2(c)(i) hereof, together with a portion of the Net Cash Proceeds from the issuance of the Senior Secured Notes, in an amount equal to the aggregate of the Existing Prepaid Term Loan Amounts for all of the Existing Prepaid Term Lenders (except to the extent otherwise agreed by any Existing Prepaid Term Lender), net of fees and expenses as agreed by the Borrower and the Administrative Agent (including through a “cashless roll” in accordance with Section 3 of this Agreement); and
+
+############################################################ PAGE END ############################################################ para_combined
+
+(iii) each Rollover Lender shall effect a “cashless roll” in accordance with Section 3 of this Agreement and pursuant to settlement mechanisms approved by the Borrower, the Administrative Agent and such Rollover Lender.
+
+(d) Each of the Borrower and the Administrative Agent hereby consents to the provision by the 2024 Refinancing Term Lenders of such Lender’s 2024 Refinancing Term Loans, in each case to the extent such consent is required under Section 2.14(d) of the Existing Credit Agreement. The Administrative Agent and the 2024 Refinancing Term Lenders hereby agree that the notice requirements set forth in Section 2.14 of the Existing Credit Agreement have been satisfied with respect to the 2024 Refinancing Term Loans.
+
+Section 3. Cashless Roll. Notwithstanding anything to the contrary contained in this Agreement or in any other Credit Document, to the extent any Existing Prepaid Term Lender Refinances any of its Existing Prepaid Term Loans with 2024 Refinancing Term Loans in connection with the Term Loan Transactions and this Agreement, such Refinancing may be effected, subject to the consent of the Borrower, the Administrative Agent and such Existing Prepaid Term Lender, by means of a “cashless roll” of 100% (or such lesser amount as may be notified to such Existing Prepaid Term Lender by the 2024 Refinancing Agreement Joint Lead Arrangers prior to the Restatement Agreement Effective Date) of such Existing Prepaid Term Lender’s Existing Prepaid Term Loans, in each case, pursuant to settlement mechanics approved by the Borrower, the Administrative Agent and such Existing Prepaid Term Lender, and such Refinancing is hereby deemed to comply with any requirement under this Agreement or any other Credit Document that such payment be made “in Dollars”, “in immediately available funds”, “in Cash” or any other similar requirement (any such 2024 Refinancing Term Lender, a “Rollover Lender”).
+
+Section 4. 2024 Revolving Credit Commitments.
+
+(a) On the Restatement Agreement Effective Date, each 2024 Refinancing Revolving Lender shall have a 2024 Revolving Credit Commitment in the amount set forth opposite its name on Schedule 1.1(a) of the Amended Credit Agreement under the caption “Revolving Credit Commitment”. With effect on and after the Restatement Agreement Effective Date, each 2024 Refinancing Revolving Lender shall have all of the rights and obligations of a “Lender” and a “Revolving Credit Lender” under the Amended Credit Agreement and the other Credit Documents and each 2024 Revolving Credit Commitment shall constitute a “Revolving Credit Commitment” for all purposes of the Amended Credit Agreement.
+
+(b) Each of the Borrower, the Co-Borrowers, the Swingline Lender, the Letter of Credit Issuer and the Administrative Agent hereby consents to the provision by the 2024 Refinancing Revolving Lenders of such Lender’s 2024 Revolving Credit Commitment to the extent such consent is required under Section 2.14 of the Existing Credit Agreement. The Administrative Agent and the 2024 Refinancing Revolving Lenders hereby agree that the notice requirements set forth in Section 2.14 of the Existing Credit Agreement have been satisfied with respect to the 2024 Revolving Credit Commitments.
+
+Section 5. [Reserved].
+
+Section 6. Amendments.
+
+(a) Each of the parties hereto (as of the Restatement Agreement Effective Date constituting all Revolving Credit Lenders, the Required Lenders and all of the Credit Parties under the Existing Credit Agreement), agree that, effective on the Restatement Agreement Effective Date:
+
+############################################################ PAGE END ############################################################
+
+(i) the Existing Credit Agreement is hereby amended and restated in its entirety in the form of the Amended Credit Agreement attached as Annex I hereto,
+
+(ii) each Exhibit to the Existing Credit Agreement is hereby amended and restated and replaced in its entirety as set forth in Annex II hereto,
+
+(iii) each Schedule to the Existing Credit Agreement is hereby amended and restated in its entirety as set forth in Annex III hereto,
+
+(iv) each of the Security Agreement (as defined in the Existing Credit Agreement) and the Pledge Agreement (as defined in the Existing Credit Agreement) are hereby replaced in their entirety with the Security Agreement attached as Annex IV hereto, and
+
+(v) the Guarantee Agreement (as defined in the Existing Credit Agreement) is replaced in its entirety with the Guarantee Agreement attached as Annex V hereto.
+
+(b) The 2024 Refinancing Term Loans made on the Restatement Agreement Effective Date in accordance with this Agreement shall constitute for all purposes of the Amended Credit Agreement, a Term Loan made pursuant to Section 2.1(a) of the Amended Credit Agreement and this Agreement; provided that, pursuant to this Agreement, (x) the 2024 Refinancing Term Loans shall constitute “Initial Term Loans” for all purposes of the Amended Credit Agreement and all provisions of the Amended Credit Agreement applicable to Initial Term Loans shall be applicable to the 2024 Refinancing Term Loans and (y) the 2024 Refinancing Term Loan Commitment shall constitute an “Initial Term Loan Commitment” for all purposes of the Amended Credit Agreement and all provisions of the Amended Credit Agreement applicable to Initial Term Loan Commitments shall be applicable to the 2024 Refinancing Term Loan Commitments.
+
+(c) The 2024 Refinancing Term Loan Commitments provided for hereunder shall terminate on the Restatement Agreement Effective Date immediately upon the borrowing of the 2024 Refinancing Term Loans pursuant to Section 2(c) hereof.
+
+(d) The 2024 Revolving Credit Commitments made on the Restatement Agreement Effective Date in accordance with this Agreement shall constitute for all purposes of the Amended Credit Agreement, a Revolving Credit Commitment made pursuant to Section 2.1(b) of the Amended Credit Agreement and this Agreement.
+
+Section 7. Effect of Amendment; Reaffirmation; Etc. (a) Except as expressly set forth herein or in the Amended Credit Agreement, this Agreement shall not by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders or the Agents under the Existing Credit Agreement or under any other Credit Document and shall not alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the Existing Credit Agreement or any other provision of the Existing Credit Agreement or of any other Credit Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect; provided that, notwithstanding the foregoing, any action taken by any Credit Party, or any failure by any Credit Party to take any action, in either case prohibited by, or required by, any Credit Document as in effect prior to the Restatement Agreement Effective Date, during any period prior to the Restatement Agreement Effective Date, shall not be deemed to be in contravention of the Amended Credit Agreement or any other Credit Document and shall not constitute a Default or Event of Default under the Amended Credit Agreement after giving effect to the Restatement Agreement Effective Date. Without limiting the foregoing, after giving effect to the Agreement, (i) each Credit Party acknowledges and agrees that (A) each Credit Document to which it is a party is hereby confirmed and ratified and shall remain in full force and effect according to its respective terms (in the case of the Existing Credit Agreement and the Security Documents, as amended and restated hereby) and (B) the Security Documents (as amended and restated hereby) to which it is a party do, and all of the Collateral does, and in each case shall continue to, secure the payment of all Obligations (including, for the avoidance of doubt, the 2024 Refinancing Term Loans and 2024 Revolving Credit Commitments made on the Restatement Agreement Effective Date) on the terms and conditions set forth in the Security Documents (as amended and restated by this Agreement), and hereby confirms and ratifies the security interests granted by it pursuant to such Security Documents and (ii) each Guarantor hereby confirms and ratifies its continuing unconditional obligations as Guarantor under each Guarantee to which it is a party (including, for the avoidance of doubt, the 2024 Refinancing Term Loans and 2024 Revolving Credit Commitments made on the Restatement Agreement Effective Date). This Agreement and the other Credit Documents constitute the entire agreement among the parties hereto with respect to the subject matter hereof and thereof and supersede all other prior agreements and understandings, both written and verbal, among the parties hereto with respect to the subject matter hereof.
+
+############################################################ PAGE END ############################################################ para_combined
+
+(b) This Agreement shall constitute an “Incremental Agreement” for purposes of Section 2.14(e) of the Existing Credit Agreement.
+
+(c) For the avoidance of doubt, upon effectiveness of this Agreement, any basket (except those baskets referring to a specific date that has not been amended by this Agreement) which permits a certain amount of a given type of transaction over the life of the Amended Credit Agreement (however denominated) shall be reset such that any use of such baskets on or prior to the Restatement Agreement Effective Date shall be disregarded for purposes of testing such basket.
+
+Section 8. Representations of Credit Parties. Each of the Credit Parties hereby represents and warrants that, immediately after giving effect to the 2024 Transactions, including the borrowing of the 2024 Refinancing Term Loans and the making of the 2024 Revolving Credit Commitments:
+
+(a) the representations and warranties set forth in Section 8 of the Amended Credit Agreement and in each other Credit Document shall be true and correct in all material respects on and as of the Restatement Agreement Effective Date with the same effect as though made on and as of such date, except to the extent such representations and warranties expressly relate to an earlier date, in which case they shall be true and correct in all material respects as of such earlier date; provided, that any such representation and warranty that is qualified by “materiality”, “material adverse effect” or similar language shall be true and correct in all respects (after giving effect to such qualification therein) on and as of the Restatement Agreement Effective Date with the same effect as though made on and as of such date or such earlier date, as applicable;
+
+(b) no Event of Default shall exist or would result from the 2024 Transactions, including the borrowing of the 2024 Refinancing Term Loans and the making of the 2024 Revolving Credit Commitments; and
+
+(c) on the Restatement Agreement Effective Date, after giving effect to the 2024 Transactions (including the incurrence of the 2024 Refinancing Term Loans and the making of the 2024 Revolving Credit Commitments), the Credit Parties and their Subsidiaries on a consolidated basis are Solvent.
+
+Section 9. Governing Law. THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+Section 10. Counterparts. This Agreement may be executed in counterparts (and by different parties hereto on different counterparts) (including by facsimile or other electronic transmission (i.e., a “pdf” or “tif”)), each of which shall constitute an original but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Agreement by electronic mail (including any electronic signature covered by the U.S. federal ESIGN Act of 2000, Uniform Electronic Transactions Act, the Electronic Signatures and Records Act or other applicable law, e.g., www.docusign.com), facsimile transmission or other electronic transmission (i.e., a “pdf” or “tif”) shall be effective as delivery of a manually executed counterpart of this Agreement.
+
+############################################################ PAGE END ############################################################ para_combined
+
+Section 11. Miscellaneous. Sections 13.5, 13.13 and 13.15 of the Amended Credit Agreement are incorporated herein by reference and apply mutatis mutandis. On and after the effectiveness of this Agreement, this Agreement shall for all purposes constitute a Credit Document. This Agreement shall not constitute a novation of the Existing Credit Agreement or any of the Credit Documents.
+
+Section 12. No Novation. This Agreement shall not extinguish the obligations for the payment of money outstanding under the Existing Credit Agreement (except to the extent repaid or amended as provided herein) or discharge or release the Lien or priority of any Security Document or any other security therefor. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Existing Credit Agreement or instruments securing the same, which shall remain in full force and effect, except to any extent modified hereby or by instruments executed concurrently herewith and except to the extent repaid as provided herein. Nothing implied in this Agreement or in any other document contemplated hereby shall discharge or release the Lien or priority of any Security Document or any other security therefor or otherwise be construed as a release or other discharge of any of the Credit Parties under any Credit Document from any of its obligations and liabilities as a borrower, guarantor or pledgor under any of the Credit Documents, except, in each case, to any extent modified hereby and except to the extent repaid as provided herein.
+
+Section 13. Effectiveness. This Agreement and the obligation of each 2024 Refinancing Term Lender to make the 2024 Refinancing Term Loans to be made by it pursuant to Section 2(c)(i) of this Agreement shall become effective on the date (the “Restatement Agreement Effective Date”) when each of the following conditions shall have been satisfied:
+
+(a) the Administrative Agent shall have received from Holdings, the Borrower, the Co-Borrowers, the Additional 2024 Refinancing Term Lender, each Revolving Credit Lender, each 2024 Refinancing Revolving Lender, the Letter of Credit Issuer, the Swingline Lender, the Administrative Agent and the Collateral Agent either (i) a counterpart of this Agreement signed on behalf of such party or (ii) written evidence satisfactory to the Administrative Agent (which may include telecopy or electronic transmission of a signed signature page of this Agreement) that such party has signed a counterpart of this Agreement; and
+
+(b) the conditions set forth in Section 6.1 of the Amended Credit Agreement.
+
+[SIGNATURE PAGES FOLLOW]
+
+############################################################ PAGE END ############################################################
+
+Schedule 1
+
+Additional 2024 Refinancing Term Loan Commitment
+
+Additional 2024 Refinancing Term Loan Additional 2024 Refinancing Term Lender
+
+Commitment
+
+Bank of America, N.A. $2,651,592,333.230000000
+
+TOTAL: $2,651,592,333.230000000
+
+############################################################ PAGE END ############################################################
+
+Annex I
+
+Amended Credit Agreement
+
+[See attached.]
+
+############################################################ PAGE END ############################################################
+
+Execution Version
+
+AMENDED AND RESTATED CREDIT AGREEMENT
+
+dated as of January 30, 2024,
+
+among
+
+WAND NEWCO 2, INC., as Holdings,
+
+WAND NEWCO 3, INC., as the Borrower,
+
+The Co-Borrowers from Time to Time Parties Hereto,
+
+The Several Lenders and Letter of Credit Issuers
+
+from Time to Time Parties Hereto,
+
+BANK OF AMERICA, N.A., as Administrative Agent, Collateral Agent, Swingline Lender and a Letter of Credit Issuer,
+
+——————————————————————————————
+
+BANK OF AMERICA, N.A., GOLDMAN SACHS BANK USA,
+
+MIZUHO BANK, LTD., DEUTSCHE BANK SECURITIES INC.,
+
+TRUIST SECURITIES, INC., ROYAL BANK OF CANADA, WELLS FARGO SECURITIES, LLC,
+
+BMO CAPITAL MARKETS CORP.,
+
+JPMORGAN CHASE BANK, N.A.,
+
+JEFFERIES FINANCE LLC, SUMITOMO MITSUI BANKING CORPORATION
+
+and PNC CAPITAL MARKETS LLC, as Joint Lead Arrangers and Joint Bookrunners
+
+
+
+AMENDED AND RESTATED CREDIT AGREEMENT, dated as of January 30, 2024, among WAND NEWCO 2, INC., a corporation organized under the laws of the State of Delaware (“Holdings”; as hereinafter further defined), WAND NEWCO 3, INC., a corporation organized under the laws of the State of Delaware (the “Borrower”; as hereinafter further defined), the Co-Borrowers (as hereinafter defined) from time to time party hereto, the Lenders (as hereinafter defined) from time to time party hereto, and Letter of Credit Issuers (as hereinafter defined) from time to time party hereto, and BANK OF AMERICA, N.A. (“Bank of America”), as the Administrative Agent, Collateral Agent and Swingline Lender.
+
+RECITALS:
+
+WHEREAS, capitalized terms used and not defined in the preamble and these recitals shall have the respective meanings set forth for such terms in Section 1.1 hereof;
+
+WHEREAS, Holdings, the Borrower and the Co-Borrowers are party to (i) that certain First Lien Credit Agreement, dated as of February 5, 2019 (as amended, supplemented or modified prior to the date hereof, the “Existing First Lien Credit Agreement”), among Holdings, the Borrower, the Co-Borrowers from time to time party thereto, the lenders from time to time party thereto and Bank of America, as administrative agent, collateral agent, swingline lender and letter of credit issuer, pursuant to which the lenders and letter of credit issuers thereunder have extended or committed to extend certain credit facilities to the Borrower and the Co-Borrowers, (ii) that certain Second Lien Credit Agreement, dated as of February 5, 2019 (as amended, supplemented or modified prior to the date hereof, the “Existing Second Lien Credit Agreement” and, together with the Existing First Lien Credit Agreement, the “Existing Credit Agreements”), among Holdings, the Borrower, the Co-Borrowers from time to time party thereto, the lenders from time to time party thereto and Bank of America, as administrative agent and collateral agent, pursuant to which the lenders thereunder have extended or committed to extend certain credit facilities to the Borrower and the Co-Borrowers and (iii) that certain Indenture, dated as of May 14, 2020 (as amended, restated, supplemented or otherwise modified, refinanced or replaced from time to time, the “Existing Indenture”), among Holdings, the Borrower, as issuer, the co-issuers and guarantors party thereto and U.S. Bank National Association, as trustee and collateral agent;
+
+WHEREAS, in connection with the foregoing, the Borrower and the Co-Borrowers have requested that, immediately upon the satisfaction in full of the applicable conditions precedent set forth in Section 6 below and Section 13 of the Restatement Agreement, the Lenders and Letter of Credit Issuers amend and restate the Existing First Lien Credit Agreement to (i) refinance in full the term loan facility outstanding under the Existing First Lien Credit Agreement (the “Existing First Lien Term Loans” and, together with the existing term loans under the Existing Second Lien Credit Agreement, the “Existing Term Loans”) and extend credit to the Borrower and the Co- Borrowers in the form of (i) $2,725,000,000 in aggregate principal amount of Initial Term Loans to be borrowed on the Closing Date (the “Initial Term Loan Facility”) and (ii) provide for a new revolving credit facility in an initial aggregate principal amount of $625,000,000 of Revolving Credit Commitments (the “Revolving Credit Facility”);
+
+WHEREAS, it is intended that the Borrower will issue Senior Secured Notes under the Senior Secured Notes Indenture pursuant to Rule 144A and/or Regulation S of the Securities Act, generating aggregate gross proceeds of up to $1,250,000,000;
+
+WHEREAS, the proceeds from the borrowings of the Initial Term Loans and the proceeds from borrowings under the Revolving Credit Facility on the Closing Date, if any, together with a portion of the Borrower’s and its Subsidiaries’ cash on hand and the proceeds from the issuance and sale of the Senior Secured Notes, will be used to (i) prepay in full all outstanding Existing Term Loans (in each case, including accrued and unpaid interest, fees, expenses and other amounts related thereto, other than contingent obligations not then due and payable) outstanding under the Existing Credit Agreements on the Closing Date, (ii) prepay in full all outstanding Existing Credit Agreement Revolving Credit Loans, under and as defined in, the Existing First Lien Credit Agreement on the Closing Date (including accrued and unpaid interest, premiums, fees, expenses and other amounts related thereto, other than contingent obligations not then due and payable and for the avoidance of doubt, other than with respect to any Existing Letter of Credit, which shall be continued as Letters of Credit hereunder) outstanding under the Existing First Lien Credit Agreement on the Closing Date, (iii) redeem and repurchase, satisfy and discharge or otherwise retire all of the Existing Secured Notes (including accrued and unpaid interest, premiums (if any), fees, expenses and other amounts related thereto, other than contingent obligations not then due and payable) outstanding under the Existing Indenture on the Closing Date (clauses (i), (ii) and (iii), including the termination of the Existing First Lien Credit Agreement Revolving Credit Commitments, under and as defined in, the Existing First Lien Credit Agreement on the Closing Date, the termination, release and discharge of all Liens securing the obligations under the Existing Second Lien Credit Agreement and the Existing Indenture and the release of all guarantees of obligations under the Existing Second Lien Credit Agreement and the Existing Indenture, collectively, the “Closing Date Refinancing”), (iv) pay Transaction Expenses and (v) make the 2024 Distribution.
+
+############################################################ PAGE END ############################################################ para_combined
+
+WHEREAS, the Lenders have indicated their willingness to extend such credit and the Letter of Credit Issuers have indicated their willingness to issue Letters of Credit, in each case on the terms and subject to the conditions set forth below;
+
+WHEREAS, in connection with the foregoing and as an inducement for the Lenders and the Letter of Credit Issuers to extend the credit contemplated hereunder, the Borrower and the Co-Borrowers have agreed (jointly and severally) to secure all of its Obligations by granting to the Collateral Agent, for the benefit of the Secured Parties, a perfected lien on substantially all of their assets (except as otherwise set forth in the Credit Documents), including a pledge of all of the Capital Stock of each of their Subsidiaries (other than any Excluded Capital Stock);
+
+WHEREAS, in connection with the foregoing and as an inducement for the Lenders and the Letter of Credit Issuers to extend the credit contemplated hereunder, each Guarantor has agreed to guarantee all of its Obligations and to secure its guarantees by granting to the Collateral Agent, for the benefit of the Secured Parties, perfected lien on substantially all of its assets (except as otherwise set forth in the Credit Documents), including a pledge of all of the Capital Stock of each of their respective Subsidiaries (other than any Excluded Capital Stock); and
+
+WHEREAS, in accordance with Section 13.1 of this Agreement, upon the consummation of the Closing Date Refinancing and the concurrent incurrence of the Initial Term Loans, the Revolving Credit Facility and the Senior Secured Notes, the Borrower, Holdings, the Co-Borrowers, the Administrative Agent, the Initial Term Loan Lenders, and the Revolving Credit Lenders have agreed to amend and restate the Credit Agreement.
+
+AGREEMENT:
+
+NOW, THEREFORE, in consideration of the premises and the agreements, provisions and covenants herein contained, the parties hereto agree as follows:
+
+
+
+--------------------------------------------------
+DEFINED TERMS (FROM SAME PDF)
+--------------------------------------------------
+Term: administrative agent
+Definition:
+shall mean Bank of America or any successor to Bank of America appointed in 
+accordance with the provisions of Section 12.11, together with any Persons that are appointed as sub-agents in 
+accordance with Section 12.4, in each case, as the administrative agent for the Lenders under this Agreement and the 
+other Credit Documents.
+
+Term: administrative agent’s office
+Definition:
+shall mean the office and, as appropriate, the account of the 
+Administrative Agent set forth on Schedule 13.2 or such other office or account as the Administrative Agent may 
+hereafter designate in writing as such to the other parties hereto.
+
+Term: borrower
+Definition:
+shall have the meaning provided in the preamble to this Agreement, and shall include any 
+Successor Borrower, to the extent applicable.
+
+Term: borrower materials
+Definition:
+shall have the meaning provided in Section 13.2.
+
+Term: co-borrower
+Definition:
+shall mean each designated Subsidiary Guarantor on the Closing Date and each Subsidiary 
+Guarantor that becomes a party to this Agreement pursuant to Section 13.22.
+
+Term: lead arrangers
+Definition:
+shall mean Bank of America, N.A., Goldman Sachs Bank USA, Mizuho Bank, Ltd., 
+Deutsche Bank Securities Inc., Truist Securities, Inc., Royal Bank of Canada, Wells Fargo Securities, LLC, BMO 
+Capital Markets Corp., JPMorgan Chase Bank, N.A., Jefferies Finance LLC, Sumitomo Mitsui Banking Corporation 
+and PNC Capital Markets LLC, each in its capacity as a lead arranger. 
+****************************************
+ -66-
+
+Term: purchasing borrower party
+Definition:
+shall mean Holdings, the Borrower or any Restricted Subsidiary that becomes 
+a Transferee pursuant to Section 13.6(g).
+
+Term: sponsors
+Definition:
+shall mean, and including any successor to the foregoing, collectively, Hellman & Friedman 
+LLC, OMERS Private Equity Inc., Leonard Green & Partners, L.P. and/or their respective Affiliates and funds, 
+partnerships or other investment vehicles managed, advised or controlled by the foregoing or their respective 
+Affiliates, but excluding any operating portfolio companies of any of the foregoing or any such Affiliate.
+
+Term: successor borrower
+Definition:
+shall have the meaning provided in Section 10.3(a).
+
+Term: successor co-borrower
+Definition:
+shall have the meaning provided in Section 10.3(b).

@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ECI MACOLA/MAX HOLDING, LLC",
+      "ECI SOFTWARE SOLUTIONS, INC."
+    ],
+    "Sponsor_name": [
+      "Apax Partners, L.L.P."
+    ],
+    "MostRecentDocDate": "04/01/2024",
+    "Administrative_Agent": [
+      "BANK OF AMERICA, N.A."
+    ],
+    "Lead_Arrangers": [
+      "BofA Securities, Inc.",
+      "Barclays Bank PLC",
+      "RBC Capital Markets, LLC",
+      "Golub Capital LLC",
+      "Truist Securities, Inc."
+    ],
+    "AmendmentNumber": "2"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.00004577636719,
+          "y0": 232.6798553466797,
+          "x1": 543.0009765625,
+          "y1": 331.6437683105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ECI MACOLA/MAX HOLDING, LLC",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.47996520996094,
+          "x1": 543.0001831054688,
+          "y1": 195.4438934326172
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ECI SOFTWARE SOLUTIONS, INC.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.47996520996094,
+          "x1": 543.0001831054688,
+          "y1": 195.4438934326172
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Apax Partners, L.L.P.",
+        "page": 79,
+        "block_id": 12,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 670.683349609375,
+          "x1": 537.2453002929688,
+          "y1": 708.1046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "April 1, 2024",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.47996520996094,
+          "x1": 543.0001831054688,
+          "y1": 195.4438934326172
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "BANK OF AMERICA, N.A.",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 96.47996520996094,
+          "x1": 543.0001831054688,
+          "y1": 195.4438934326172
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "BofA Securities, Inc.",
+        "page": 60,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 482.88336181640625,
+          "x1": 537.1907958984375,
+          "y1": 520.3046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank PLC",
+        "page": 60,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 482.88336181640625,
+          "x1": 537.1907958984375,
+          "y1": 520.3046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets, LLC",
+        "page": 60,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 482.88336181640625,
+          "x1": 537.1907958984375,
+          "y1": 520.3046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Golub Capital LLC",
+        "page": 60,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 482.88336181640625,
+          "x1": 537.1907958984375,
+          "y1": 520.3046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Truist Securities, Inc.",
+        "page": 60,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 482.88336181640625,
+          "x1": 537.1907958984375,
+          "y1": 520.3046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "2",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 248.75999450683594,
+          "y0": 70.48797607421875,
+          "x1": 366.1199951171875,
+          "y1": 87.0959701538086
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

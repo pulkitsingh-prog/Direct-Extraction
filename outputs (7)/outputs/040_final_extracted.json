@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 5 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "EYECARE PARTNERS, LLC"
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "04/19/2024",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "MACQUARIE CAPITAL (USA) INC.",
+      "BARCLAYS BANK PLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "UBS SECURITIES LLC",
+      "NOMURA SECURITIES INTERNATIONAL, INC."
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 5 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.67999267578125,
+          "y0": 70.6617660522461,
+          "x1": 463.0852966308594,
+          "y1": 85.94112396240234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "EYECARE PARTNERS, LLC",
+        "page": 8,
+        "block_id": 1,
+        "bbox": {
+          "x0": 220.67999267578125,
+          "y0": 110.28335571289062,
+          "x1": 391.1100158691406,
+          "y1": 122.504638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 95,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 684.4833984375,
+          "x1": 537.245361328125,
+          "y1": 709.3046264648438
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "April 19, 2024",
+        "page": 8,
+        "block_id": 4,
+        "bbox": {
+          "x0": 204.72000122070312,
+          "y0": 221.88333129882812,
+          "x1": 407.3193054199219,
+          "y1": 234.1046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 8,
+        "block_id": 4,
+        "bbox": {
+          "x0": 204.72000122070312,
+          "y0": 221.88333129882812,
+          "x1": 407.3193054199219,
+          "y1": 234.1046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 8,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 413.88336181640625,
+          "x1": 313.9197692871094,
+          "y1": 426.1046447753906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 8,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 413.88336181640625,
+          "x1": 313.9197692871094,
+          "y1": 426.1046447753906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 8,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 413.88336181640625,
+          "x1": 313.9197692871094,
+          "y1": 426.1046447753906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 8,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 413.88336181640625,
+          "x1": 313.9197692871094,
+          "y1": 426.1046447753906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 8,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 413.88336181640625,
+          "x1": 313.9197692871094,
+          "y1": 426.1046447753906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 8,
+        "block_id": 9,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 413.88336181640625,
+          "x1": 313.9197692871094,
+          "y1": 426.1046447753906
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 151.67999267578125,
+          "y0": 70.6617660522461,
+          "x1": 463.0852966308594,
+          "y1": 85.94112396240234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

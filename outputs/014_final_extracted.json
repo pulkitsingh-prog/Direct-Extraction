@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 7 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "SERVICE LOGIC ACQUISITION, INC.",
+      "MSHC, INC."
+    ],
+    "Sponsor_name": [
+      "Leonard Green & Partners, L.P.",
+      "Green Equity Investors VIII, L.P.",
+      "Green Equity Investors Side VIII, L.P."
+    ],
+    "MostRecentDocDate": "09/20/2024",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMCB",
+      "Morgan Stanley Senior Funding, Inc.",
+      "Antares Capital LP"
+    ],
+    "AmendmentNumber": "7"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 7 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 164.63999938964844,
+          "y0": 70.61997985839844,
+          "x1": 486.29998779296875,
+          "y1": 86.78397369384766
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "SERVICE LOGIC ACQUISITION, INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.98556518554688,
+          "y0": 96.58080291748047,
+          "x1": 542.7962036132812,
+          "y1": 212.5907745361328
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MSHC, INC.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.98556518554688,
+          "y0": 96.58080291748047,
+          "x1": 542.7962036132812,
+          "y1": 212.5907745361328
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Leonard Green & Partners, L.P.",
+        "page": 103,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 571.0833740234375,
+          "x1": 539.880126953125,
+          "y1": 671.504638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Green Equity Investors VIII, L.P.",
+        "page": 103,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 571.0833740234375,
+          "x1": 539.880126953125,
+          "y1": 671.504638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Green Equity Investors Side VIII, L.P.",
+        "page": 103,
+        "block_id": 10,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 571.0833740234375,
+          "x1": 539.880126953125,
+          "y1": 671.504638671875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "September 20, 2024",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.98556518554688,
+          "y0": 96.58080291748047,
+          "x1": 542.7962036132812,
+          "y1": 212.5907745361328
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 3,
+        "bbox": {
+          "x0": 71.98556518554688,
+          "y0": 96.58080291748047,
+          "x1": 542.7962036132812,
+          "y1": 212.5907745361328
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMCB",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 71.97802734375,
+          "y0": 535.5408325195312,
+          "x1": 542.8123168945312,
+          "y1": 626.230712890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Senior Funding, Inc.",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 71.97802734375,
+          "y0": 535.5408325195312,
+          "x1": 542.8123168945312,
+          "y1": 626.230712890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Antares Capital LP",
+        "page": 2,
+        "block_id": 6,
+        "bbox": {
+          "x0": 71.97802734375,
+          "y0": 535.5408325195312,
+          "x1": 542.8123168945312,
+          "y1": 626.230712890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "7",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 164.63999938964844,
+          "y0": 70.61997985839844,
+          "x1": 486.29998779296875,
+          "y1": 86.78397369384766
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

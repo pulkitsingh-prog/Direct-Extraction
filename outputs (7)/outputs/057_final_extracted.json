@@ -1,0 +1,210 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "ADMI CORP."
+    ],
+    "Sponsor_name": [
+      "Leonard Green & Partners, L.P.",
+      "Ares Management LLC"
+    ],
+    "MostRecentDocDate": "12/20/2023",
+    "Administrative_Agent": [
+      "JPMORGAN CHASE BANK, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMorgan Chase Funding Inc.",
+      "RBC Capital Markets",
+      "BMO Capital Markets Corp.",
+      "Deutsche Bank Securities Inc.",
+      "UBS Securities LLC",
+      "KKR Capital Markets LLC"
+    ],
+    "AmendmentNumber": 10
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 142.58334350585938,
+          "x1": 363.9100036621094,
+          "y1": 154.80462646484375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "ADMI CORP.",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 270.8900146484375,
+          "y0": 380.933349609375,
+          "x1": 343.8699951171875,
+          "y1": 405.8746337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Leonard Green & Partners, L.P.",
+        "page": 95,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 235.46334838867188,
+          "x1": 542.8422241210938,
+          "y1": 323.7946472167969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares Management LLC",
+        "page": 95,
+        "block_id": 6,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 235.46334838867188,
+          "x1": 542.8422241210938,
+          "y1": 323.7946472167969
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "12/20/2023",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 412.8699951171875,
+          "y0": 79.70333862304688,
+          "x1": 542.8599853515625,
+          "y1": 91.92462158203125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 196.97000122070312,
+          "y0": 418.1533508300781,
+          "x1": 417.9100036621094,
+          "y1": 443.2146301269531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMorgan Chase Funding Inc.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 455.5933532714844,
+          "x1": 316.7300109863281,
+          "y1": 467.81463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 455.5933532714844,
+          "x1": 316.7300109863281,
+          "y1": 467.81463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO Capital Markets Corp.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 455.5933532714844,
+          "x1": 316.7300109863281,
+          "y1": 467.81463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 455.5933532714844,
+          "x1": 316.7300109863281,
+          "y1": 467.81463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 455.5933532714844,
+          "x1": 316.7300109863281,
+          "y1": 467.81463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 1,
+        "block_id": 17,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 455.5933532714844,
+          "x1": 316.7300109863281,
+          "y1": 467.81463623046875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 10,
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 293.80999755859375,
+          "y0": 54.363372802734375,
+          "x1": 542.8599853515625,
+          "y1": 79.18463134765625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 10 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "NOURYON FINANCE B.V.",
+      "NOURYON USA LLC",
+      "NOURYON SWEDEN HOLDING AB"
+    ],
+    "Sponsor_name": [
+      "Carlyle Partners VII Cayman Holdings, L.P.",
+      "CEP IV Starfruit S.à r.l.",
+      "Aurora Investment Pte Ltd.",
+      "CIEP Starfruit S.à r.l."
+    ],
+    "MostRecentDocDate": "11/04/2024",
+    "Administrative_Agent": [
+      "JPMorgan Chase Bank, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMorgan",
+      "TCG Senior Funding L.L.C.",
+      "Barclays Bank Ireland PLC",
+      "HSBC Continental Europe",
+      "Royal Bank of Canada",
+      "Goldman Sachs Bank Europe SE",
+      "ING Bank N.V.",
+      "Citibank, N.A., London Branch",
+      "Commerzbank Aktiengesellschaft",
+      "ABN AMRO Capital Markets (USA) LLC",
+      "Bank of America Europe Designated Activity Company",
+      "MUFG Bank, Ltd.",
+      "Coöperatieve Rabobank U.A.",
+      "Skandinaviska Enskilda Banken AB (Publ) Frankfurt Branch",
+      "Deutsche Bank Aktiengesellschaft",
+      "UBS Securities LLC",
+      "Nat. West Markets N.V.",
+      "Crédit Agricole Corporate and Investment Bank Deutschland, Niederlassung Einer Französischen Société Anonyme",
+      "Societe Generale, London Branch",
+      "Morgan Stanley Bank International Limited",
+      "BNP Paribas Fortis SA/NV",
+      "Mizuho Bank, LTD.",
+      "Allied Irish Banks, P.L.C."
+    ],
+    "AmendmentNumber": "10"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 10 TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 181.33999633789062,
+          "y0": 72.4768295288086,
+          "x1": 433.4649963378906,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "NOURYON FINANCE B.V.",
+        "page": 15,
+        "block_id": 4,
+        "bbox": {
+          "x0": 291.0,
+          "y0": 277.3563537597656,
+          "x1": 321.1590270996094,
+          "y1": 286.2566223144531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOURYON USA LLC",
+        "page": 15,
+        "block_id": 4,
+        "bbox": {
+          "x0": 291.0,
+          "y0": 277.3563537597656,
+          "x1": 321.1590270996094,
+          "y1": 286.2566223144531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOURYON SWEDEN HOLDING AB",
+        "page": 15,
+        "block_id": 4,
+        "bbox": {
+          "x0": 291.0,
+          "y0": 277.3563537597656,
+          "x1": 321.1590270996094,
+          "y1": 286.2566223144531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Carlyle Partners VII Cayman Holdings, L.P.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CEP IV Starfruit S.à r.l.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Aurora Investment Pte Ltd.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CIEP Starfruit S.à r.l.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "November 4, 2024",
+        "page": 15,
+        "block_id": 4,
+        "bbox": {
+          "x0": 291.0,
+          "y0": 277.3563537597656,
+          "x1": 321.1590270996094,
+          "y1": 286.2566223144531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 15,
+        "block_id": 4,
+        "bbox": {
+          "x0": 291.0,
+          "y0": 277.3563537597656,
+          "x1": 321.1590270996094,
+          "y1": 286.2566223144531
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMorgan",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TCG Senior Funding L.L.C.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Barclays Bank Ireland PLC",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "HSBC Continental Europe",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Royal Bank of Canada",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank Europe SE",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ING Bank N.V.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citibank, N.A., London Branch",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Commerzbank Aktiengesellschaft",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ABN AMRO Capital Markets (USA) LLC",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Bank of America Europe Designated Activity Company",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MUFG Bank, Ltd.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Coöperatieve Rabobank U.A.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Skandinaviska Enskilda Banken AB (Publ) Frankfurt Branch",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Aktiengesellschaft",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Nat. West Markets N.V.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Crédit Agricole Corporate and Investment Bank Deutschland, Niederlassung Einer Französischen Société Anonyme",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Societe Generale, London Branch",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Morgan Stanley Bank International Limited",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BNP Paribas Fortis SA/NV",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Mizuho Bank, LTD.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Allied Irish Banks, P.L.C.",
+        "page": 15,
+        "block_id": 14,
+        "bbox": {
+          "x0": 297.3600158691406,
+          "y0": 608.5563354492188,
+          "x1": 314.5626525878906,
+          "y1": 617.4566040039062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "10",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 181.33999633789062,
+          "y0": 72.4768295288086,
+          "x1": 433.4649963378906,
+          "y1": 84.6316909790039
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

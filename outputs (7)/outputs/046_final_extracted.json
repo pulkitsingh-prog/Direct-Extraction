@@ -1,0 +1,224 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "INCREMENTAL AMENDMENT NO. 1 TO CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "KUEHG Corp."
+    ],
+    "Sponsor_name": [
+      "Partners Group (USA) Inc."
+    ],
+    "MostRecentDocDate": "03/26/2024",
+    "Administrative_Agent": [
+      "Barclays Bank PLC"
+    ],
+    "Lead_Arrangers": [
+      "Barclays",
+      "Macquarie Capital (USA) Inc.",
+      "Goldman Sachs Bank USA",
+      "UBS Securities LLC",
+      "Deutsche Bank Securities Inc.",
+      "Jefferies Finance LLC",
+      "KKR Capital Markets LLC",
+      "Citizens Bank, N.A."
+    ],
+    "AmendmentNumber": 1
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "INCREMENTAL AMENDMENT NO. 1 TO CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 140.83999633789062,
+          "y0": 72.53682708740234,
+          "x1": 473.9049987792969,
+          "y1": 84.69168853759766
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "KUEHG Corp.",
+        "page": 8,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.8000030517578,
+          "y0": 124.68338012695312,
+          "x1": 360.9880676269531,
+          "y1": 136.9046630859375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Partners Group (USA) Inc.",
+        "page": 87,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.0,
+          "y0": 222.36331176757812,
+          "x1": 537.245361328125,
+          "y1": 259.78466796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "March 26, 2024",
+        "page": 8,
+        "block_id": 3,
+        "bbox": {
+          "x0": 250.8000030517578,
+          "y0": 124.68338012695312,
+          "x1": 360.9880676269531,
+          "y1": 136.9046630859375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "Barclays Bank PLC",
+        "page": 8,
+        "block_id": 5,
+        "bbox": {
+          "x0": 274.9200134277344,
+          "y0": 198.48336791992188,
+          "x1": 337.2086181640625,
+          "y1": 210.70465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "Barclays",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Macquarie Capital (USA) Inc.",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Goldman Sachs Bank USA",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Deutsche Bank Securities Inc.",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR Capital Markets LLC",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Citizens Bank, N.A.",
+        "page": 8,
+        "block_id": 10,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 401.8834228515625,
+          "x1": 313.9197692871094,
+          "y1": 414.1047058105469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 1,
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 140.83999633789062,
+          "y0": 72.53682708740234,
+          "x1": 473.9049987792969,
+          "y1": 84.69168853759766
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

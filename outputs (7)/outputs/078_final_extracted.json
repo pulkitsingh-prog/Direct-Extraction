@@ -1,0 +1,308 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "MIRASOL MERGER SUB, INC.",
+      "REALPAGE, INC."
+    ],
+    "Sponsor_name": [
+      "Thoma Bravo, L.P."
+    ],
+    "MostRecentDocDate": "04/22/2021",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "UBS SECURITIES LLC",
+      "APOLLO GLOBAL FUNDING, LLC",
+      "BMO CAPITAL MARKETS CORP",
+      "BARCLAYS BANK PLC",
+      "DEUTSCHE BANK SECURITIES INC.",
+      "JEFFERIES FINANCE LLC",
+      "KKR CAPITAL MARKETS LLC",
+      "NOMURA SECURITIES INTERNATIONAL, INC.",
+      "RBC CAPITAL MARKETS LLC",
+      "TRUIST SECURITIES, INC.",
+      "WELLS FARGO SECURITIES, LLC",
+      "SPC FINANCING COMPANY LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 118.1970443725586,
+          "x1": 399.9853210449219,
+          "y1": 168.23208618164062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "MIRASOL MERGER SUB, INC.",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 194.05722045898438,
+          "x1": 489.730224609375,
+          "y1": 231.53219604492188
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "REALPAGE, INC.",
+        "page": 1,
+        "block_id": 7,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 232.03732299804688,
+          "x1": 474.0256042480469,
+          "y1": 307.3722839355469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Thoma Bravo, L.P.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 383.7776184082031,
+          "x1": 319.46588134765625,
+          "y1": 408.59246826171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "April 22, 2021",
+        "page": 1,
+        "block_id": 4,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 118.1970443725586,
+          "x1": 399.9853210449219,
+          "y1": 168.23208618164062
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 307.87744140625,
+          "x1": 443.5900573730469,
+          "y1": 345.3523864746094
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "APOLLO GLOBAL FUNDING, LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "DEUTSCHE BANK SECURITIES INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "NOMURA SECURITIES INTERNATIONAL, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TRUIST SECURITIES, INC.",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SPC FINANCING COMPANY LLC",
+        "page": 1,
+        "block_id": 11,
+        "bbox": {
+          "x0": 78.0000991821289,
+          "y0": 409.0576171875,
+          "x1": 435.62408447265625,
+          "y1": 610.992919921875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

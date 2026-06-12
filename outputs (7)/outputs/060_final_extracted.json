@@ -1,0 +1,252 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "CHG HEALTHCARE SERVICES, INC.",
+      "CHG COMPANIES, INC.",
+      "CHG MEDICAL STAFFING, INC.",
+      "WEATHERBY LOCUMS, INC."
+    ],
+    "Sponsor_name": [
+      "Leonard Green & Partners, L.P.",
+      "Ares Management LLC",
+      "Viggo Investment Pte. Ltd."
+    ],
+    "MostRecentDocDate": "10/02/2023",
+    "Administrative_Agent": [
+      "GOLDMAN SACHS BANK USA"
+    ],
+    "Lead_Arrangers": [
+      "GOLDMAN SACHS BANK USA",
+      "JPMORGAN CHASE BANK, N.A.",
+      "BARCLAYS BANK PLC",
+      "BMO CAPITAL MARKETS CORP.",
+      "CITIBANK, N.A."
+    ],
+    "AmendmentNumber": "3"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "AMENDMENT NO. 3 TO FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "CHG HEALTHCARE SERVICES, INC.",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CHG COMPANIES, INC.",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CHG MEDICAL STAFFING, INC.",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WEATHERBY LOCUMS, INC.",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Leonard Green & Partners, L.P.",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 488.2834167480469,
+          "x1": 313.9197692871094,
+          "y1": 500.50469970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Ares Management LLC",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 488.2834167480469,
+          "x1": 313.9197692871094,
+          "y1": 500.50469970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Viggo Investment Pte. Ltd.",
+        "page": 10,
+        "block_id": 13,
+        "bbox": {
+          "x0": 297.96002197265625,
+          "y0": 488.2834167480469,
+          "x1": 313.9197692871094,
+          "y1": 500.50469970703125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "October 2, 2023",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 10,
+        "block_id": 15,
+        "bbox": {
+          "x0": 85.32002258300781,
+          "y0": 562.0833740234375,
+          "x1": 526.5571899414062,
+          "y1": 599.5047607421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JPMORGAN CHASE BANK, N.A.",
+        "page": 10,
+        "block_id": 15,
+        "bbox": {
+          "x0": 85.32002258300781,
+          "y0": 562.0833740234375,
+          "x1": 526.5571899414062,
+          "y1": 599.5047607421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 10,
+        "block_id": 15,
+        "bbox": {
+          "x0": 85.32002258300781,
+          "y0": 562.0833740234375,
+          "x1": 526.5571899414062,
+          "y1": 599.5047607421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BMO CAPITAL MARKETS CORP.",
+        "page": 10,
+        "block_id": 15,
+        "bbox": {
+          "x0": 85.32002258300781,
+          "y0": 562.0833740234375,
+          "x1": 526.5571899414062,
+          "y1": 599.5047607421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "CITIBANK, N.A.",
+        "page": 10,
+        "block_id": 15,
+        "bbox": {
+          "x0": 85.32002258300781,
+          "y0": 562.0833740234375,
+          "x1": 526.5571899414062,
+          "y1": 599.5047607421875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": "3",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 151.68002319335938,
+          "y0": 70.66463470458984,
+          "x1": 463.0853271484375,
+          "y1": 85.9439926147461
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

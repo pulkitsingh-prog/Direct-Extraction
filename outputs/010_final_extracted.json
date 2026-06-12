@@ -1,0 +1,224 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "FIRST LIEN CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "Javelin Buyer, Inc."
+    ],
+    "Sponsor_name": [
+      "Vista Equity Partners Management, LLC"
+    ],
+    "MostRecentDocDate": "10/08/2024",
+    "Administrative_Agent": [
+      "UBS AG, STAMFORD BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "UBS SECURITIES LLC",
+      "ANTARES CAPITAL LP",
+      "GOLUB CAPITAL LLC",
+      "JEFFERIES FINANCE LLC",
+      "KKR CAPITAL MARKETS LLC",
+      "MACQUARIE CAPITAL (USA) INC.",
+      "MIZUHO BANK, LTD.",
+      "TD SECURITIES (USA) LLC",
+      "WELLS FARGO SECURITIES, LLC"
+    ],
+    "AmendmentNumber": "NOT SPECIFIED"
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "FIRST LIEN CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 2,
+        "bbox": {
+          "x0": 204.41000366210938,
+          "y0": 87.00801086425781,
+          "x1": 410.5899963378906,
+          "y1": 114.09200286865234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "Javelin Buyer, Inc.",
+        "page": 8,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 98.19197845458984,
+          "x1": 543.135986328125,
+          "y1": 249.6020050048828
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "Vista Equity Partners Management, LLC",
+        "page": 100,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.48799133300781,
+          "x1": 542.9779663085938,
+          "y1": 99.57198333740234
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "10/8/2024",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 400.3900146484375,
+          "y0": 36.46797180175781,
+          "x1": 543.0999755859375,
+          "y1": 49.75197219848633
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "UBS AG, STAMFORD BRANCH",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 186.97999572753906,
+          "y0": 321.63800048828125,
+          "x1": 428.1099853515625,
+          "y1": 362.5220031738281
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "UBS SECURITIES LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "ANTARES CAPITAL LP",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLUB CAPITAL LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "TD SECURITIES (USA) LLC",
+        "page": 1,
+        "block_id": 14,
+        "bbox": {
+          "x0": 91.46399688720703,
+          "y0": 390.63800048828125,
+          "x1": 523.3919677734375,
+          "y1": 445.3420104980469
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "WELLS FARGO SECURITIES, LLC",
+        "page": 1,
+        "block_id": 15,
+        "bbox": {
+          "x0": 182.66000366210938,
+          "y0": 445.8580017089844,
+          "x1": 432.42999267578125,
+          "y1": 472.9420166015625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": []
+  }
+}

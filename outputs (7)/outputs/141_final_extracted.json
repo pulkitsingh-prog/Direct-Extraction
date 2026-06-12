@@ -1,0 +1,196 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AND GUARANTY AGREEMENT",
+    "LegalIssuer": [
+      "The Knot Worldwide Inc."
+    ],
+    "Sponsor_name": [
+      "funds advised by Permira Advisers LLC",
+      "their respective Affiliates"
+    ],
+    "MostRecentDocDate": "NOT SPECIFIED",
+    "Administrative_Agent": [
+      "JPMorgan Chase Bank, N.A."
+    ],
+    "Lead_Arrangers": [
+      "JPMorgan Chase Bank, N.A.",
+      "Jefferies Finance LLC",
+      "RBC Capital Markets",
+      "UBS Securities LLC",
+      "Key. Banc Capital Markets Inc.",
+      "SG Americas Securities, LLC"
+    ],
+    "AmendmentNumber": 3
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AND GUARANTY AGREEMENT",
+        "page": 1,
+        "block_id": 6,
+        "bbox": {
+          "x0": 200.80999755859375,
+          "y0": 179.06338500976562,
+          "x1": 414.07000732421875,
+          "y1": 191.28466796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "The Knot Worldwide Inc.",
+        "page": 1,
+        "block_id": 8,
+        "bbox": {
+          "x0": 215.80999755859375,
+          "y0": 228.26333618164062,
+          "x1": 399.07000732421875,
+          "y1": 253.1146240234375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "funds advised by Permira Advisers LLC",
+        "page": 86,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 296.8133544921875,
+          "x1": 542.5036010742188,
+          "y1": 321.8746337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "their respective Affiliates",
+        "page": 86,
+        "block_id": 9,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 296.8133544921875,
+          "x1": 542.5036010742188,
+          "y1": 321.8746337890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [],
+    "Administrative_Agent": [
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 7,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 72.38333129882812,
+          "x1": 542.81494140625,
+          "y1": 173.28466796875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "JPMorgan Chase Bank, N.A.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 328.25335693359375,
+          "x1": 316.7300109863281,
+          "y1": 340.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Jefferies Finance LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 328.25335693359375,
+          "x1": 316.7300109863281,
+          "y1": 340.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "RBC Capital Markets",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 328.25335693359375,
+          "x1": 316.7300109863281,
+          "y1": 340.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "UBS Securities LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 328.25335693359375,
+          "x1": 316.7300109863281,
+          "y1": 340.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "Key. Banc Capital Markets Inc.",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 328.25335693359375,
+          "x1": 316.7300109863281,
+          "y1": 340.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "SG Americas Securities, LLC",
+        "page": 1,
+        "block_id": 12,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 328.25335693359375,
+          "x1": 316.7300109863281,
+          "y1": 340.4746398925781
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 3,
+        "page": 1,
+        "block_id": 16,
+        "bbox": {
+          "x0": 143.4199981689453,
+          "y0": 434.1133728027344,
+          "x1": 471.46002197265625,
+          "y1": 446.33465576171875
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}

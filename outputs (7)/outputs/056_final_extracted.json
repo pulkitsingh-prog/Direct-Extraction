@@ -1,0 +1,224 @@
+{
+  "extracted_values": {
+    "Source_Document_Title": "CREDIT AGREEMENT",
+    "LegalIssuer": [
+      "BANFF MERGER SUB INC.",
+      "BOXER PARENT COMPANY INC."
+    ],
+    "Sponsor_name": [
+      "KKR"
+    ],
+    "MostRecentDocDate": "11/28/23",
+    "Administrative_Agent": [
+      "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH"
+    ],
+    "Lead_Arrangers": [
+      "CREDIT SUISSE LOAN FUNDING LLC",
+      "GOLDMAN SACHS BANK USA",
+      "JEFFERIES FINANCE LLC",
+      "KKR CAPITAL MARKETS LLC",
+      "MACQUARIE CAPITAL (USA) INC.",
+      "MIZUHO BANK, LTD.",
+      "BARCLAYS BANK PLC"
+    ],
+    "AmendmentNumber": 5
+  },
+  "metadata_mapping": {
+    "Source_Document_Title": [
+      {
+        "value": "CREDIT AGREEMENT",
+        "page": 1,
+        "block_id": 1,
+        "bbox": {
+          "x0": 250.85000610351562,
+          "y0": 145.10336303710938,
+          "x1": 363.9100036621094,
+          "y1": 157.32464599609375
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "LegalIssuer": [
+      {
+        "value": "BANFF MERGER SUB INC.",
+        "page": 1,
+        "block_id": 9,
+        "bbox": {
+          "x0": 103.45999908447266,
+          "y0": 295.49334716796875,
+          "x1": 511.4200134277344,
+          "y1": 333.0346374511719
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BOXER PARENT COMPANY INC.",
+        "page": 1,
+        "block_id": 10,
+        "bbox": {
+          "x0": 84.6240005493164,
+          "y0": 333.5333557128906,
+          "x1": 530.1400146484375,
+          "y1": 370.95465087890625
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Sponsor_name": [
+      {
+        "value": "KKR",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "MostRecentDocDate": [
+      {
+        "value": "11/28/23",
+        "page": 1,
+        "block_id": 0,
+        "bbox": {
+          "x0": 425.7099914550781,
+          "y0": 36.483367919921875,
+          "x1": 542.8599853515625,
+          "y1": 48.704647064208984
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Administrative_Agent": [
+      {
+        "value": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
+        "page": 8,
+        "block_id": 3,
+        "bbox": {
+          "x0": 72.02400207519531,
+          "y0": 96.98336791992188,
+          "x1": 542.8330688476562,
+          "y1": 210.6046142578125
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "Lead_Arrangers": [
+      {
+        "value": "CREDIT SUISSE LOAN FUNDING LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "GOLDMAN SACHS BANK USA",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "JEFFERIES FINANCE LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "KKR CAPITAL MARKETS LLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MACQUARIE CAPITAL (USA) INC.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "MIZUHO BANK, LTD.",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      },
+      {
+        "value": "BARCLAYS BANK PLC",
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ],
+    "AmendmentNumber": [
+      {
+        "value": 5,
+        "page": 1,
+        "block_id": 13,
+        "bbox": {
+          "x0": 298.1300048828125,
+          "y0": 459.433349609375,
+          "x1": 316.7300109863281,
+          "y1": 471.6546325683594
+        },
+        "page_width": 612.0,
+        "page_height": 792.0
+      }
+    ]
+  }
+}
